@@ -1,0 +1,16 @@
+{
+ "seed": true,
+ "updated": "2026-11-10T12:00:00Z",
+ "count": 8,
+ "sources": ["Aviation Week", "Business Travel News", "EUROCONTROL", "eTurboNews", "Travel Tomorrow", "Upgraded Points"],
+ "items": [
+  {"id": "seed01", "title": "Routes & Networks Latest: Rolling Daily Updates (week commencing Nov 9, 2026)", "summary": "", "url": "https://aviationweek.com/air-transport/airports-networks/routes-networks-latest-rolling-daily-updates-wc-nov-9-2026", "source": "Aviation Week", "lang": "en", "category": "Routes", "published": "2026-11-10T09:00:00Z"},
+  {"id": "seed02", "title": "50 New Routes Launching In November 2026", "summary": "", "url": "https://aviationweek.com/air-transport/airports-networks/50-new-routes-launching-november-2026", "source": "Aviation Week", "lang": "en", "category": "Routes", "published": "2026-11-09T08:00:00Z"},
+  {"id": "seed03", "title": "Global Aviation News Nov 1–7: Airlines, Airports and New Routes", "summary": "", "url": "https://eturbonews.com/global-aviation-news-november-1-7-2026/", "source": "eTurboNews", "lang": "en", "category": "Industry", "published": "2026-11-08T10:00:00Z"},
+  {"id": "seed04", "title": "CLEAR E-Gates, Seaplane Redemptions, and More Airline News", "summary": "", "url": "https://upgradedpoints.com/news/airline-news-roundup-november-week-1-2026/", "source": "Upgraded Points", "lang": "en", "category": "Airlines", "published": "2026-11-07T15:00:00Z"},
+  {"id": "seed05", "title": "November 2026 Airline Route Updates", "summary": "", "url": "https://www.businesstravelnews.com/Transportation/Air/new-airline-routes-november-2026-updates", "source": "Business Travel News", "lang": "en", "category": "Routes", "published": "2026-11-06T12:00:00Z"},
+  {"id": "seed06", "title": "EUROCONTROL European Aviation Overview — 29 October 2026", "summary": "", "url": "https://www.eurocontrol.int/sites/default/files/2026-10/eurocontrol-european-aviation-overview-20261029.pdf", "source": "EUROCONTROL", "lang": "en", "category": "ATM & Airspace", "published": "2026-10-29T12:00:00Z"},
+  {"id": "seed07", "title": "Eurocontrol Reports Significant Improvement In Flight Punctuality", "summary": "", "url": "https://aviationweek.com/air-transport/airports-networks/eurocontrol-reports-significant-improvement-flight-punctuality", "source": "Aviation Week", "lang": "en", "category": "ATM & Airspace", "published": "2026-10-28T12:00:00Z"},
+  {"id": "seed08", "title": "Europe records busiest ever summer for air traffic despite Middle East war", "summary": "", "url": "https://traveltomorrow.com/europe-records-busiest-ever-summer-for-air-traffic-despite-middle-east-war/", "source": "Travel Tomorrow", "lang": "en", "category": "ATM & Airspace", "published": "2026-10-27T12:00:00Z"}
+ ]
+}

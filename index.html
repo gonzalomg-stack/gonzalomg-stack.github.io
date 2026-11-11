@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="claude:viewport-fit-sides" content="cover">
+<title>DataPilot</title>
+<meta name="description" content="DataPilot — aviation analytics by Gonzalo Muñoz García. A daily aviation industry briefing and interactive dashboards built on EUROCONTROL and AENA data.">
+<meta property="og:title" content="DataPilot — Aviation analytics">
+<meta property="og:description" content="Daily aviation briefing and interactive dashboards on European air traffic data.">
+<meta property="og:type" content="website">
+<link rel="icon" type="image/png" href="assets/logo-mark.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Montserrat:wght@600;700&family=Space+Grotesk:wght@500;600;700&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<!-- ─── Status strip ───────────────────────────────────────────── -->
+<div class="strip" role="status">
+  <div class="wrap strip-inner">
+    <span><b>UTC</b> <span id="utc-clock">--:--Z</span></span>
+    <span class="strip-sep" aria-hidden="true">/</span>
+    <span>Briefing updated <span id="strip-updated">—</span></span>
+    <span class="strip-sep hide-sm" aria-hidden="true">/</span>
+    <span class="hide-sm"><span id="strip-count">0</span> stories · <span id="strip-sources">0</span> sources</span>
+    <span class="strip-right hide-sm">LEMD · Madrid</span>
+  </div>
+</div>
+
+<!-- ─── Header ─────────────────────────────────────────────────── -->
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="#top" aria-label="DataPilot home">
+      <img class="brand-mark mark-on-light" src="assets/logo-mark.png" alt="" width="62" height="30">
+      <img class="brand-mark mark-on-dark" src="assets/logo-mark-light.png" alt="" width="62" height="30">
+      <span class="brand-word"><span class="w1">DATA</span><span class="w2">PILOT</span></span>
+    </a>
+    <nav class="nav" aria-label="Main">
+      <a href="#briefing">Briefing</a>
+      <a href="#dashboards">Dashboards</a>
+      <a href="#about">About</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+
+  <!-- ─── Hero ───────────────────────────────────────────────────── -->
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div class="hero-copy">
+        <p class="eyebrow">Aviation analytics · Industry briefing</p>
+        <h1>Aviation data,<br>made legible.</h1>
+        <p class="lede">A daily briefing on the airline, airport and airspace industry, alongside interactive dashboards built on EUROCONTROL and AENA open data.</p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="#briefing">Read today’s briefing</a>
+          <a class="btn btn-ghost" href="#dashboards">Explore dashboards</a>
+        </div>
+      </div>
+
+      <!-- Featured analysis, styled after a flight progress strip -->
+      <a class="fstrip" href="#dashboards" aria-label="Open the ATFM delay dashboard">
+        <div class="fstrip-head">
+          <span>EUROCONTROL</span><span>ATFM · EN-ROUTE</span><span>ANSP</span><span class="live">LIVE</span>
+        </div>
+        <div class="fstrip-body">
+          <p class="fstrip-kicker">Featured analysis</p>
+          <h2 class="fstrip-title">En-route ATFM delays across Europe, 2011–2026</h2>
+          <figure class="spark" aria-label="Annual ATFM delay minutes, 2011 to 2026: low through 2017, a 2018–19 peak, collapse in 2020–21, record high in 2024.">
+            <svg viewBox="0 0 320 96" preserveAspectRatio="none" id="spark-svg"></svg>
+            <figcaption class="spark-axis"><span>2011</span><span>2020</span><span>2026</span></figcaption>
+          </figure>
+          <dl class="kpis">
+            <div><dt>Flights</dt><dd>470<small>M</small></dd></div>
+            <div><dt>Avg delay / flight</dt><dd>3.83<small>min</small></dd></div>
+            <div><dt>ANSPs</dt><dd>45</dd></div>
+          </dl>
+        </div>
+        <div class="fstrip-foot"><span>Power BI · monthly data</span><span class="arrow">Open dashboard →</span></div>
+      </a>
+    </div>
+  </section>
+
+  <!-- ─── Daily briefing ─────────────────────────────────────────── -->
+  <section class="section" id="briefing">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Daily briefing</p>
+          <h2 class="section-title" id="briefing-date">Aviation news</h2>
+        </div>
+        <p class="section-note">Collected automatically twice a day from industry publishers and filed by topic. Every headline links to the original article.</p>
+      </div>
+
+      <div class="toolbar">
+        <div class="chips" id="chips" role="tablist" aria-label="Filter by topic"></div>
+        <label class="search">
+          <span class="visually-hidden">Search headlines</span>
+          <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="M13 13l4 4"/></svg>
+          <input id="search" type="search" placeholder="Search headlines" autocomplete="off">
+        </label>
+      </div>
+
+      <div class="news" id="news" aria-live="polite">
+        <p class="news-empty">Loading briefing…</p>
+      </div>
+      <div class="more-row"><button class="btn btn-ghost" id="more" hidden>Show more stories</button></div>
+    </div>
+  </section>
+
+  <!-- ─── Dashboards ─────────────────────────────────────────────── -->
+  <section class="section section-alt" id="dashboards">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Dashboards</p>
+          <h2 class="section-title">Interactive analysis</h2>
+        </div>
+        <p class="section-note">Built in Power BI on public operational datasets. Use the filters inside each report to drill down by year, country and air navigation service provider.</p>
+      </div>
+
+      <article class="dash-feature">
+        <header class="dash-feature-head">
+          <div>
+            <p class="dash-meta"><span class="status status-live">Live</span> EUROCONTROL Aviation Intelligence Portal · 2011–2026 · Monthly</p>
+            <h3>ATFM Delays — European en-route network</h3>
+            <p class="dash-desc">Air traffic flow management delay attributed to each ANSP: how it evolved year by year, which providers generate most of it, and where it concentrates geographically. France’s DSNA records the largest share of total delay minutes in the period.</p>
+          </div>
+          <a class="btn btn-ghost btn-sm" id="dash-open" href="#" target="_blank" rel="noopener" hidden>Full screen ↗</a>
+        </header>
+        <div class="embed" id="embed-atfm"></div>
+      </article>
+
+      <h3 class="pipeline-title">In the pipeline</h3>
+      <ol class="pipeline">
+        <li>
+          <span class="status status-dev">In development</span>
+          <h4>CO₂ Emissions</h4>
+          <p>Gate-to-gate CO₂ by state and market segment, and how emissions track the traffic recovery.</p>
+          <span class="src">EUROCONTROL</span>
+        </li>
+        <li>
+          <span class="status status-plan">Planned</span>
+          <h4>Traffic Recovery</h4>
+          <p>Daily IFR movements against the 2019 baseline, by country, from the 2020 collapse to today.</p>
+          <span class="src">EUROCONTROL</span>
+        </li>
+        <li>
+          <span class="status status-plan">Planned</span>
+          <h4>Spanish Airports</h4>
+          <p>Passengers, operations and seasonality across the Aena network, from Madrid-Barajas to regional airports.</p>
+          <span class="src">AENA</span>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- ─── About ──────────────────────────────────────────────────── -->
+  <section class="section" id="about">
+    <div class="wrap about-grid">
+      <div class="about-copy">
+        <p class="eyebrow">About</p>
+        <h2 class="section-title">Gonzalo Muñoz García</h2>
+        <p>Business Analytics &amp; Business Administration graduate, currently completing ATPL(A) commercial pilot training. With professional experience across financial controlling, insurance analytics and business intelligence, I have developed strong expertise in Power BI, Python, SQL and Excel — translating complex datasets into structured, actionable insights.</p>
+        <p>The aviation industry generates vast amounts of operational data — delay patterns, traffic flows, emissions, airspace performance — yet this data rarely reaches decision-makers in a clear, meaningful format. My goal is to bridge that gap, combining an analytical background with a deep understanding of aviation operations.</p>
+        <p>DataPilot brings both disciplines together: a portfolio of aviation analytics projects, industry news and data-driven insights at the intersection of data science and aerospace.</p>
+      </div>
+
+      <aside class="facts" aria-label="Profile summary">
+        <dl>
+          <div><dt>Based in</dt><dd>Madrid, Spain</dd></div>
+          <div><dt>Flight training</dt><dd>ATPL(A) — in progress</dd></div>
+          <div><dt>Education</dt><dd>Business Analytics &amp; Business Administration</dd></div>
+          <div><dt>Toolkit</dt><dd class="tags"><span>Power BI</span><span>DAX</span><span>Python</span><span>SQL</span><span>Excel</span></dd></div>
+          <div><dt>Data sources</dt><dd class="tags"><span>EUROCONTROL</span><span>AENA</span></dd></div>
+        </dl>
+        <div class="facts-links">
+          <a class="btn btn-primary btn-sm" href="https://www.linkedin.com/in/gonzalo-mu%C3%B1oz-garc%C3%ADa/" target="_blank" rel="noopener">LinkedIn ↗</a>
+          <a class="btn btn-ghost btn-sm" href="https://github.com/gonzalomg-stack" target="_blank" rel="noopener">GitHub ↗</a>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <div>
+      <span class="brand-word small"><span class="w1">DATA</span><span class="w2">PILOT</span></span>
+      <p>Aviation analytics by Gonzalo Muñoz García.</p>
+    </div>
+    <p class="footer-legal">Headlines and excerpts belong to their publishers and link to the original articles. Sources in the current briefing: <span id="footer-sources">—</span>. Dashboard data: EUROCONTROL Aviation Intelligence Portal.</p>
+  </div>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
