@@ -28,23 +28,38 @@ OUT_FILE = Path(__file__).resolve().parent / "news.json"
 
 # ── Sources ────────────────────────────────────────────────────────────────
 # Add or remove feeds here. A feed that fails is skipped, never fatal.
+#   max       newest N items taken from that feed per run
+#   google    True for Google News searches: the publisher becomes the source
+#             and the title suffix " - Publisher" is removed
+def gnews(query: str, lang: str = "en", region: str = "GB") -> str:
+    from urllib.parse import quote
+    return (f"https://news.google.com/rss/search?q={quote(query + ' when:2d')}"
+            f"&hl={lang}-{region}&gl={region}&ceid={region}:{lang}")
+
 FEEDS = [
-    {"source": "Simple Flying",      "url": "https://simpleflying.com/feed/",                     "lang": "en"},
-    {"source": "AeroTime",           "url": "https://www.aerotime.aero/feed",                     "lang": "en"},
-    {"source": "Airways Magazine",   "url": "https://airwaysmag.com/feed",                        "lang": "en"},
-    {"source": "The Aviation Herald","url": "https://avherald.com/h?subscribe=rss",               "lang": "en"},
-    {"source": "Int. Airport Review","url": "https://www.internationalairportreview.com/feed/",    "lang": "en"},
-    {"source": "AeroRoutes",         "url": "https://www.aeroroutes.com/eng?format=rss",          "lang": "en"},
-    {"source": "Aviacionline",       "url": "https://www.aviacionline.com/feed/",                 "lang": "es"},
-    {"source": "Aviación Digital",   "url": "https://aviaciondigital.com/feed/",                  "lang": "es"},
+    # Direct publisher feeds
+    {"source": "AeroTime",       "url": "https://www.aerotime.aero/feed",            "lang": "en", "max": 15},
+    {"source": "Simple Flying",  "url": "https://simpleflying.com/feed/",            "lang": "en", "max": 10},
+    {"source": "AeroRoutes",     "url": "https://www.aeroroutes.com/eng?format=rss", "lang": "en", "max": 6},
+    {"source": "Aviacionline",   "url": "https://www.aviacionline.com/feed/",        "lang": "es", "max": 8},
+    {"source": "Int. Airport Review", "url": "https://www.internationalairportreview.com/feed/", "lang": "en", "max": 8},
+
+    # Google News topic searches (fill the gaps the direct feeds leave)
+    {"url": gnews('EUROCONTROL OR "air traffic control" OR airspace Europe'), "lang": "en", "max": 10, "google": True},
+    {"url": gnews('EASA OR ICAO OR "aviation regulator"'),                   "lang": "en", "max": 8,  "google": True},
+    {"url": gnews('aviation incident OR "emergency landing" OR NTSB OR BEA'), "lang": "en", "max": 8,  "google": True},
+    {"url": gnews('"sustainable aviation fuel" OR SAF airline emissions'),    "lang": "en", "max": 6,  "google": True},
+    {"url": gnews('Airbus OR Boeing deliveries OR orders'),                  "lang": "en", "max": 8,  "google": True},
+    {"url": gnews('Aena aeropuerto OR aerolínea OR Iberia OR Vueling OR Enaire', "es", "ES"), "lang": "es", "max": 10, "google": True},
 ]
 
-MAX_PER_FEED = 15          # newest N items taken from each feed per run
+MAX_PER_FEED = 15          # default when a feed sets no "max"
 KEEP_DAYS = 14             # archive window
-MAX_ITEMS = 200            # hard cap on the archive
+MAX_ITEMS = 250            # hard cap on the archive
 SUMMARY_CHARS = 280
-TIMEOUT = 20
-UA = "Mozilla/5.0 (compatible; DataPilotNewsBot/1.0; +https://gonzalomg-stack.github.io)"
+TIMEOUT = 15
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 
 # ── Classification ─────────────────────────────────────────────────────────
 # First matching category wins, so order matters (most specific first).
@@ -168,17 +183,19 @@ def fetch(url: str) -> bytes:
 def parse_feed(data: bytes, feed: dict) -> list[dict]:
     root = ET.fromstring(data)
     items = []
+    limit = feed.get("max", MAX_PER_FEED)
 
     rss_items = root.findall(".//item")
     if rss_items:
-        for it in rss_items[:MAX_PER_FEED]:
+        for it in rss_items[:limit]:
             title = clean_text(it.findtext("title"))
             link = (it.findtext("link") or "").strip()
             desc = it.findtext("description") or it.findtext("content:encoded", namespaces=NS)
             date = parse_date(it.findtext("pubDate") or it.findtext("dc:date", namespaces=NS))
-            items.append((title, link, desc, date))
+            publisher = clean_text(it.findtext("source"))
+            items.append((title, link, desc, date, publisher))
     else:  # Atom
-        for it in root.findall("atom:entry", NS)[:MAX_PER_FEED]:
+        for it in root.findall("atom:entry", NS)[:limit]:
             title = clean_text(it.findtext("atom:title", namespaces=NS))
             link_el = it.find("atom:link[@rel='alternate']", NS)
             if link_el is None:  # Elements without children are falsy, so no `or`
@@ -186,26 +203,42 @@ def parse_feed(data: bytes, feed: dict) -> list[dict]:
             link = link_el.get("href", "").strip() if link_el is not None else ""
             desc = it.findtext("atom:summary", namespaces=NS) or it.findtext("atom:content", namespaces=NS)
             date = parse_date(it.findtext("atom:published", namespaces=NS) or it.findtext("atom:updated", namespaces=NS))
-            items.append((title, link, desc, date))
+            items.append((title, link, desc, date, ""))
 
     out = []
-    for title, link, desc, date in items:
+    for title, link, desc, date, publisher in items:
         if not title or not link.startswith("http"):
             continue
-        summary = truncate(clean_text(desc))
-        if summary.lower().startswith(title.lower()[:40]):
-            summary = truncate(summary[len(title):].lstrip(" :.-—"))
+        source = feed.get("source", "")
+        if feed.get("google"):
+            # Google News: "Headline - Publisher"; its description only repeats the headline.
+            source = publisher or (title.rsplit(" - ", 1)[1] if " - " in title else "Google News")
+            if title.endswith(" - " + source):
+                title = title[: -len(" - " + source)].strip()
+            summary = ""
+        else:
+            summary = truncate(clean_text(desc))
+            if summary.lower().startswith(title.lower()[:40]):
+                summary = truncate(summary[len(title):].lstrip(" :.-—"))
         out.append({
             "id": sha1(link.encode()).hexdigest()[:12],
             "title": title,
             "summary": summary,
             "url": link,
-            "source": feed["source"],
+            "source": source,
             "lang": feed["lang"],
-            "category": classify(title, summary, feed["source"]),
+            "category": classify(title, summary, source),
             "published": (date or datetime.now(timezone.utc)).strftime("%Y-%m-%dT%H:%M:%SZ"),
         })
     return out
+
+
+def label(feed: dict) -> str:
+    if feed.get("google"):
+        from urllib.parse import urlparse, parse_qs, unquote
+        q = parse_qs(urlparse(feed["url"]).query).get("q", [""])[0]
+        return "Google News: " + unquote(q).replace(" when:2d", "")[:26]
+    return feed["source"]
 
 
 def normalise_title(t: str) -> str:
@@ -229,9 +262,9 @@ def main() -> int:
         try:
             got = parse_feed(fetch(feed["url"]), feed)
             fresh.extend(got)
-            report.append(f"  ok   {feed['source']:<22} {len(got):>3} items")
+            report.append(f"  ok   {label(feed):<40} {len(got):>3} items")
         except Exception as exc:  # noqa: BLE001 — one bad feed must never break the run
-            report.append(f"  FAIL {feed['source']:<22} {type(exc).__name__}: {exc}"[:140])
+            report.append(f"  FAIL {label(feed):<40} {type(exc).__name__}: {exc}"[:160])
 
     # Merge: fresh items win, dedupe by URL hash and by near-identical title.
     merged, seen_ids, seen_titles = [], set(), set()
