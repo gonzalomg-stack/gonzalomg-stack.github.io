@@ -5,7 +5,7 @@ const CONFIG = {
   // Power BI → File → Embed report → Publish to web (public) → copy the *link*
   // (https://app.powerbi.com/view?r=...). Leave empty to show a placeholder.
   powerbiAtfmUrl: "",
-  newsFile: "data/news.json",
+  newsFile: "news.json",
   pageSize: 13,           // lead story + 12
 };
 
@@ -64,7 +64,7 @@ setInterval(tickClock, 15000);
     open.hidden = false;
   } else {
     box.innerHTML = `<div class="embed-empty"><strong>Interactive report loading soon</strong>
-      <span>The Power BI report will appear here once its public link is added to <code>assets/app.js</code>.</span></div>`;
+      <span>The Power BI report will appear here once its public link is added to <code>app.js</code>.</span></div>`;
   }
 })();
 

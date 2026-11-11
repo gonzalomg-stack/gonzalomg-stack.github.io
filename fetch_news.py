@@ -3,10 +3,10 @@
 DataPilot — daily aviation news aggregator.
 
 Reads a list of public RSS/Atom feeds, cleans and classifies every item,
-merges it with the existing archive and writes data/news.json, which the
+merges it with the existing archive and writes news.json, which the
 website reads on load. Standard library only: no pip install needed.
 
-Run locally:   python scripts/fetch_news.py
+Run locally:   python fetch_news.py
 Run in CI:     see .github/workflows/update-news.yml
 """
 
@@ -23,8 +23,8 @@ from email.utils import parsedate_to_datetime
 from hashlib import sha1
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-OUT_FILE = ROOT / "data" / "news.json"
+ROOT = Path(__file__).resolve().parent
+OUT_FILE = Path(__file__).resolve().parent / "news.json"
 
 # ── Sources ────────────────────────────────────────────────────────────────
 # Add or remove feeds here. A feed that fails is skipped, never fatal.
