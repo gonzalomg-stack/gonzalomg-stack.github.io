@@ -24,17 +24,17 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch feeds and rebuild data/news.json
-        run: python scripts/fetch_news.py
+      - name: Fetch feeds and rebuild news.json
+        run: python fetch_news.py
 
       - name: Commit if changed
         run: |
-          if git diff --quiet -- data/news.json; then
+          if git diff --quiet -- news.json; then
             echo "No changes."
             exit 0
           fi
           git config user.name  "datapilot-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json
+          git add news.json
           git commit -m "news: daily update $(date -u +'%Y-%m-%d %H:%MZ')"
           git push
