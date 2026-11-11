@@ -1,16 +1,411 @@
 {
- "seed": true,
- "updated": "2026-11-10T12:00:00Z",
- "count": 8,
- "sources": ["Aviation Week", "Business Travel News", "EUROCONTROL", "eTurboNews", "Travel Tomorrow", "Upgraded Points"],
+ "updated": "2026-11-11T23:40:54Z",
+ "count": 40,
+ "sources": [
+  "AeroRoutes",
+  "AeroTime",
+  "Simple Flying"
+ ],
  "items": [
-  {"id": "seed01", "title": "Routes & Networks Latest: Rolling Daily Updates (week commencing Nov 9, 2026)", "summary": "", "url": "https://aviationweek.com/air-transport/airports-networks/routes-networks-latest-rolling-daily-updates-wc-nov-9-2026", "source": "Aviation Week", "lang": "en", "category": "Routes", "published": "2026-11-10T09:00:00Z"},
-  {"id": "seed02", "title": "50 New Routes Launching In November 2026", "summary": "", "url": "https://aviationweek.com/air-transport/airports-networks/50-new-routes-launching-november-2026", "source": "Aviation Week", "lang": "en", "category": "Routes", "published": "2026-11-09T08:00:00Z"},
-  {"id": "seed03", "title": "Global Aviation News Nov 1–7: Airlines, Airports and New Routes", "summary": "", "url": "https://eturbonews.com/global-aviation-news-november-1-7-2026/", "source": "eTurboNews", "lang": "en", "category": "Industry", "published": "2026-11-08T10:00:00Z"},
-  {"id": "seed04", "title": "CLEAR E-Gates, Seaplane Redemptions, and More Airline News", "summary": "", "url": "https://upgradedpoints.com/news/airline-news-roundup-november-week-1-2026/", "source": "Upgraded Points", "lang": "en", "category": "Airlines", "published": "2026-11-07T15:00:00Z"},
-  {"id": "seed05", "title": "November 2026 Airline Route Updates", "summary": "", "url": "https://www.businesstravelnews.com/Transportation/Air/new-airline-routes-november-2026-updates", "source": "Business Travel News", "lang": "en", "category": "Routes", "published": "2026-11-06T12:00:00Z"},
-  {"id": "seed06", "title": "EUROCONTROL European Aviation Overview — 29 October 2026", "summary": "", "url": "https://www.eurocontrol.int/sites/default/files/2026-10/eurocontrol-european-aviation-overview-20261029.pdf", "source": "EUROCONTROL", "lang": "en", "category": "ATM & Airspace", "published": "2026-10-29T12:00:00Z"},
-  {"id": "seed07", "title": "Eurocontrol Reports Significant Improvement In Flight Punctuality", "summary": "", "url": "https://aviationweek.com/air-transport/airports-networks/eurocontrol-reports-significant-improvement-flight-punctuality", "source": "Aviation Week", "lang": "en", "category": "ATM & Airspace", "published": "2026-10-28T12:00:00Z"},
-  {"id": "seed08", "title": "Europe records busiest ever summer for air traffic despite Middle East war", "summary": "", "url": "https://traveltomorrow.com/europe-records-busiest-ever-summer-for-air-traffic-despite-middle-east-war/", "source": "Travel Tomorrow", "lang": "en", "category": "ATM & Airspace", "published": "2026-10-27T12:00:00Z"}
+  {
+   "id": "efbe521d5abd",
+   "title": "“Light Bites”: American Airlines To Reinstate First Class Meals On Flights Between 700-899 Miles",
+   "summary": "American Airlines is restoring fresh First Class food on shorter flights, reviving a pre-pandemic perk as premium competition intensifies.",
+   "url": "https://simpleflying.com/american-airlines-reinstate-first-class-meals-flights-700-899-miles/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Airlines",
+   "published": "2026-11-11T22:14:23Z"
+  },
+  {
+   "id": "4a17b904af2c",
+   "title": "FAA clears Skyways to test offshore drone deliveries for Shell",
+   "summary": "The FAA has authorized Skyways, an Austin, Texas-based cargo drone manufacturer and operator, to fly from Gibson, Louisiana,…",
+   "url": "https://www.aerotime.aero/articles/faa-skyways-shell-offshore-drone-deliveries",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "ATM & Airspace",
+   "published": "2026-11-11T22:01:28Z"
+  },
+  {
+   "id": "01c42eacdcae",
+   "title": "5 Things Passengers Never Realize About How Airlines Actually Decide Who Gets A Premium Economy Upgrade",
+   "summary": "Think upgrades are based on luck? Airlines use algorithms, fare classes, spending data, and loyalty metrics to decide who moves up.",
+   "url": "https://simpleflying.com/things-passengers-never-realize-airlines-decides-who-premium-economy-upgrade/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Airlines",
+   "published": "2026-11-11T22:00:18Z"
+  },
+  {
+   "id": "d5c6f65eb514",
+   "title": "FAA expands AI traffic planning tool to all 22 US en route centers",
+   "summary": "The Federal Aviation Administration (FAA) said it is expanding the use of its AI-assisted traffic planning tool to…",
+   "url": "https://www.aerotime.aero/articles/faa-smart-air-traffic-tool-22-en-route-centers",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "ATM & Airspace",
+   "published": "2026-11-11T21:43:59Z"
+  },
+  {
+   "id": "de61ebc303b3",
+   "title": "easyJet shareholders approve Apollo’s £5.7 billion takeover bid",
+   "summary": "easyJet shareholders approved Apollo’s proposed £5.7 billion ($7.6 billion) takeover on November 11, 2026. The UK low-cost carrier…",
+   "url": "https://www.aerotime.aero/articles/easyjet-shareholders-approve-apollo-takeover",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Airlines",
+   "published": "2026-11-11T21:18:22Z"
+  },
+  {
+   "id": "f903ae04def5",
+   "title": "United Airlines To Finally Bring NEXT Cabin Retrofits To Its 21 Boeing 757-300s",
+   "summary": "Seatback entertainment is among the most prominent upgrades.",
+   "url": "https://simpleflying.com/united-airlines-finally-bring-next-cabin-retrofits-21-boeing-757-300s/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-11T20:52:10Z"
+  },
+  {
+   "id": "1998c1ec4829",
+   "title": "Breeze Airways Launches 15 New Routes From This Airport: See Full List Now",
+   "summary": "All of these routes begin in 2026 or 2027. Find them all here!",
+   "url": "https://simpleflying.com/breeze-airways-launches-15-new-routes-from-this-airport/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Airports",
+   "published": "2026-11-11T20:30:18Z"
+  },
+  {
+   "id": "657a1701de52",
+   "title": "5 Boeing 737 MAX 10 Customers With The Largest Orders",
+   "summary": "Airlines around the world collectively hold over 1,500 MAX 10 commitments.",
+   "url": "https://simpleflying.com/5-boeing-737-max-10-customers-largest-orders/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-11T20:30:18Z"
+  },
+  {
+   "id": "616346ff98a5",
+   "title": "Aegean / Icelandair Begins Codeshare Partnership From Nov 2026",
+   "summary": "Published at 1200PCT / 1900GMT 11NOV26 Aegean Airlines and Icelandair earlier this month launched reciprocal codeshare partnership, covering service between Iceland and Greece via 3rd point. Following codeshare routes went into effect since early-November 2026. Aegean Airlines…",
+   "url": "https://www.aeroroutes.com/eng/261111-a3ficodeshare",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T19:00:20Z"
+  },
+  {
+   "id": "c52941611d0d",
+   "title": "A $1 Aircraft, No Boarding Pass & A Cockpit Seat: Pacific Island Hopping On A Beechcraft Super King Air 200",
+   "summary": "The Super King Air 200 makes an excellent island-hopping aircraft, connecting outlying islands while also offering excellent passenger comfort.",
+   "url": "https://simpleflying.com/review-beechcraft-super-king-air-200-pacific-island-hopping/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-11T19:00:18Z"
+  },
+  {
+   "id": "f33e00d4562f",
+   "title": "Enugu Air Plans Lagos – London Dec 2026 Debut",
+   "summary": "Published at 1100PCT / 1800GMT 11NOV26 Nigerian carrier Enugu Air from December 2026 plans to launch service to the UK, with 4 weekly Lagos – London Gatwick flights scheduled. Service will be operated by EuroAtlantic Airbus A330-200 aircraft, effective 10DEC26. EE1496 LOS1100 –…",
+   "url": "https://www.aeroroutes.com/eng/261111-eenw26lgw",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T18:00:40Z"
+  },
+  {
+   "id": "ff76efd30689",
+   "title": "$7.6 Billion Takeover: easyJet Shareholders Back Apollo Deal That Will Take The Airline Private",
+   "summary": "An American private equity firm now has easyJet shareholder approval to take over the budget airline.",
+   "url": "https://simpleflying.com/easyjet-shareholders-approve-apollo-takeover/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Airlines",
+   "published": "2026-11-11T17:55:22Z"
+  },
+  {
+   "id": "c07efcf8bf79",
+   "title": "Air China Expands Turkish Airlines Codeshare From Nov 2026",
+   "summary": "Published at 1000PCT / 1700GMT 11NOV26 Star Alliance member Air China earlier this month expanded codeshare partnership with Turkish Airlines, including the latter’s service to Africa and Mexico. Following codeshare routes went into effect since early-November 2026. Air China…",
+   "url": "https://www.aeroroutes.com/eng/261111-catkcodeshare",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T17:00:59Z"
+  },
+  {
+   "id": "359baaaf389a",
+   "title": "5 Airlines Offering Premium Economy On Boeing 777-300ER Flights",
+   "summary": "Seat width, pitch and dedicated cabin layouts differ across carriers on the 777-300ER creating varied comfort, storage and entertainment choices.",
+   "url": "https://simpleflying.com/5-airlines-premium-economy-boeing-777-300er-flights/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-11T17:00:19Z"
+  },
+  {
+   "id": "bdcc2875a5dd",
+   "title": "Cathay Orders 14 More Airbus Jets As Its A330-900 Commitment Grows To 41",
+   "summary": "Cathay adds A330-900s and A321neos to modernize its fleet, retiring older A330-300s and spreading capacity across Asia.",
+   "url": "https://simpleflying.com/cathay-orders-14-more-airbus-a330-900-a321neo/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-11T16:58:42Z"
+  },
+  {
+   "id": "dd7cfc66d45c",
+   "title": "Sichuan Airlines Expands Turkish Airlines Codeshare From Nov 2026",
+   "summary": "Published at 0900PCT / 1600GMT 11NOV26 Sichuan Airlines starting today (11NOV26) expands codeshare partnership with Turkish Airlines, including the latter’s new service to Chengdu. Planned new codeshare routes include the following. Sichuan Airlines operated by Turkish Airlines…",
+   "url": "https://www.aeroroutes.com/eng/261111-3utkcodeshare",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T16:00:42Z"
+  },
+  {
+   "id": "f22394d02945",
+   "title": "Immfly digitalizes KLM’s onboard catering and retail offering",
+   "summary": "Barcelona-based inflight technology firm Immfly announced on November 11, 2026, that it has partnered with KLM to digitalize…",
+   "url": "https://www.aerotime.aero/articles/immfly-digitalizes-klms-onboard-catering-and-retail-offering",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Airlines",
+   "published": "2026-11-11T15:15:59Z"
+  },
+  {
+   "id": "9fd0f0970162",
+   "title": "American Airlines Cancels 8 International Routes: See Full List Now",
+   "summary": "American Airlines has removed eight international routes, with data revealing contrasting demand trends and a network increasingly unlike its rivals.",
+   "url": "https://simpleflying.com/american-cancels-8-international-routes/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T15:10:19Z"
+  },
+  {
+   "id": "8f916006bc21",
+   "title": "Sky Airline Adds Lima – Rio de Janeiro From late-Dec 2026",
+   "summary": "Published at 0800PCT / 1500GMT 11NOV26 Sky Airline from late-December 2026 plans to add new service between Peru and Brasil, as the carrier schedules Lima – Rio de Janeiro Galeao route from 28DEC26. Initially this route is scheduled 6 weekly, increasing to 1 daily from 07JAN27…",
+   "url": "https://www.aeroroutes.com/eng/261111-h2nw26gig",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T15:00:01Z"
+  },
+  {
+   "id": "dbb483dfc6c1",
+   "title": "Natilus selects wing manufacturer for full-scale Kona blended-wing freighter",
+   "summary": "San Diego-based Natilus has selected Composites Universal Group (CUG) to manufacture the wings for the full-scale prototype of…",
+   "url": "https://www.aerotime.aero/articles/natilus-kona-blended-wing-freighter-wing-contract",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-11T14:58:01Z"
+  },
+  {
+   "id": "8ed2b78319c8",
+   "title": "Cebu Pacific Dreamer Plane A321neo showcases Cebuano art for 30th anniversary",
+   "summary": "Cebu Pacific has unveiled the “Dreamer Plane,” an Airbus A321neo in a special livery created to celebrate the…",
+   "url": "https://www.aerotime.aero/articles/cebu-pacific-dreamer-plane-a321neo-showcases-cebuano-art-for-30th-anniversary",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-11T14:25:17Z"
+  },
+  {
+   "id": "03d40b5df046",
+   "title": "British Airways / Viva Begins Codeshare From late-March 2027",
+   "summary": "Published at 0700PCT / 1400GMT 11NOV26 British Airways at the launch of Northern summer 2027 season plans to commence codeshare partnership with Viva, covering 17 domestic routes within Mexico. Planned codeshare routes from 28MAR27 include the following. British Airways operated…",
+   "url": "https://www.aeroroutes.com/eng/261111-bavbcodeshare",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T14:00:46Z"
+  },
+  {
+   "id": "1db97411a64c",
+   "title": "Embraer raises 2026 outlook after record third-quarter revenue",
+   "summary": "Embraer has raised its 2026 revenue and free cash flow guidance after posting third-quarter revenue of $2.35 billion,…",
+   "url": "https://www.aerotime.aero/articles/embraer-raises-2026-outlook-record-q3-revenue",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-11T13:56:37Z"
+  },
+  {
+   "id": "d9bb4bc19f3c",
+   "title": "Magnifica Air confirms order for 10 A220 ACJ jets",
+   "summary": "Magnifica Air, a Florida-based startup airline which plans to offer premium-only scheduled flights from 2027, has disclosed an…",
+   "url": "https://www.aerotime.aero/articles/magnifica-air-confirms-order-for-10-a220-acj-jets",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-11T13:53:53Z"
+  },
+  {
+   "id": "622b764010cd",
+   "title": "Aero NW26 Westchester County Operations",
+   "summary": "Published at 0600PCT / 1300GMT 11NOV26 Aero, the US-based Premium semi-private carrier, has filed scheduled at Westchester County in the OAG, with 2 routes scheduled in Northern winter 2026/27 season. Aspen – Westchester County 26DEC26, 07JAN27, 13JAN27, 15JAN27, 21JAN27…",
+   "url": "https://www.aeroroutes.com/eng/261111-5enw26hpn",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T13:00:20Z"
+  },
+  {
+   "id": "e09ba7caed6d",
+   "title": "Alaska Removes 3 Portland OR Routes in NS27",
+   "summary": "Published at 0500PCT / 1200GMT 11NOV26 Alaska Airlines in recent schedule update removed 3 routes at Portland OR for Northern summer 2027 season. Removed routes include the following. Portland OR – Baltimore/Washington Seasonal 1 daily 737-900ER from 13MAY27 removed Portland OR…",
+   "url": "https://www.aeroroutes.com/eng/261111-asns27pdx",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T12:00:30Z"
+  },
+  {
+   "id": "84c7870ee66c",
+   "title": "Poland revives MiG-29 transfer to Ukraine in drone technology deal",
+   "summary": "Poland is finalizing plans to transfer MiG-29 fighter jets to Ukraine in exchange for access to Ukrainian drone…",
+   "url": "https://www.aerotime.aero/articles/poland-mig-29-ukraine-drone-technology-exchange",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-11T11:19:05Z"
+  },
+  {
+   "id": "f42cded4313f",
+   "title": "United Adds Los Angeles – Traverse City From June 2027",
+   "summary": "Published at 0400PCT / 1100GMT 11NOV26 United during Northern summer 2027 season plans to introduce Los Angeles – Traverse City route, scheduled once a week from 14JUN27 with 737-800 aircraft. Service to increase to 2 weekly for the period of 28JUN27 – 11JUL27. UA1138 LAX0815 –…",
+   "url": "https://www.aeroroutes.com/eng/261111-uajun27laxtvc",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T11:00:05Z"
+  },
+  {
+   "id": "1ac19f58934e",
+   "title": "Airbus announces plans to build new greenfield factory in Toulouse",
+   "summary": "Airbus has announced plans to build a new factory in Toulouse to produce engine pylons for its jets. …",
+   "url": "https://www.aerotime.aero/articles/airbus-announces-plans-to-build-new-greenfield-factory-in-toulouse",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-11T10:31:41Z"
+  },
+  {
+   "id": "a7a35d6c947e",
+   "title": "‘Develop once, deploy everywhere’: Honeywell Aerospace’s Anthony Florian on APAC",
+   "summary": "Three months after its spin-off from Honeywell and Nasdaq listing, Honeywell Aerospace is looking to Asia Pacific for…",
+   "url": "https://www.aerotime.aero/articles/develop-once-deploy-everywhere-honeywell-aerospaces-anthony-florian-on-apac",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-11T10:06:37Z"
+  },
+  {
+   "id": "d44da32bd0df",
+   "title": "Rafael’s new Super Ice cruise missile packs 1,000-pound warhead",
+   "summary": "Rafael Advanced Defense Systems unveiled Super Ice, a long-range cruise missile with a 454-kilogram (1,000-pound) warhead, on November…",
+   "url": "https://www.aerotime.aero/articles/rafael-super-ice-cruise-missile-warhead",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-11T10:01:54Z"
+  },
+  {
+   "id": "9d01cef561a1",
+   "title": "United Adds San Francisco – Jacksonville FL From late-1Q27",
+   "summary": "Published at 0300PCT / 1000GMT 11NOV26 United in late-March 2027 continues to expand domestic network at San Francisco , as the carrier last week opened reservations for San Francisco – Jacksonville FL route. Boeing 737 MAX 8 to serve this route twice weekly from 29MAR27. UA2283…",
+   "url": "https://www.aeroroutes.com/eng/261111-uans27sfojax",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T10:00:58Z"
+  },
+  {
+   "id": "7d75e5aef318",
+   "title": "World Aviation Festival 2026: How AI is transforming work behind the scenes",
+   "summary": "In October 2026, the World Aviation Festival (WAF) returned to the FIL convention center in Lisbon, Portugal, gathering…",
+   "url": "https://www.aerotime.aero/articles/world-aviation-festival-2026-how-ai-is-transforming-work-behind-the-scenes",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-11T09:09:47Z"
+  },
+  {
+   "id": "fe464967badd",
+   "title": "Aeromexico June 2027 US Network Additions",
+   "summary": "Published at 0200PCT / 0900GMT 11NOV26 Aeromexico in June 2027 plans to expand service to the US and Puerto Rico, with the launch of 3 routes. Mexico City – Nashville eff 13JUN27 4 weekly Embraer E190 Mexico City – New Orleans eff 17JUN27 4 weekly Embraer E190 Mexico City – San…",
+   "url": "https://www.aeroroutes.com/eng/261111-amjun27us",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T09:00:50Z"
+  },
+  {
+   "id": "54720351a550",
+   "title": "NATO fighter jets miss drone as air-threat alerts sweep Baltic states",
+   "summary": "NATO fighter jets made two unsuccessful attempts to shoot down a drone that entered Lithuanian airspace from Belarus…",
+   "url": "https://www.aerotime.aero/articles/nato-fighter-misses-drone-baltic-air-alerts",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "ATM & Airspace",
+   "published": "2026-11-11T08:56:41Z"
+  },
+  {
+   "id": "badf3683eb58",
+   "title": "Cathay Pacific orders 11 more Airbus A330neos, raising total to 41",
+   "summary": "Cathay Pacific has exercised purchase rights for 11 additional Airbus A330-900 aircraft, bringing its firm orders for the…",
+   "url": "https://www.aerotime.aero/articles/cathay-pacific-orders-11-more-airbus-a330neos",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-11T07:57:07Z"
+  },
+  {
+   "id": "8f04ef038cbb",
+   "title": "Sky Airline Removes Planned 2 Routes From Santiago in late-Dec 2026",
+   "summary": "Published at 2345PCT 10NOV26 / 0645GMT 11NOV26 Chile’s Sky Airline in recent schedule update removed planned 2 new nonstop routes from Santiago de Chile , previously scheduled from late-December 2026 with A321neo/XLR aircraft. The airline previously planned to launch following…",
+   "url": "https://www.aeroroutes.com/eng/261110-h2dec26",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T06:45:56Z"
+  },
+  {
+   "id": "e1a8b6bed1b7",
+   "title": "S7 Airlines Add Irkutsk – Da Nang From March 2027",
+   "summary": "Published at 2300PCT 10NOV26 / 0600GMT 11NOV26 Russian carrier S7 Airlines from March 2027 plans to launch new route to Vietnam. From 02MAR27, the carrier’s Airbus A320 aircraft to serve Irkutsk – Da Nang route twice weekly. Schedule below focuses on the period of 30MAR27 –…",
+   "url": "https://www.aeroroutes.com/eng/261110-s7ns27dad",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T06:00:21Z"
+  },
+  {
+   "id": "a1b93ae69937",
+   "title": "Air Astana Increases Astana – Seoul Flights From Dec 2026",
+   "summary": "Published at 2215PCT 10NOV26 / 0515GMT 11NOV26 Air Astana from late-December 2026 plans to increase Astana – Seoul Incheon flights for Northern winter 2026/27 season, with the addition of 4th weekly flight, on board Airbus A321LR. The additional service will commence on 21DEC26…",
+   "url": "https://www.aeroroutes.com/eng/261110-kcnw26nqzicn",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T05:15:06Z"
+  },
+  {
+   "id": "e5cab7f7e017",
+   "title": "Etihad Systemwide Service Reductions from mid-Jan 2027",
+   "summary": "Published at 2130PCT 10NOV26 / 0430GMT 11NOV26 Etihad Airways as of Tuesday (10NOV26) filed various service reductions in the first quarter of 2027, scheduled from 11JAN27. Planned service reductions include the following. Abu Dhabi – Atlanta eff 11JAN27 Reduce from 5 to 4…",
+   "url": "https://www.aeroroutes.com/eng/261110-ey1q27",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-11T04:30:57Z"
+  }
  ]
 }
