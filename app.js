@@ -4,7 +4,7 @@
 const CONFIG = {
   // Power BI → File → Embed report → Publish to web (public) → copy the *link*
   // (https://app.powerbi.com/view?r=...). Leave empty to show a placeholder.
-  powerbiAtfmUrl: "https://app.powerbi.com/view?r=eyJrIjoiMmNjNzViNDgtYmUxNy00YzE3LWIxN2MtNjA2Y2NiY2UxMWQ4IiwidCI6IjU4MThjMTAzLWI0ZmYtNGFiNi04YzA1LWRjMmZiNjk5M2JjMCIsImMiOjh9",,
+  powerbiAtfmUrl: "https://app.powerbi.com/view?r=eyJrIjoiMmNjNzViNDgtYmUxNy00YzE3LWIxN2MtNjA2Y2NiY2UxMWQ4IiwidCI6IjU4MThjMTAzLWI0ZmYtNGFiNi04YzA1LWRjMmZiNjk5M2JjMCIsImMiOjh9",
   newsFile: "news.json",
   pageSize: 13,           // lead story + 12
 };
