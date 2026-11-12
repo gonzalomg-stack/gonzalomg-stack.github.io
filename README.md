@@ -1,44 +1,74 @@
-# DataPilot
+# DataPilot — Aviation Analytics
 
-Analítica aeronáutica de Gonzalo Muñoz García: briefing diario de noticias de aviación + dashboards interactivos de Power BI.
+**Live site → [gonzalomg-stack.github.io](https://gonzalomg-stack.github.io)**
 
-Web: https://gonzalomg-stack.github.io
+DataPilot is an aviation analytics portfolio that combines two things: a daily industry briefing that updates itself, and interactive Power BI dashboards built on open European air traffic data.
 
-## Estructura
+It is built and maintained by Gonzalo Muñoz García, a Business Analytics graduate currently completing ATPL(A) commercial pilot training.
+
+---
+
+## Daily aviation briefing
+
+Every day, a Python script collects headlines from aviation publishers and topic searches, cleans them, files each one by topic and publishes the result to the site. No server and no database: GitHub Actions runs the pipeline on a schedule and the static site reads the output.
+
+```mermaid
+flowchart LR
+    A[RSS feeds<br/>AeroTime · Simple Flying · AeroRoutes<br/>Aviacionline · Int. Airport Review] --> C
+    B[Google News topic searches<br/>ATM · Regulation · Safety<br/>Sustainability · OEMs · Spain] --> C
+    C[fetch_news.py<br/>parse · clean · filter publishers<br/>deduplicate · classify] --> D[(news.json<br/>14-day archive)]
+    E[GitHub Actions<br/>05:17 and 15:17 UTC] -. runs .-> C
+    D --> F[Website<br/>filters · search · topic chips]
+```
+
+**What the script does**
+
+- Reads RSS and Atom feeds using only the Python standard library (no dependencies)
+- Strips HTML, boilerplate and duplicated headlines, including near-duplicates across publishers
+- Filters out low-quality and off-topic publishers from search results
+- Classifies every story into one of nine topics (ATM & Airspace, Airlines, Airports, Routes, Manufacturers, Safety, Regulation, Sustainability, Industry) with keyword rules
+- Keeps a rolling 14-day archive and never fails the run if a single source is down
+
+## Dashboards
+
+| Dashboard | Status | Data |
+|---|---|---|
+| **ATFM Delays** — en-route delay by air navigation service provider, 2011–2026 | Live | EUROCONTROL |
+| **CO₂ Emissions** — gate-to-gate emissions by state and market segment | In development | EUROCONTROL |
+| **Traffic Recovery** — daily IFR movements against the 2019 baseline | Planned | EUROCONTROL |
+| **Spanish Airports** — passengers, operations and seasonality across the Aena network | Planned | AENA |
+
+The ATFM Delays report covers 45 ANSPs and 470 million flights, with a 2018–19 peak, the 2020 collapse and a new record in 2024.
+
+## Tech stack
+
+`Power BI` `DAX` `Python` `GitHub Actions` `HTML` `CSS` `JavaScript` `GitHub Pages`
+
+## Repository
 
 ```
-index.html                      Página
-assets/style.css                Diseño (modo claro + oscuro automático)
-assets/app.js                   Lógica + CONFIG (enlace de Power BI)
-assets/logo-mark*.png           Logo
-data/news.json                  Noticias (lo regenera el bot)
-scripts/fetch_news.py           Lector de feeds RSS → news.json
-.github/workflows/update-news.yml  Ejecuta el script 2 veces al día
+index.html          Site structure and content
+style.css           Design system (light and dark themes)
+app.js              Briefing rendering, filters, search, Power BI embed
+fetch_news.py       News pipeline
+news.json           Pipeline output, rewritten by the bot
+.github/workflows/  Scheduled pipeline
 ```
 
-## Puesta en marcha (una sola vez)
+Run locally:
 
-1. En GitHub crea un repositorio público llamado **`gonzalomg-stack.github.io`** (exactamente así).
-2. Pulsa **Add file → Upload files**, arrastra todo el contenido de esta carpeta (incluida la carpeta `.github`) y haz **Commit**.
-   - Si el navegador no sube la carpeta oculta `.github`, créala a mano: **Add file → Create new file**, nombre `.github/workflows/update-news.yml` y pega el contenido.
-3. **Settings → Pages** → Source: *Deploy from a branch* → Branch: `main` / `(root)` → Save.
-4. **Settings → Actions → General** → *Workflow permissions* → **Read and write permissions** → Save.
-5. **Actions → Update aviation news → Run workflow**. En ~1 minuto `data/news.json` se llena con noticias reales y la web se actualiza sola.
+```bash
+python fetch_news.py
+python -m http.server 8000   # open http://localhost:8000
+```
 
-A partir de ahí, las noticias se actualizan a las 05:17 y 15:17 UTC cada día sin que hagas nada.
+## Data and attribution
 
-## Añadir el dashboard de Power BI
+Dashboard data: EUROCONTROL Aviation Intelligence Portal. Headlines and excerpts belong to their publishers and every story links to the original article.
 
-1. Power BI Service → abre el informe → **Archivo → Insertar informe → Publicar en la web (público)**.
-2. Copia el **enlace** (`https://app.powerbi.com/view?r=...`), no hace falta el código iframe.
-3. En `assets/app.js`, pega el enlace en `powerbiAtfmUrl: ""` y haz commit.
+## Contact
 
-> "Publicar en la web" hace el informe público. Perfecto para datos abiertos de EUROCONTROL; no lo uses con datos privados.
-
-## Cambiar las fuentes de noticias
-
-Edita la lista `FEEDS` en `scripts/fetch_news.py`. Si un feed falla, se ignora y el resto sigue funcionando. Las categorías se asignan por palabras clave (`CATEGORIES`, mismo archivo).
-
+[LinkedIn](https://www.linkedin.com/in/gonzalomunozgarc%C3%ADa/) · [DataPilot](https://gonzalomg-stack.github.io)
 ## Probar en local
 
 ```
