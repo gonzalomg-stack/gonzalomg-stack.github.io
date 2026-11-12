@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T23:47:47Z",
- "count": 88,
+ "updated": "2026-11-12T06:18:07Z",
+ "count": 98,
  "sources": [
   "ABC",
   "ABC7 Chicago",
@@ -50,6 +50,106 @@
   "Європейська правда"
  ],
  "items": [
+  {
+   "id": "cf70209abbc5",
+   "title": "Air Tahiti Tentatively Moves 26-seater ATR72 Service to Dec 2026",
+   "summary": "Published at 2300PCT 11NOV26 / 0600GMT 12NOV26 Air Tahiti in the last few days revised planned 26-seater ATR72-600 operations, previously scheduled to enter service today (11NOV26). The inaugural flight was cancelled due to ongoing strike at the airline since 22OCT26. Based on…",
+   "url": "https://www.aeroroutes.com/eng/261111-vtdec26at7",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-12T06:00:41Z"
+  },
+  {
+   "id": "b7b9b5999fb4",
+   "title": "Why Some Modern Airliners Have Just One Engine Supplier",
+   "summary": "Why do the Boeing 737 MAX, Airbus A350 and A220 have just one engine supplier? Explore the engineering benefits and risks for airlines.",
+   "url": "https://simpleflying.com/why-modern-airliners-have-single-engine-suppliers/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-12T06:00:18Z"
+  },
+  {
+   "id": "f5b7fd93bc14",
+   "title": "Air New Zealand 3Q27 Tahiti Service Increases",
+   "summary": "Published at 2200PCT 11NOV26 / 0500GMT 12NOV26 Air New Zealand in the third quarter of 2027 schedules service increase to French Polynesia, as the carrier adds 5th weekly Auckland – Papeete (Tahiti) flight for the peak season. Additional service will be offered from 24JUL27 to…",
+   "url": "https://www.aeroroutes.com/eng/261111-nz3q27ppt",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-12T05:00:20Z"
+  },
+  {
+   "id": "371cf97496dc",
+   "title": "Air New Zealand Extends Christchurch – Singapore to Year-Round in NS27",
+   "summary": "Published at 2100PCT 11NOV26 / 0400GMT 12NOV26 Air New Zealand this week extended Christchurch – Singapore route to year-round operation, as the carrier opened reservations for Northern summer 2027 season from 28MAR27. Boeing 787-9 operates this route 3 times weekly. NZ064…",
+   "url": "https://www.aeroroutes.com/eng/261111-nzns27chcsin",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-12T04:00:16Z"
+  },
+  {
+   "id": "07396d94cf27",
+   "title": "Saudia Adds Jeddah – Moscow From Dec 2026",
+   "summary": "Published at 2000PCT 11NOV26 / 0300GMT 12NOV26 Saudia during Northern winter 2026/27 season plans to launch Jeddah – Moscow Sheremetyevo route, on board Boeing 787-9. The airline plans to serve this route 3 times weekly from 01DEC26. Schedule below focuses on the period of…",
+   "url": "https://www.aeroroutes.com/eng/261111-svnw26svo",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-12T03:00:52Z"
+  },
+  {
+   "id": "93fdad336bf8",
+   "title": "The Last Lockheed L‑1011 TriStar Still Airworthy",
+   "summary": "A closer look at the story behind the world's last Tristar, and what the future holds for this unique aircraft.",
+   "url": "https://simpleflying.com/the-last-lockheed-tristar-still-airworthy/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-12T02:45:18Z"
+  },
+  {
+   "id": "8c2d31dcf484",
+   "title": "3 Hours At Immigration: My Journey Through One Of America's Most Remote Airport Hubs",
+   "summary": "Guam is a significant regional US international airport and hub, especially for Micronesia and United's Island Hopper service.",
+   "url": "https://simpleflying.com/review-guam-international-airport/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Airports",
+   "published": "2026-11-12T02:00:17Z"
+  },
+  {
+   "id": "0f010f50073c",
+   "title": "Korean Air Resumes Newark Service From May 2027",
+   "summary": "Published at 1900PCT 11NOV26 / 0200GMT 12NOV26 Korean Air during Northern summer 2027 season plans to resume service to Newark, as the carrier opened reservations for Seoul Incheon – Newark route from 22MAY27. Boeing 777-300ER aircraft to serve this route on daily basis. KE097…",
+   "url": "https://www.aeroroutes.com/eng/261111-kens27ewr",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-12T02:00:14Z"
+  },
+  {
+   "id": "cd3b97036e59",
+   "title": "How Much Qantas Business Class Costs From Perth To London On A Boeing 787-9",
+   "summary": "Qantas offers a premium experience for growing demand in nonstop ultra-long-haul travel.",
+   "url": "https://simpleflying.com/how-much-qantas-business-class-cost-perth-london-boeing-787-9/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-12T01:00:17Z"
+  },
+  {
+   "id": "b4a0774e413a",
+   "title": "5 Notable Airports With Night Flight Curfews That Shape Airline Schedules",
+   "summary": "Curfew enforcement is strict at these airfields, of which three are European.",
+   "url": "https://simpleflying.com/5-notable-airports-night-flight-curfews-shape-airline-schedules/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Airports",
+   "published": "2026-11-12T00:00:18Z"
+  },
   {
    "id": "bb33e5ef7ac4",
    "title": "Frontier Airlines plane makes emergency landing at Chicago O'Hare International Airport for lavatory issue, video appears to show",
