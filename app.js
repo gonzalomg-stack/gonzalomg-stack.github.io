@@ -152,7 +152,7 @@ async function loadNews() {
     $("#strip-updated").textContent = dayLabel(data.updated) + " " + zulu(upd);
     $("#strip-count").textContent = state.items.length;
     $("#strip-sources").textContent = (data.sources || []).length;
-    $("#footer-sources").textContent = (data.sources || []).join(", ") || "—";
+    $("#footer-sources").textContent = (data.sources || []).length + " publishers";
     $("#briefing-date").textContent = new Date().toLocaleDateString("en-GB", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
 
     renderChips();
