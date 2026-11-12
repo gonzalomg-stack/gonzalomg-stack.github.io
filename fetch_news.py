@@ -63,6 +63,7 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 
 # ── Classification ─────────────────────────────────────────────────────────
 # First matching category wins, so order matters (most specific first).
+# Routes sits before Manufacturers so "Delta drops Boeing 757 routes" is a route story.
 CATEGORIES = [
     ("Safety", [
         "incident", "accident", "crash", "emergency", "diverted", "diversion", "evacuat",
@@ -89,14 +90,14 @@ CATEGORIES = [
         "airport", "terminal", "runway", "aena", "heathrow", "barajas", "schiphol", "gatwick",
         "passenger traffic", "hub", "aeropuerto", "pasajeros",
     ]),
-    ("Manufacturers", [
-        "airbus", "boeing", "embraer", "comac", "atr ", "bombardier", "rolls-royce", "pratt",
-        "cfm", "ge aerospace", "safran", "delivery", "deliveries", "order", "a320", "a321",
-        "a350", "a330", "737", "787", "777", "e2", "backlog", "fábrica", "pedido",
-    ]),
     ("Routes", [
         "route", "new service", "launch", "frequenc", "nonstop", "non-stop", "schedule",
         "seasonal", "ruta", "nueva conexión", "vuelos directos",
+    ]),
+    ("Manufacturers", [
+        "airbus", "boeing", "embraer", "comac", "atr ", "bombardier", "rolls-royce", "pratt",
+        "cfm", "ge aerospace", "safran", "delivery", "deliveries", "backlog", "production rate",
+        "assembly line", "type certificate", "fábrica", "pedido", "entregas",
     ]),
     ("Airlines", [
         "airline", "airways", "air lines", "carrier", "fleet", "lcc", "low-cost", "ryanair",
@@ -105,6 +106,17 @@ CATEGORIES = [
     ]),
 ]
 DEFAULT_CATEGORY = "Industry"
+
+# Google News results from these publishers are dropped: social networks,
+# aggregators, local/general outlets and off-topic trade press.
+BLOCKED_SOURCES = {
+    "facebook", "aol", "aol.co.uk", "yahoo", "msn", "youtube", "x.com", "linkedin",
+    "abc7 chicago", "braintree & witham times", "biodiesel magazine", "biomass magazine",
+    "the guardian nigeria news", "anadolu ajansı", "європейська правда", "gpblog",
+    "facebook.com", "marketscreener españa", "bolsamania", "leader live", "la 7",
+}
+# Words in a publisher name that mark a local TV/radio station or generic outlet.
+BLOCKED_SOURCE_WORDS = ("breaking news", "latest news and videos", "abc news", "fox ", "cbs ", "nbc ")
 
 TAG_RE = re.compile(r"<[^>]+>")
 WS_RE = re.compile(r"\s+")
@@ -212,9 +224,13 @@ def parse_feed(data: bytes, feed: dict) -> list[dict]:
         source = feed.get("source", "")
         if feed.get("google"):
             # Google News: "Headline - Publisher"; its description only repeats the headline.
-            source = publisher or (title.rsplit(" - ", 1)[1] if " - " in title else "Google News")
-            if title.endswith(" - " + source):
-                title = title[: -len(" - " + source)].strip()
+            raw_source = publisher or (title.rsplit(" - ", 1)[1] if " - " in title else "Google News")
+            if title.endswith(" - " + raw_source):
+                title = title[: -len(" - " + raw_source)].strip()
+            source = raw_source.strip(" -–—")
+            low = source.lower()
+            if low in BLOCKED_SOURCES or any(w in low for w in BLOCKED_SOURCE_WORDS):
+                continue
             summary = ""
         else:
             summary = truncate(clean_text(desc))
@@ -269,6 +285,12 @@ def main() -> int:
     # Merge: fresh items win, dedupe by URL hash and by near-identical title.
     merged, seen_ids, seen_titles = [], set(), set()
     for item in sorted(fresh + existing, key=lambda i: i["published"], reverse=True):
+        item["source"] = item["source"].strip(" -–—")
+        low = item["source"].lower()
+        if low in BLOCKED_SOURCES or any(w in low for w in BLOCKED_SOURCE_WORDS):
+            continue
+        # Re-file archived items so classification fixes apply retroactively.
+        item["category"] = classify(item["title"], item.get("summary", ""), item["source"])
         nt = normalise_title(item["title"])
         if item["id"] in seen_ids or nt in seen_titles:
             continue
