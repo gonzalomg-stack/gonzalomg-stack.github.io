@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-15T06:06:29Z",
+ "updated": "2026-11-15T15:55:33Z",
  "count": 250,
  "sources": [
+  "24/7 Wall St.",
   "AFM.aero",
   "AOL.com",
-  "ATSB",
   "AVweb",
   "Actualidad Aeroespacial",
   "Aero-News Network",
@@ -13,8 +13,10 @@
   "AeroXplorer",
   "Air Data News",
   "Airline92",
+  "Antena 3 Noticias",
   "Arise News",
   "Around Prague",
+  "Asian Aviation",
   "Atlántico Hoy",
   "Avi-Go",
   "Aviacionline",
@@ -24,8 +26,10 @@
   "BBC",
   "BioEnergy Times",
   "CASRAI",
+  "Causeartist",
   "Chelmsford Weekly News",
   "Container News",
+  "Deccan Herald",
   "Devdiscourse",
   "Diario Palentino",
   "EIN News",
@@ -48,16 +52,13 @@
   "Fly News",
   "ForkLog",
   "France 24",
-  "Fuel Cells Works",
   "Global Banking & Finance Review",
   "Global Times",
   "Gulf News",
   "HolaNews",
   "Hotelier Buzz",
   "Howl.Link",
-  "Insurance Journal",
   "International Civil Aviation Organization",
-  "Irish Independent",
   "Key Aero",
   "Le Monde.fr",
   "Leeham News",
@@ -66,38 +67,306 @@
   "Malaysia-China Insight",
   "MiGFlug",
   "Military Aerospace",
+  "Nacionale",
   "NewsCord",
   "Nexotur.com",
   "Noudiari.es",
+  "NueveCuatroUno",
   "PYOK",
+  "Pasquale Pillitteri",
   "People.com",
   "Plataforma Media",
+  "Preferente.com",
   "PressDigital",
   "RETURCAN",
-  "Radio Nervión",
   "Reuters",
   "Security Info Watch",
   "Simple Flying",
+  "Sky News",
   "Sustainability Magazine",
   "Telde Actualidad",
+  "Telegraph India",
   "Telemadrid",
-  "The Australian",
   "The Indian Express",
   "The Times of India",
   "The Times of Israel",
   "TheBusinessDesk.com",
+  "TheCable",
   "TheTravel",
   "Travel Daily Media",
+  "Travel Radar",
   "Unmanned airspace",
   "WJAC",
   "WebWire",
   "Xataka",
   "Yahoo Finance",
+  "airlive",
   "https://deeparrival.com/",
   "laranews.net",
+  "scanx.trade",
   "تسنیم"
  ],
  "items": [
+  {
+   "id": "775e61f938c6",
+   "title": "Why This 35-Year-Old Turboprop Aircraft Is Going Back In Production",
+   "summary": "A familiar high-wing design gets new engines, digital avionics, and greater passenger capacity.",
+   "url": "https://simpleflying.com/why-35-year-old-turboprop-aircraft-going-back-production/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-15T15:50:25Z"
+  },
+  {
+   "id": "97b5f0110f78",
+   "title": "Luxury US Startup Bets Big On 10 Airbus A220s With A Private Suite And Just 54 Seats",
+   "summary": "Airbus has revealed the mystery buyer behind a major order for corporate A220s.",
+   "url": "https://simpleflying.com/luxury-startup-magnifica-air-10-airbus-a220s-private-suite-54-seats/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-15T15:22:16Z"
+  },
+  {
+   "id": "4e3cf1f1f79a",
+   "title": "Why JetBlue Is Letting TrueBlue Members Earn & Spend Points On United Airlines",
+   "summary": "The two carriers announced their Blue Sky commercial partnership in May 2025.",
+   "url": "https://simpleflying.com/jetblue-trueblue-earn-spend-points-united-airlines/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Airlines",
+   "published": "2026-11-15T15:00:17Z"
+  },
+  {
+   "id": "01d58c079858",
+   "title": "What we know about the US ground stop and what to do if your flight is affected",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
+   "source": "BBC",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-15T14:57:15Z"
+  },
+  {
+   "id": "e19935687255",
+   "title": "Why Does American Airlines Fly The Boeing 787 And Not The Airbus A350?",
+   "summary": "The carrier has decided against operating the flagship Airbus widebody.",
+   "url": "https://simpleflying.com/why-does-american-airlines-fly-boeing-787-and-not-the-airbus-a350/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-15T14:08:17Z"
+  },
+  {
+   "id": "3ad1b3860526",
+   "title": "How Much Does It Cost To Build A New Airport Runway In The US In 2026?",
+   "summary": "The cost of a brand-new runway is dictated by site conditions, land acquisition, and scale.",
+   "url": "https://simpleflying.com/cost-build-new-airport-runway-us-2026/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Airports",
+   "published": "2026-11-15T14:00:17Z"
+  },
+  {
+   "id": "1c2bed0085b4",
+   "title": "El aeropuerto de Barajas prepara el asalto al podio europeo",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdmFKYkxBdHBhSFhTNWREYXh4dmRicmxaekYzdGE3U21BVGd4MzVJZTQ3bmU2OXctemN5aFQtV1ctaXV1bUYweWotOXJrckdOYi1xX29PWTI5cTUtSWpFZERBczR4eHNwXzN2a3BqeFdiRGxSRUtTamlIR01MMnN4aEp5Q21NS05fMmROdWFUYWlfN0FiM214MXI2akRkbFN0TkRIX0VvOHc3WFhZOEJhMUFZWF9TQUczRlJsWmY2cUhrRXZ2S0ExM2R4bVpoZVFEcF9tbGwxaHluanZMeEE?oc=5",
+   "source": "Preferente.com",
+   "lang": "es",
+   "category": "Airports",
+   "published": "2026-11-15T13:30:04Z"
+  },
+  {
+   "id": "9276933f483b",
+   "title": "Dozens Of Boeing 787s Face Checks Over Fuel Tanks That Could Ignite When Hit By Lightning",
+   "summary": "The Federal Aviation Administration has ordered inspections of certain Boeing 787 Dreamliners, warning that sealant defects could create a spark inside the tank during a lightning strike, potentially triggering a fuel tank explosion. The airworthiness directive will take effect…",
+   "url": "https://simpleflying.com/video/dozens-of-boeing-787s-face-checks-over-fuel-tanks-that-could-ignite-when-hit-by-lightning/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "ATM & Airspace",
+   "published": "2026-11-15T13:27:18Z"
+  },
+  {
+   "id": "1afbe6661245",
+   "title": "Two planes collide while taxiing at Miami airport - as two suffer minor injuries",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3JVQ0J5VVRMTE96dTZPNzJPdXJoOHl4a1lNV3lYTmJkaXFUWHg1eWU2dEFGY19sVEFuY1pudS1FaF9tbW53bVNIWURtSGtfZG5kc0dOUm1LaTBVVXVKSkc1dTRyOUh4Y19Rc1JYM3lOYUhBTWllUEZDajkyVUNhQVJHRnhRMlpUczd0c09FRlpBN2xZeGhCdVRDUzY5cF9KMUpMNVdMZUxaVkxieXpVU2xVQmk?oc=5",
+   "source": "Sky News",
+   "lang": "en",
+   "category": "Airports",
+   "published": "2026-11-15T12:52:43Z"
+  },
+  {
+   "id": "a1036cdc390d",
+   "title": "A B737 and a B767 collide on the ground at Miami International Airport",
+   "summary": "Two aircraft, a Copa Airlines B737-800 and a B767 freighter operated by UPS, collided on the ground at…",
+   "url": "https://www.aerotime.aero/articles/a-b737-and-a-b767-collide-on-the-ground-at-miami-international-airport",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Airports",
+   "published": "2026-11-15T12:36:31Z"
+  },
+  {
+   "id": "33fb923d5583",
+   "title": "Washington Introduces Credits For Sustainable Aviation Fuel Use",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdmtRbFJLWS13Z1VXaTk5eHcwbGlURHNuenFLSEdvQXpLb0J1bURuXzhaYzJIR2RfeE1PMGtLTVdfc2hmOGc3LU1BZTZKY0hPNW9fTERHZWRjMEpPaF9aU2J5djBOT2JEY3dqS0dnZE4ydkFnb1YtSFpvOFdma2ZqZ2Q5b1o5RUhYZl9SUTlfS2hKaWM?oc=5",
+   "source": "Travel Radar",
+   "lang": "en",
+   "category": "Sustainability",
+   "published": "2026-11-15T12:19:33Z"
+  },
+  {
+   "id": "d88448f6da97",
+   "title": "The 2-Hour Rest Rule Ultra-Long-Haul Airbus A350 Pilots Have Before Landing",
+   "summary": "The pilot landing an ultra-long-haul A350 needs two consecutive hours of rest in the second half of the flight.",
+   "url": "https://simpleflying.com/2-hour-rest-rule-ultra-long-haul-airbus-a350-pilots-have-before-landing/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-15T12:00:18Z"
+  },
+  {
+   "id": "6fa70914738c",
+   "title": "Spool Up Vs. Turn & Burn: Which Takeoff Concept Is More Effective?",
+   "summary": "Contrasting engine timing and runway tactics as manufacturers and pilots tailor thrust sequences to real conditions.",
+   "url": "https://simpleflying.com/spool-up-turn-burn-takeoff-concept-more-effective/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Airports",
+   "published": "2026-11-15T12:00:18Z"
+  },
+  {
+   "id": "cf9290df382c",
+   "title": "ICYMI: NSIB releases preliminary report on Triton jet’s incident, says door was unlocked",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUDh2cmxiNjhyTmhFV3ROcWIteGV1dDlfZWQ4blI4T2hvakNzNHZKaERLSEdnYTR4eTVSdXgtTUFWQXEzaEZTMnUxT1ZGdm1zWGg0YUtZTkJSR0o3V3gtQlNJYXhMN01CSl96ZGZDb043Y1EwS0F3M09xUzZuYkRyMl8tdmh1LVd6cEhTTVBkbFJIeWtveWFhSEN2QWNncDRjWExvOFpoSWFnemx3Wkpj?oc=5",
+   "source": "TheCable",
+   "lang": "en",
+   "category": "Safety",
+   "published": "2026-11-15T11:50:00Z"
+  },
+  {
+   "id": "f39bea6160e6",
+   "title": "SpaceX successfully recovers Starship upper stage in world first",
+   "summary": "SpaceX achieved another industry first on November 14, 2026, as it successfully recovered the upper stage of a…",
+   "url": "https://www.aerotime.aero/articles/spacex-successfully-recovers-starship-upper-stage-in-world-first",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-15T11:42:36Z"
+  },
+  {
+   "id": "1485c288265a",
+   "title": "Why United Airlines Flies Its Boeing 787-9 Dreamliners On Domestic Routes",
+   "summary": "Can widebody aircraft really be used on domestic flights? United Airlines is one airline that proves this.",
+   "url": "https://simpleflying.com/why-united-airlines-flies-boeing-787-9-domestic-routes/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-15T11:01:19Z"
+  },
+  {
+   "id": "b56b0b503174",
+   "title": "Lufthansa Adds A350-1000 Bangalore Flights in mid-Jan 2027",
+   "summary": "Published at 0400PCT / 1100GMT 15NOV26 Lufthansa in last week’s schedule update filed Airbus A350-1000 operation on Munich – Bangalore route, previously not covered on AeroRoutes on 13NOV26. The A350-1000 is currently scheduled to operate on 5 of 7 weekly flights from 11JAN27 to…",
+   "url": "https://www.aeroroutes.com/eng/261115-lhjan27blr",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-15T11:00:26Z"
+  },
+  {
+   "id": "a95ec8047b42",
+   "title": "China’s COMAC completes first piloted flight of CE-25A electric aircraft",
+   "summary": "China’s first domestically developed fixed-wing electric commercial aircraft, the CE-25A, completed its first piloted test flight on November…",
+   "url": "https://www.aerotime.aero/articles/chinas-comac-completes-first-piloted-flight-of-ce-25a-electric-aircraft",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Sustainability",
+   "published": "2026-11-15T10:32:27Z"
+  },
+  {
+   "id": "3366abd5764e",
+   "title": "US aviation regulator FAA to audit India's aviation safety oversight standards",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSG5GcS00YmpWRFNicDNMX2VsbHJndVdXMi1TdWNIWU4xbUR5aFVPNFczUjItTU5vYm55YWUzVk5tUTlueXRJY09HODl2cDdRckMyejVrcGl3cTA4VktOaEtNcy1JSEI0QjJBTDlCTWxhQlpVdS1BcHJSM2tzcUJIcWdFNWItbUlQakxSNkhGWjRVS0htcHFxV1IxTmp1WlBWZEFwQWtXY1IwNWx3TnVPYWxLWG9wcXc?oc=5",
+   "source": "Deccan Herald",
+   "lang": "en",
+   "category": "ATM & Airspace",
+   "published": "2026-11-15T10:20:23Z"
+  },
+  {
+   "id": "ca0768c2a0c6",
+   "title": "Why Airlines Don’t Want First Class Anymore",
+   "summary": "Airlines are making a surprising move that's leaving some luxury travellers in the lurch. What's behind this shift?",
+   "url": "https://simpleflying.com/why-airlines-dont-want-first-class/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Airlines",
+   "published": "2026-11-15T10:15:18Z"
+  },
+  {
+   "id": "27d760804e74",
+   "title": "US aviation regulator to audit India’s safety oversight as country holds Category 1 status",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZkhteXp4REZNNjRvYk4tc2hPMEMwT2JXQlg4eTlBRFI0TU14MFh5enhUWkxsU25ZcWtsZ2ZQYXdKVm9iRndhTnUyckNPSjVMS3AwNkMxRkxzTWFUNERrYUhCMkNRNWpSYWxkYWpGTE1FNnNoWGlhR2NQTXFNMGFZS1dST0xIeWdOQllZdEdpYTBtUlc1YUZtS3ZYY3kzb2s3SU1mM3haQnFRd0hhT2M0bVJwenFUU3IybWFXOTQ5YWRCMGNHSjl5TE51VXdFQnVDTlppWtIB2gFBVV95cUxOM0pXbHcyM2ZwTUJtRWVXX2NZZXplQjRqemdVWUg3TEpvT3ExMDdlUEZzLTVGREpHbVMtSXQzbnVWZ3FZNUhGUEVZQUZ0bXJFb2NPblpFS3dqdHFtZDA1UVEwVlNWWVhlazYxZEhVNlFXMU9KMVEwSUVzMWpaaGhCdE8zMmc0RnhvWDliMWtGTFFhS1Q5bWJEcHZKRHkzcFFPUmN4b0VjT01OVklKM01Cc292UDI5dWJuTGNVQ0M2RmF4a0V1WDU3MnllREk1VXU4Rkw4ZGxWVVAxdw?oc=5",
+   "source": "Telegraph India",
+   "lang": "en",
+   "category": "Regulation",
+   "published": "2026-11-15T10:01:38Z"
+  },
+  {
+   "id": "f624b1c93cda",
+   "title": "The FAA is investigating the Miami UPS-Copa collision, and an NTSB probe is not automatic",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTURnUU5lT3lDMHZXamdUS2d3RmV2dEJKV0VlX1VLRWlzTWN6bGpLYnMyeXVkLXhXTGJSSkxGVVluVG1PbGh4UTFmLU1fN3Zsd2VTblM4dE5VSWRxTjFScndsTG1MR09rWUI1bzNHWlFmbzE1STR1MXdsMUU5TmJBbmR1SUpZSFItWUJlemVTMS15ZFk5ODRncV9waVkxYkowOERHR2tzb3NraE9Gdmc?oc=5",
+   "source": "Nacionale",
+   "lang": "en",
+   "category": "Safety",
+   "published": "2026-11-15T09:43:16Z"
+  },
+  {
+   "id": "dcd61b792c0d",
+   "title": "Two Boeing aircraft sustained damage following a ground collision at Miami International Airport",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTlJKOU9kZkgzc1NtZE1RZ1pIQmVDY091RHBNd0lkaEdqOW9FSkpBN2hQMUtRWDZabHVUMFJMdUNYSVZZUFhmT2tsUHBWb0dOcnh5bVliZjN6SnB6ajl0cGNZT1diMUVXUkQteFBiSVZvbjRUTjh0LUxab0lCS2wzUnBOYzNVTmtOMTctRXVXTnlPWUFoUXE0WXZNOTI0Nzd0SEpkdHFFWHZiczA3cXdBUHpoVWtYcHdlbVBSaUEtZklUb1RoR3JucXZ6WGdJNnRhOWQ00gHbAUFVX3lxTE54OWNrNUs2cUpVZXBZTmdXOVBhV3JFd0NlOXNMRllvcGVJdU1Hc2lGNTU1clVxTnhZZ2VLQWs2enBUTlhfUUtfb0Z2X2hzSERrWDBoWWs3SWM1aExTSmJSU3VHVHZCQTV2OUEzaVU2YmpKcGJPTThVR2w0V0t3VGZPeUpPRm85dFlONHoxOGtrOHZPWXUyTWZGQjc1VUFmUkg0X2pweXhyV3pSRmhIN2tHbGlZM3d0d3B1OGNmd1I3RWNIem1qeTRGb1lSeDY2eC1ucE4wZVRyeFpLRQ?oc=5",
+   "source": "airlive",
+   "lang": "en",
+   "category": "Airports",
+   "published": "2026-11-15T09:33:06Z"
+  },
+  {
+   "id": "dc52caa29225",
+   "title": "Boeing Q3 backlog hits $745 billion amid operational challenges",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEljTWhYQzFMX2VBdWZOaVl1XzNRSjZGUmFPLUJFZUp0YUR2TmM3X2dVU1NoNF96VHZ1TWxlaDRMMkZEZ2U0TUVhaUcxNUlQUzRWSTJ6UzUyWjRsbDdQSDZ5cmRvTnE5Nk1YaFQteDEybG5RUnNmelN0MmMtSVUtWkhhbkF6eHIxbnFUT3RBak41VzlJVVQyd090azFjV1p5LUl4bXlQZw?oc=5",
+   "source": "scanx.trade",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-15T09:29:45Z"
+  },
+  {
+   "id": "c3f2851f1929",
+   "title": "Why air traffic control fails and what it could mean for Europe and the UK",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQmVmSmdXR1hzeG1xZVVGUlBfeEZmOTBLMEw5UXU4YzdseTZ5UXJMRnNCT3I2SnZ4MFlDQWRvM1RKR05vWENBSXFOalBfZUdYUHJ4MXh3T1d5bUJ1NkVrYUUySWVZV2k5WFJUckZFNFhqNEt2Ri1rNTUxT19hYVdTRHhuM0xfNW5WaEh3cGZ3?oc=5",
+   "source": "Pasquale Pillitteri",
+   "lang": "en",
+   "category": "ATM & Airspace",
+   "published": "2026-11-15T08:54:20Z"
+  },
+  {
+   "id": "136db0f278b4",
+   "title": "EU's U-Space Framework Sets Digital Rules for Drone Traffic Management Under Regulation (EU) 2021/664",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TNWNMaXBYMTItYXZ4aDVBUjRKTnV3TnpxaGw2STRKZWlvcFpYaHk2dUFwQnpJTnE4WkRjSTZkSkRKdU9MRTMwQXhtRzlIdG83MXZ6eFUwWG10TlRxMC1BTWZjWXZUcFJyRG1oME1wQngwYWs?oc=5",
+   "source": "Avi-Go",
+   "lang": "en",
+   "category": "Regulation",
+   "published": "2026-11-15T06:47:57Z"
+  },
   {
    "id": "d94227e7b475",
    "title": "Emirates Is Stripping Its Airbus A380s To 'Bare Metal' While Qantas Retires Its Superjumbos 4 Years Early",
@@ -129,6 +398,16 @@
    "published": "2026-11-15T01:17:57Z"
   },
   {
+   "id": "1b551d401058",
+   "title": "AAPA: Rising fuel prices are placing financial strain on Asia Pacific carriers",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXd3Ymc4cWk3aWxnRXZCc2NPWF9UUHdwaXFUSk0xcFlhcHFQLS1XMFJPWjRDUm1wSTRaOXVVRW4zRU1vM2hfMjJaQThVRDR6eEY2a25ubEVWMEdPbUJxU2xOWHlnYnZfSER0Y1FqNnBrX3F2RW52X0N1U292OXVLdTdQU3hYRlhnWXdiUXpnV1ZvYnlWNEJrMWRjaXZ0TktYLWhCRzZETy1laFFwRHc?oc=5",
+   "source": "Asian Aviation",
+   "lang": "en",
+   "category": "Airlines",
+   "published": "2026-11-15T00:35:40Z"
+  },
+  {
    "id": "0487229ebb80",
    "title": "U-Space: Drone Traffic Management & EASA Rules",
    "summary": "",
@@ -137,16 +416,6 @@
    "lang": "en",
    "category": "Regulation",
    "published": "2026-11-15T00:30:22Z"
-  },
-  {
-   "id": "01d58c079858",
-   "title": "What we know about the US ground stop and what to do if your flight is affected",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Z1U4RXVta0MzWTJneGU2YzB5Wk1jdnl2T0E3OE9iZ1B2RVV2RUdNbFBXeVVEaEROZHZlWGZ1U1ByVEcxVldaQXBUMWVneTIwY2hxQkRoZDJfM3c?oc=5",
-   "source": "BBC",
-   "lang": "en",
-   "category": "Industry",
-   "published": "2026-11-14T23:11:27Z"
   },
   {
    "id": "aea8feaf8a0f",
@@ -159,20 +428,20 @@
    "published": "2026-11-14T23:00:18Z"
   },
   {
-   "id": "b13a94c9203c",
-   "title": "How Much Do Boeing 737 MAX Pilots Actually Earn At US Carriers In 2026?",
-   "summary": "The top pilot salaries were once reserved for long-haul flying. Today, flying the 737 MAX or other narrowbodies actually provides similar pay levels.",
-   "url": "https://simpleflying.com/how-much-boeing-737-max-pilots-earn-us-carriers/",
+   "id": "294171edcca6",
+   "title": "Why Did Emirates Order The Boeing 777X And Not More Airbus A350s?",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0t5YlFYOVhNYUVCRlcxMWM5cDZPWlBudi1lNUNESWpETl80RVVrbFJ1bWZTYjAweGdJM2dhX0Z1VURCOHdwdXI2MUpKUnBkZ3hHeDNUeWhBajUxWWRRV0o4d0oyNjRjeENpTjFkX2NHeTJJYmlRNmU5Q0JmWjR3aw?oc=5",
    "source": "Simple Flying",
    "lang": "en",
    "category": "Manufacturers",
    "published": "2026-11-14T22:30:18Z"
   },
   {
-   "id": "0e3ec2efe9fb",
-   "title": "Why Did Emirates Order The Boeing 777X And Not More Airbus A350s?",
-   "summary": "A closer look at Emirates' fleet strategy and how it differs from other airlines.",
-   "url": "https://simpleflying.com/why-did-emirates-order-more-boeing-777x-than-a350/",
+   "id": "b13a94c9203c",
+   "title": "How Much Do Boeing 737 MAX Pilots Actually Earn At US Carriers In 2026?",
+   "summary": "The top pilot salaries were once reserved for long-haul flying. Today, flying the 737 MAX or other narrowbodies actually provides similar pay levels.",
+   "url": "https://simpleflying.com/how-much-boeing-737-max-pilots-earn-us-carriers/",
    "source": "Simple Flying",
    "lang": "en",
    "category": "Manufacturers",
@@ -247,6 +516,16 @@
    "lang": "en",
    "category": "Regulation",
    "published": "2026-11-14T18:54:43Z"
+  },
+  {
+   "id": "42b28e71455f",
+   "title": "El de Agoncillo es ya el aeropuerto que más ha crecido en pasajeros este año",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaG0zVVNfVkcxM1FqSnZSd2kxcy1OOFZFQkVUeGhKWVJKbnBncDVjQVh5c3N3Z1Jkb0pIbmtPVldpaVlPLTNONmx4LTEzN1BlV1ZaNV9xd0NtaXpGdlJXaXVyYlZMM29WMU5yTXpOYm5wQ2xGNWhySnc3ckFpSGkwN3hKU282R2syVFFUOHMwc2paSG56bmpzUENSWTZrbkhhTXc?oc=5",
+   "source": "NueveCuatroUno",
+   "lang": "es",
+   "category": "Airports",
+   "published": "2026-11-14T18:53:43Z"
   },
   {
    "id": "9df403be7650",
@@ -429,6 +708,16 @@
    "published": "2026-11-14T11:57:59Z"
   },
   {
+   "id": "203f0e9d3c3d",
+   "title": "El parón aéreo en EEUU deja cuatro vuelos cancelados en Madrid y Barcelona",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWXVlNFd0NVJFck9aRXdlYjc4b2ZoU29kOUpCNkRPcV9VZDQ4cmdlZUNoeGotY3VRcjJhd2tUYmFpN2xoVzcxUEJzWmgxRzhqcmtvckItSUx3Z2piOFZVUnNBS0RTbEdabDQxSjlKZG9fT1FON3RkWi1qV2xaU1M3eGlGZ1dscnRHVzN0YXpHRkVCRnVpb0pKX2JKN1V5R2ZPaWJmU2VSbkdjMndXZnllNTlDcFFadlhiZFhqME5UVFdjaGtZWlZxSGNiSlRLOHItbld3WUlFVmJwdnPSAdsBQVVfeXFMTnRRYWZsaWpHSTB0aEZpbmtNRGpfRzIyS1FkTVRPUFNSNzQ4NV84RGJGLUNWQUo4RTRIenJDNzVxYXFCRjdBajZ3S3VLSkdzMnRLal94OHlmcGNTTUE2ZGl2c0N4R18ydWFFck5vQUpzZW4xcFJGZ0pfbkVTTUlqdlRxcEtocDRfb3QzTF9FajdNSGlicC0zcmwyQk5Ca0Z4SV9uRHBxaXE4MFBLQ0t4X0lpeUhHR0ttOVVPY1p3eE5wSmtURmF6VjNIWGd4bl91Rnk1TEdUQ2VvREpj?oc=5",
+   "source": "Antena 3 Noticias",
+   "lang": "es",
+   "category": "Industry",
+   "published": "2026-11-14T11:23:55Z"
+  },
+  {
    "id": "26831fe64cd9",
    "title": "Cuatro vuelos cancelados en Madrid y Barcelona por el parón aéreo en EEUU",
    "summary": "",
@@ -497,6 +786,16 @@
    "lang": "en",
    "category": "Sustainability",
    "published": "2026-11-14T08:09:44Z"
+  },
+  {
+   "id": "d3a41e24f7ca",
+   "title": "Cathay Group Orders 14 More Airbus Jets",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY1hMMDlERnlPMzVaeFp4a2NSSW0wcGRLcjJURVpzalJ2cW5ZMzUwc3plODl3ZkJQT1RjdnJ0VzNtbGFZLWp6cDJITktNc3dZSGh2eWR3Z2hxLUQwSmR5UjRraXVVUEhMdDZfaV93MThNZTZFcDZlWmU0YVpMYzNIR29NTzYydzZ5anlORGJENmFSZVhabk1sTUFBQmo5SGJQNUE?oc=5",
+   "source": "Aero-News Network",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-14T08:00:00Z"
   },
   {
    "id": "5ca6bcc0f702",
@@ -919,6 +1218,16 @@
    "published": "2026-11-13T20:40:42Z"
   },
   {
+   "id": "e4a4b26d7c2d",
+   "title": "Twelve Raises $645M for Sustainable Aviation…",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMno4blRsSmRJakV3RHNQUGpLQ0NVRlFKVV85OVJEX2FSLVFVSkM5MGRCak1waE9qblNUMlZqWUVqNDdkUEtNck1SRG1MUkg2ekQwdVdlamdQcC1GVVo0UXRQQkNnQWpQQXFleDhZUUx1YTl5WDFHX2FsMHFxWUhHTFZ2ZDJCNGFGODlEVnBB?oc=5",
+   "source": "Causeartist",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-13T19:15:57Z"
+  },
+  {
    "id": "6fb50bf9931d",
    "title": "DSV collaborates with Google Cloud on sustainable aviation fuel to deliver 25,000 tonnes of CO₂e emissions reductions in air freight",
    "summary": "",
@@ -967,6 +1276,16 @@
    "lang": "en",
    "category": "Safety",
    "published": "2026-11-13T16:51:15Z"
+  },
+  {
+   "id": "a27598ea5416",
+   "title": "Boeing Cuts 2,500 Jobs Because It Can’t Build Planes Fast Enough",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1o3VTFlSldGVHlpR3I4VVRXTlJNTHJPbkpYQTQzTW5OVTIzTFJheGJJcE5RaDQ3WVExX0ZqbkdMOGtIc29xdkR2WGlwSHlIMk1XZU5CRXRVbHhUcldvbDZ4eWdrMml4eGRvMEo0YThZSlVEeC1kWktCUi15SklNSXlGVnVzLW1DeG41b3VraGxIb2VoODZTSmFHajFKRml2bWhEdHBBUER6dw?oc=5",
+   "source": "24/7 Wall St.",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-13T16:37:00Z"
   },
   {
    "id": "223479e58689",
@@ -2287,316 +2606,6 @@
    "lang": "en",
    "category": "Routes",
    "published": "2026-11-12T08:00:37Z"
-  },
-  {
-   "id": "0958cfcdbbf2",
-   "title": "DHL Adopts Sustainable Aviation Fuel at Paris CDG Airport",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMEttb2NWUHJ2azVndlY3dlJieTMzWmxCem9YZkhKVndmdUlkZ1Y3SEtFaWR4SXZPM25sem1STmhuOXpfSjhwZTU0T0ZESHhxMVZUY1FaWUFsS0xjNThTYmNrNFNDaWs1RkF2T04zZkRNck5pRmdXZFYzSTB6b09GOTBDVmc4MkgyUGY1UGpRd0hReVRLTVVzczVCdGRLS1NZZ0VYdEhPYncyVW1GRllyMzVOSVd6VjFySEVheHFTakV2X1VhMzhRaFpUUFE2Z2pTcUVVYTNvUVJBS1Q3eDhOZWxNU0xtdVhzdnVuM2s0OXM2cVds?oc=5",
-   "source": "Fuel Cells Works",
-   "lang": "en",
-   "category": "Sustainability",
-   "published": "2026-11-12T08:00:00Z"
-  },
-  {
-   "id": "f1f27d525119",
-   "title": "Qatar Airways Adds Porter Airlines Codeshare From Nov 2026",
-   "summary": "Published at 0000PCT / 0700GMT 12NOV26 Qatar Airways from mid-November 2026 plans to launch codeshare partnership with Porter Airlines, covering the latter’s domestic Canada service. Following codeshare routes to commence on 16NOV26. Qatar Airways operated by Porter Airlines…",
-   "url": "https://www.aeroroutes.com/eng/261112-qrpdcodeshare",
-   "source": "AeroRoutes",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-12T07:00:38Z"
-  },
-  {
-   "id": "3616c793267f",
-   "title": "Gardaí Enforce Temporary Restricted Airspace Across Dublin Ahead of EU Presidency Meetings",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zSlJ1ZDQ2NzFjeTlQc2Q2Y1pQMVFTbERiektGYy1Ga3VLZ1NvdDJXODJaRkVpY1dFbTZIYkpIb21SQkJCWFh2a1BSM05wa0ZLLUpBVXQ3WFJjOC1HQ3FoZWhqSm9RdGw3S1d3d3dFYzZoME0?oc=5",
-   "source": "Avi-Go",
-   "lang": "en",
-   "category": "ATM & Airspace",
-   "published": "2026-11-12T06:51:46Z"
-  },
-  {
-   "id": "7c23630f45f9",
-   "title": "Wangaratta balloon night display incident",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTUxrd2hNdWxBbjZJM0hKbk5KVDFuSUVaLS1DUmUxbU1QajNlLUhvWjEwa2I3RkJTTXFrSGVzTk5aMjN1RE5LRHplZk9tWHZXRGx2S2haTUc5cmxPM2VfZ2RxOTUxUGp6MlFHRG83SmdfcFE3VXVOZXdFVjhsTjFIeA?oc=5",
-   "source": "ATSB",
-   "lang": "en",
-   "category": "Safety",
-   "published": "2026-11-12T06:08:57Z"
-  },
-  {
-   "id": "e1747afb6040",
-   "title": "Sightseeing Helicopter Makes Emergency Landing After Possible Engine Trouble",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0YnRBZGxXLWpLTkl2UVlVVllYaWpmN2lCb3FXSUhtWkVkcUdtaVpHdGdOMGVxMENxTlFaSDlVNENmVnNzOXRvRWd1SjBpeUlsSmk5UzJPbEd0T0Nrd2RkSDNVSkVpRVdLQkhmYTZMLWRkQQ?oc=5",
-   "source": "Insurance Journal",
-   "lang": "en",
-   "category": "Safety",
-   "published": "2026-11-12T06:04:16Z"
-  },
-  {
-   "id": "cf70209abbc5",
-   "title": "Air Tahiti Tentatively Moves 26-seater ATR72 Service to Dec 2026",
-   "summary": "Published at 2300PCT 11NOV26 / 0600GMT 12NOV26 Air Tahiti in the last few days revised planned 26-seater ATR72-600 operations, previously scheduled to enter service today (11NOV26). The inaugural flight was cancelled due to ongoing strike at the airline since 22OCT26. Based on…",
-   "url": "https://www.aeroroutes.com/eng/261111-vtdec26at7",
-   "source": "AeroRoutes",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-12T06:00:41Z"
-  },
-  {
-   "id": "b7b9b5999fb4",
-   "title": "Why Some Modern Airliners Have Just One Engine Supplier",
-   "summary": "Why do the Boeing 737 MAX, Airbus A350 and A220 have just one engine supplier? Explore the engineering benefits and risks for airlines.",
-   "url": "https://simpleflying.com/why-modern-airliners-have-single-engine-suppliers/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-12T06:00:18Z"
-  },
-  {
-   "id": "0b762c4789e9",
-   "title": "More than 5,000 gardaí deployed and airspace restricted as EU events lock down Dublin city centre",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWmF6bWVRdmpQVWplZDN4ZFNIaUtVOWNjZ09EYmVsWjBiMzlXTnZoOWdJTVA3NUtKdExyd1E1aUdSbTBNQUJPNmY4ODVqMFV2T3MteW8xT253SGxVdmMyMkhHS0NEQVJ2OUFzUW5FMVZPdGdoa1l6RmlkT2J3LXRYdjhSaGgyZlNFWUczYm5wQ0tSQVdOblpzUEVXWjZBZWRWVEI0M0pnN2d3SjhjVjNNWk91X1dvUnBlWHFhMngtVkRkWHRvVG1ydWZUc21HR2c0SVNYSFVxVVNvSkdKV1NFRERyT2N5c211OVBmaU9n?oc=5",
-   "source": "Irish Independent",
-   "lang": "en",
-   "category": "ATM & Airspace",
-   "published": "2026-11-12T05:30:00Z"
-  },
-  {
-   "id": "f5b7fd93bc14",
-   "title": "Air New Zealand 3Q27 Tahiti Service Increases",
-   "summary": "Published at 2200PCT 11NOV26 / 0500GMT 12NOV26 Air New Zealand in the third quarter of 2027 schedules service increase to French Polynesia, as the carrier adds 5th weekly Auckland – Papeete (Tahiti) flight for the peak season. Additional service will be offered from 24JUL27 to…",
-   "url": "https://www.aeroroutes.com/eng/261111-nz3q27ppt",
-   "source": "AeroRoutes",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-12T05:00:20Z"
-  },
-  {
-   "id": "371cf97496dc",
-   "title": "Air New Zealand Extends Christchurch – Singapore to Year-Round in NS27",
-   "summary": "Published at 2100PCT 11NOV26 / 0400GMT 12NOV26 Air New Zealand this week extended Christchurch – Singapore route to year-round operation, as the carrier opened reservations for Northern summer 2027 season from 28MAR27. Boeing 787-9 operates this route 3 times weekly. NZ064…",
-   "url": "https://www.aeroroutes.com/eng/261111-nzns27chcsin",
-   "source": "AeroRoutes",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-12T04:00:16Z"
-  },
-  {
-   "id": "07396d94cf27",
-   "title": "Saudia Adds Jeddah – Moscow From Dec 2026",
-   "summary": "Published at 2000PCT 11NOV26 / 0300GMT 12NOV26 Saudia during Northern winter 2026/27 season plans to launch Jeddah – Moscow Sheremetyevo route, on board Boeing 787-9. The airline plans to serve this route 3 times weekly from 01DEC26. Schedule below focuses on the period of…",
-   "url": "https://www.aeroroutes.com/eng/261111-svnw26svo",
-   "source": "AeroRoutes",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-12T03:00:52Z"
-  },
-  {
-   "id": "93fdad336bf8",
-   "title": "The Last Lockheed L‑1011 TriStar Still Airworthy",
-   "summary": "A closer look at the story behind the world's last Tristar, and what the future holds for this unique aircraft.",
-   "url": "https://simpleflying.com/the-last-lockheed-tristar-still-airworthy/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Industry",
-   "published": "2026-11-12T02:45:18Z"
-  },
-  {
-   "id": "8c2d31dcf484",
-   "title": "3 Hours At Immigration: My Journey Through One Of America's Most Remote Airport Hubs",
-   "summary": "Guam is a significant regional US international airport and hub, especially for Micronesia and United's Island Hopper service.",
-   "url": "https://simpleflying.com/review-guam-international-airport/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Airports",
-   "published": "2026-11-12T02:00:17Z"
-  },
-  {
-   "id": "0f010f50073c",
-   "title": "Korean Air Resumes Newark Service From May 2027",
-   "summary": "Published at 1900PCT 11NOV26 / 0200GMT 12NOV26 Korean Air during Northern summer 2027 season plans to resume service to Newark, as the carrier opened reservations for Seoul Incheon – Newark route from 22MAY27. Boeing 777-300ER aircraft to serve this route on daily basis. KE097…",
-   "url": "https://www.aeroroutes.com/eng/261111-kens27ewr",
-   "source": "AeroRoutes",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-12T02:00:14Z"
-  },
-  {
-   "id": "cd3b97036e59",
-   "title": "How Much Qantas Business Class Costs From Perth To London On A Boeing 787-9",
-   "summary": "Qantas offers a premium experience for growing demand in nonstop ultra-long-haul travel.",
-   "url": "https://simpleflying.com/how-much-qantas-business-class-cost-perth-london-boeing-787-9/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-12T01:00:17Z"
-  },
-  {
-   "id": "b4a0774e413a",
-   "title": "5 Notable Airports With Night Flight Curfews That Shape Airline Schedules",
-   "summary": "Curfew enforcement is strict at these airfields, of which three are European.",
-   "url": "https://simpleflying.com/5-notable-airports-night-flight-curfews-shape-airline-schedules/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Airports",
-   "published": "2026-11-12T00:00:18Z"
-  },
-  {
-   "id": "efbe521d5abd",
-   "title": "“Light Bites”: American Airlines To Reinstate First Class Meals On Flights Between 700-899 Miles",
-   "summary": "American Airlines is restoring fresh First Class food on shorter flights, reviving a pre-pandemic perk as premium competition intensifies.",
-   "url": "https://simpleflying.com/american-airlines-reinstate-first-class-meals-flights-700-899-miles/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Airlines",
-   "published": "2026-11-11T22:14:23Z"
-  },
-  {
-   "id": "4a17b904af2c",
-   "title": "FAA clears Skyways to test offshore drone deliveries for Shell",
-   "summary": "The FAA has authorized Skyways, an Austin, Texas-based cargo drone manufacturer and operator, to fly from Gibson, Louisiana,…",
-   "url": "https://www.aerotime.aero/articles/faa-skyways-shell-offshore-drone-deliveries",
-   "source": "AeroTime",
-   "lang": "en",
-   "category": "ATM & Airspace",
-   "published": "2026-11-11T22:01:28Z"
-  },
-  {
-   "id": "01c42eacdcae",
-   "title": "5 Things Passengers Never Realize About How Airlines Actually Decide Who Gets A Premium Economy Upgrade",
-   "summary": "Think upgrades are based on luck? Airlines use algorithms, fare classes, spending data, and loyalty metrics to decide who moves up.",
-   "url": "https://simpleflying.com/things-passengers-never-realize-airlines-decides-who-premium-economy-upgrade/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Airlines",
-   "published": "2026-11-11T22:00:18Z"
-  },
-  {
-   "id": "d5c6f65eb514",
-   "title": "FAA expands AI traffic planning tool to all 22 US en route centers",
-   "summary": "The Federal Aviation Administration (FAA) said it is expanding the use of its AI-assisted traffic planning tool to…",
-   "url": "https://www.aerotime.aero/articles/faa-smart-air-traffic-tool-22-en-route-centers",
-   "source": "AeroTime",
-   "lang": "en",
-   "category": "ATM & Airspace",
-   "published": "2026-11-11T21:43:59Z"
-  },
-  {
-   "id": "04f950e0012c",
-   "title": "Singapore Airlines Brisbane flight diverted to Rockhampton after smoke fills A350 cabin",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxONW1neUxXSE9ZYmRDWDFxN2ZkdUtLUFZfYTF1M1J3Y09BdFNEdUR3bGR2eGExT3dhc0d6U01HbVhld2Z4UHhPUXc5dDcwWUdlWk5UWU91NjFmclFfZlIwLUhtSE4xTmZDbGdvdnh6RE4xYjBHcXJ2aERPSkJsS3FVM2JoaXBheC1fZ21uREpZLW94aWFsNktYSDREbk1IaHNZeHJ5d3RSTE02NEFWM0Q0X1NiaXJlLTZXU0RFQWRjelkwLXdQMVh5LS0wXzhnMzR2a0NNOGxRRWpsN1BIZVRsRVRIZVdoVnd3cUkwejVWNk1ERUdRbVJ6clFPaHZIRUk1aWtYUmd4TWRBd0dxYmFweg?oc=5",
-   "source": "The Australian",
-   "lang": "en",
-   "category": "Safety",
-   "published": "2026-11-11T21:26:54Z"
-  },
-  {
-   "id": "de61ebc303b3",
-   "title": "easyJet shareholders approve Apollo’s £5.7 billion takeover bid",
-   "summary": "easyJet shareholders approved Apollo’s proposed £5.7 billion ($7.6 billion) takeover on November 11, 2026. The UK low-cost carrier…",
-   "url": "https://www.aerotime.aero/articles/easyjet-shareholders-approve-apollo-takeover",
-   "source": "AeroTime",
-   "lang": "en",
-   "category": "Airlines",
-   "published": "2026-11-11T21:18:22Z"
-  },
-  {
-   "id": "f903ae04def5",
-   "title": "United Airlines To Finally Bring NEXT Cabin Retrofits To Its 21 Boeing 757-300s",
-   "summary": "Seatback entertainment is among the most prominent upgrades.",
-   "url": "https://simpleflying.com/united-airlines-finally-bring-next-cabin-retrofits-21-boeing-757-300s/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-11T20:52:10Z"
-  },
-  {
-   "id": "1998c1ec4829",
-   "title": "Breeze Airways Launches 15 New Routes From This Airport: See Full List Now",
-   "summary": "All of these routes begin in 2026 or 2027. Find them all here!",
-   "url": "https://simpleflying.com/breeze-airways-launches-15-new-routes-from-this-airport/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Airports",
-   "published": "2026-11-11T20:30:18Z"
-  },
-  {
-   "id": "657a1701de52",
-   "title": "5 Boeing 737 MAX 10 Customers With The Largest Orders",
-   "summary": "Airlines around the world collectively hold over 1,500 MAX 10 commitments.",
-   "url": "https://simpleflying.com/5-boeing-737-max-10-customers-largest-orders/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-11T20:30:18Z"
-  },
-  {
-   "id": "5fe87fb404a2",
-   "title": "(AMP2) Cancelados 289 vuelos en los aeropuertos por la huelga general, el 6,4% de los programados",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTZOUTlUZmlBLURESS1OdWdyYmFwSG00bTFjWk5GMHR0dmZDMkZGNDFaMFBSOWprcU1MRl9uN0lUNG1hMUlSNEVuMUZjbUhpdGxWLU12Wk5lV0d5TE1MaDJRd05NQ1JKR2lBeUFXN2ZILTF4OXk0bU8wRUd3TWFHS3Vya2Y4YkVud1V2ZDlLUGRNUVA5YmhGOERoWVd5M2lldzVlc2JzWTRFczBOWUUtdUlQODN3Q3J5bGlLeVRLRkV4dHM5TExXQUpIMTd2QQ?oc=5",
-   "source": "PressDigital",
-   "lang": "es",
-   "category": "ATM & Airspace",
-   "published": "2026-11-11T20:18:00Z"
-  },
-  {
-   "id": "3914ad094cb5",
-   "title": "London Biggin Hill (BQH) (EGKB) arrivals, departures, routes and reviews",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsTGFLdWgyQTkzZzhDLWZRa014bXJLckVZVGVGX3kwR0V0MXFOR05rSVE3eFU4TGptUmtUalBlajJDNUsySzhOVXRCazI2ZERWbzlZbjJPWmU5VGs?oc=5",
-   "source": "Flightradar24",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-11T19:39:36Z"
-  },
-  {
-   "id": "23ace5c032db",
-   "title": "Nats chief Martin Rolfe says he was 'the most disliked person in the UK' after two September outages",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xQ2ZwcGVnV005dm1QQzJvR3I5TjJJa3Y2b0NpU1hpTHdaOUlsb1Y2bm84NDFCOEJ3cDdsS18yNmJNa0JtN2dWbGpZMklzVUVhdzNuSkdxRUlBa0UtZU12N21ET2x4R1FtZE5nRVFHa09BOFU?oc=5",
-   "source": "Avi-Go",
-   "lang": "en",
-   "category": "ATM & Airspace",
-   "published": "2026-11-11T19:05:01Z"
-  },
-  {
-   "id": "616346ff98a5",
-   "title": "Aegean / Icelandair Begins Codeshare Partnership From Nov 2026",
-   "summary": "Published at 1200PCT / 1900GMT 11NOV26 Aegean Airlines and Icelandair earlier this month launched reciprocal codeshare partnership, covering service between Iceland and Greece via 3rd point. Following codeshare routes went into effect since early-November 2026. Aegean Airlines…",
-   "url": "https://www.aeroroutes.com/eng/261111-a3ficodeshare",
-   "source": "AeroRoutes",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-11T19:00:20Z"
-  },
-  {
-   "id": "c52941611d0d",
-   "title": "A $1 Aircraft, No Boarding Pass & A Cockpit Seat: Pacific Island Hopping On A Beechcraft Super King Air 200",
-   "summary": "The Super King Air 200 makes an excellent island-hopping aircraft, connecting outlying islands while also offering excellent passenger comfort.",
-   "url": "https://simpleflying.com/review-beechcraft-super-king-air-200-pacific-island-hopping/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Industry",
-   "published": "2026-11-11T19:00:18Z"
-  },
-  {
-   "id": "57ad11c44a19",
-   "title": "La huelga general deja 14 vuelos cancelados en el aeropuerto de Bilbao",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWRobVlKN3RrOTJjYWhOLW1vWlNzQ2J2LThmeG5kMFJZRXNkOVpZMzhaSlNINVd2UkZkQWFycXpoLXVRMHNvWTl5N2pHNE9RN3NOZC0xR1lPdUNkQ1FncXJGX1oweEZpRjBkdVdfQU5lTjN0Z0ZCbXh4M2tUX0lMQUN0WnJfVXJ5UElhZFVHQU5sMGRaei1IcXRLblB0eTc4R3RidmNQaGRHR1hkQlV6eA?oc=5",
-   "source": "Radio Nervión",
-   "lang": "es",
-   "category": "ATM & Airspace",
-   "published": "2026-11-11T18:24:14Z"
   }
  ]
 }
