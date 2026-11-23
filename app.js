@@ -5,6 +5,7 @@ const CONFIG = {
   // Power BI → File → Embed report → Publish to web (public) → copy the *link*
   // (https://app.powerbi.com/view?r=...). Leave empty to show a placeholder.
   powerbiAtfmUrl: "https://app.powerbi.com/view?r=eyJrIjoiMmNjNzViNDgtYmUxNy00YzE3LWIxN2MtNjA2Y2NiY2UxMWQ4IiwidCI6IjU4MThjMTAzLWI0ZmYtNGFiNi04YzA1LWRjMmZiNjk5M2JjMCIsImMiOjh9",
+  powerbiCo2Url: "",
   newsFile: "news.json",
   pageSize: 13,           // lead story + 12
 };
@@ -54,19 +55,22 @@ setInterval(tickClock, 15000);
 })();
 
 /* ── Power BI embed ────────────────────────────────────────────────────── */
-(function mountEmbed() {
-  const box = $("#embed-atfm");
-  const url = CONFIG.powerbiAtfmUrl.trim();
+function mountEmbed(boxId, openId, url, title) {
+  const box = $(boxId);
+  if (!box) return;
+  url = (url || "").trim();
   if (url) {
-    box.innerHTML = `<iframe title="ATFM Delays — Power BI report" src="${esc(url)}" allowfullscreen loading="lazy"></iframe>`;
-    const open = $("#dash-open");
+    box.innerHTML = `<iframe title="${esc(title)} — Power BI report" src="${esc(url)}" allowfullscreen loading="lazy"></iframe>`;
+    const open = $(openId);
     open.href = url;
     open.hidden = false;
   } else {
     box.innerHTML = `<div class="embed-empty"><strong>Interactive report loading soon</strong>
-      <span>The Power BI report will appear here once its public link is added to <code>app.js</code>.</span></div>`;
+      <span>The Power BI report will appear here shortly.</span></div>`;
   }
-})();
+}
+mountEmbed("#embed-atfm", "#dash-open", CONFIG.powerbiAtfmUrl, "ATFM Delays");
+mountEmbed("#embed-co2", "#dash-open-co2", CONFIG.powerbiCo2Url, "CO₂ Emissions");
 
 /* ── News ──────────────────────────────────────────────────────────────── */
 const state = { items: [], cat: "All", q: "", shown: CONFIG.pageSize };
