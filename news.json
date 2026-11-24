@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:14:29Z",
+ "updated": "2026-11-24T16:28:16Z",
  "count": 250,
  "sources": [
   "20 Minutos",
@@ -14,22 +14,17 @@
   "Air Cargo Week",
   "Air Data News",
   "Airport Suppliers",
-  "Al Arabiya English",
   "Al Jazeera",
   "Arab News",
   "Asian Aviation",
   "Avi-Go",
-  "Aviacionline",
-  "Aviación Digital",
   "Avion Revue",
-  "BBC",
   "BigGo Finance",
   "Biz Today",
   "Business Insider Africa",
-  "CNA",
-  "Caspian Post",
+  "Cadena SER",
+  "Cinco Días",
   "Construction World",
-  "Crónica Vasca",
   "DW.com",
   "Demokratis.co.id",
   "Demócrata",
@@ -37,21 +32,22 @@
   "DroneXL",
   "ED Times",
   "EL PAÍS",
-  "EUobserver",
-  "EX-YU Aviation News",
   "El Boletín",
+  "El Comercio",
   "El Confidencial",
   "El Mundo",
   "El Periódico de España",
+  "Euronews.com",
+  "Europa Press",
   "European Interest",
   "Expansión",
   "FLYING Magazine",
-  "Fana Media Corporation S.C",
   "FlightGlobal",
   "Flightradar24",
   "Forbes Middle East",
   "France 24",
-  "Hawaii News Now",
+  "Great Travel Philippines",
+  "Gulf News",
   "Heraldo de Aragón",
   "Highland Radio",
   "Infobae",
@@ -61,42 +57,40 @@
   "Investing.com",
   "IranWire",
   "KarloBag.eu",
-  "Kyiv Post",
   "La Razón",
   "Libertad Digital",
   "MacroBusiness",
-  "Mezha.net",
+  "Mallorcadiario.com",
   "Military Aerospace",
   "NBAA - National Business Aviation Association",
   "Nacionale",
   "News On AIR",
   "Nicolás Larenas",
-  "PBS",
   "Periódico Digital Centroamericano y del Caribe",
+  "Preferente.com",
   "PressDigital",
   "Prop News Time",
+  "Qazinform",
   "RNLI",
   "Radio Free Europe/Radio Liberty",
   "Radio Intereconomía",
   "Reuters",
+  "Royal Gazette | Bermuda",
   "Seeking Alpha",
   "Shabelle Media Network",
   "Simple Flying",
   "Sir Chandler",
   "South China Morning Post",
-  "TVP World",
   "The Brussels Times",
   "The Business Standard",
   "The Globe and Mail",
-  "The Guardian",
   "The Hindu",
   "The Independent",
   "The Motley Fool",
+  "The National",
   "The New Voice of Ukraine",
+  "The Objective",
   "The Shillong Times",
-  "The Tanzania Times",
-  "The Times of India",
-  "Ticker News",
   "TicketNews",
   "TodayPress.tv",
   "TradingView",
@@ -104,11 +98,11 @@
   "UNITED24 Media",
   "Ukrinform",
   "Ultima Hora",
+  "Universitat Oberta de Catalunya (UOC)",
   "Unmanned airspace",
   "WANA News Agency",
   "WPSD Local 6",
   "Yabiladi.com",
-  "Yahoo News Canada",
   "Yeni Safak English",
   "afm.aero",
   "airlive",
@@ -116,10 +110,549 @@
   "empresa Exterior",
   "energynews.pro",
   "https://safariindia.com/",
-  "sUAS News",
   "Українські Національні Новини (УНН)"
  ],
  "items": [
+  {
+   "id": "894987c7d877",
+   "title": "IndiGo Expands Aegean Airlines Codeshare in NS27",
+   "summary": "Published at 0900PCT / 1600GMT 24NOV26 Indian low-cost carrier IndiGo at the launch of Northern summer 2027 season plans to expand codeshare partnership with Aegean Airlines, covering service to Romania and Spain. Following codeshare routes to commence on 28MAR27 at the…",
+   "url": "https://www.aeroroutes.com/eng/261124-6ea3codeshare",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-24T16:00:19Z"
+  },
+  {
+   "id": "040e7fa42ef9",
+   "title": "Singapore Airlines lands at Western Sydney with PM Lawrence Wong on first flight",
+   "summary": "Singapore Airlines (SIA) has launched daily flights to Western Sydney International Airport / Nancy-Bird Walton Airport (WSI), with…",
+   "url": "https://www.aerotime.aero/articles/singapore-airlines-lands-at-western-sydney-with-pm-lawrence-wong-on-first-flight",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Airports",
+   "published": "2026-11-24T15:35:33Z"
+  },
+  {
+   "id": "c7e1104472f1",
+   "title": "UGT valora que AENA no recurra la sentencia que permite recuperar la ambulancia en el Aeropuerto de Asturias",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSXdYZ0E1aHJLR0Juem04Ym4xemU2RUZiNEFZUTNneWl2cXdFYnRBMVZIQ3U3MHM3S1RVYWhDaUtjZEJoU1ZfbDlzejAwOXlsTW0tZnVfeTY4MlJOY2FxSi0wU2NvdE1yd3NRbXA2X2ZYcUtwclhzS3h1YUpraWJIeGx0NFFYeTZKdGQydUtRbEVxcjhwS1BpVVU4b2RPT01fOFZIUHh6MlpBWl9ZOXJhR2JJNzcteVl2dm55ckZXWWdpcUtIYWtlbGtfZS1Qc2FXQWhBYXp4UEJJYk5SSWRwUzRCQQ?oc=5",
+   "source": "Europa Press",
+   "lang": "es",
+   "category": "Airports",
+   "published": "2026-11-24T15:30:10Z"
+  },
+  {
+   "id": "c9b8f64f73d8",
+   "title": "Royal Brunei Airlines orders eight Trent 1000 XE engines",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3lkUXFwZjRkWnhzMDRBelpvc2ZwT0k4YmxOZU5rYXgxdVM3SmoxTHd5X2pldmpVSkd2RmVGdmhEMGxfZWg5MjFDOUVjcnlVUVR4enlrV1JZSW5TWFFleE5uTWVxam1sOWJQYUVVLVYtSHJ6cXVRZG5KWHE5WEhTQ1hubnZtb3VEZFI5b2FfdlJ4VkFyUXZVc2xJYmdkUUtqUHBHUVFISQ?oc=5",
+   "source": "FlightGlobal",
+   "lang": "en",
+   "category": "Airlines",
+   "published": "2026-11-24T15:25:59Z"
+  },
+  {
+   "id": "29264ecdbc88",
+   "title": "flydubai close to Israel return following approval two months after pilot attack",
+   "summary": "flydubai is close to resuming flights to Tel Aviv from Dubai following approval by Israel’s Ministry of Transportation…",
+   "url": "https://www.aerotime.aero/articles/flydubai-israel-return-approval-pilot-attack-tel-aviv",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Regulation",
+   "published": "2026-11-24T15:09:11Z"
+  },
+  {
+   "id": "e71da7f5d952",
+   "title": "Air Europa amenaza con denunciar a Aena por favorecer a Iberia",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSDZLNU5jcDl3al9EZm9kMVZLVTJxVlVSZG1CYjM4bTEwVnpKbmp1a21YRTUzNFBldS1JdHNzOUVRU1doeUJUMDFFZmZqNHktQ0JPMU9DZktkdXhsZndQby12d255bzY5SjMyVmU4S3VvLTJkRWlwTnEyUWlLYVNublZ3ZGRJWmIxOENfdmp6SHdXeFVfRl9Od25pN1BaRTdsZTZZOG0teGlQQQ?oc=5",
+   "source": "Preferente.com",
+   "lang": "es",
+   "category": "Airports",
+   "published": "2026-11-24T15:08:06Z"
+  },
+  {
+   "id": "5abd15eff2f2",
+   "title": "Why Southwest Airlines Isn’t Rejecting Early Boeing 737 MAX 7s Like 777X Airlines Did",
+   "summary": "Southwest is accepting Boeing's stored MAX 7s despite certification delays that prompted Emirates and Lufthansa to reject early 777Xs.",
+   "url": "https://simpleflying.com/why-southwest-airlines-isnt-rejecting-early-boeing-737-max-7s-like-777x-airlines-did/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "ATM & Airspace",
+   "published": "2026-11-24T15:06:23Z"
+  },
+  {
+   "id": "c19231c1bf03",
+   "title": "Turkish Airlines NW26 Karachi Service Reductions",
+   "summary": "Published at 0800PCT / 1500GMT 24NOV26 Turkish Airlines during Northern winter 2026/27 season reduces planned service increase on Istanbul – Karachi route. Since 25OCT26, the airline operates 7 weekly flight with a mix of 737 MAX 8 and A330-300, instead of planned 10 weekly…",
+   "url": "https://www.aeroroutes.com/eng/261124-tknw26khi",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-24T15:00:13Z"
+  },
+  {
+   "id": "20964907f2bf",
+   "title": "flydubai Cleared To Return To Israel 2 Months After Boeing 737 Hijack Attempt",
+   "summary": "The carrier had previously been banned from Israel until mid-December.",
+   "url": "https://simpleflying.com/flydubai-israel-return-approval/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-24T14:57:09Z"
+  },
+  {
+   "id": "64bf386555c9",
+   "title": "South Korea’s first Embraer C-390 Millennium arrives in Seoul",
+   "summary": "The first Embraer C-390 Millennium built for the Republic of Korea Air Force (ROKAF) landed at Seoul Air…",
+   "url": "https://www.aerotime.aero/articles/south-korea-first-embraer-c390-millennium-arrival",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-24T14:46:08Z"
+  },
+  {
+   "id": "9fe0544a696f",
+   "title": "South Korea issues shelter warning over Russian military flights",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPazY4dy1Ld1p1SnhpcUJ5Ml9LRVhPTy1tbE5Fdm5hcW5VZk9HTE1RQVpaek5NX3RzbUt0cXhaT0ZpNkpvQ293eTJmSnd3UU5adDNMQ0thSGpfZDhUcjF5M2Z4S1FoQUhpZ1B2Rnctend4SzZXWE9oS0FTbm5XekdwT1hfNHBpQXNnY0g5Y0E2bmpuUUlseks5MW1aSmhXNkhYdWZsQ0VJZ2FiNGNCYldOUXdqWDNKQVJ4Q3dKQVZtdENJUlk?oc=5",
+   "source": "Euronews.com",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-24T14:45:01Z"
+  },
+  {
+   "id": "c540ef935d46",
+   "title": "Various Carriers Expands Turkish Airlines Codeshare in NW26",
+   "summary": "Published at 0700PCT / 1400GMT 24NOV26 Various carriers starting this month gradually expands codeshare partnership with Turkish Airlines, including Air Cambodia, Air Transat, flynas (additional routes added since last report on AeroRoutes ), LATAM, Malaysia Airlines and Thai…",
+   "url": "https://www.aeroroutes.com/eng/261124-tkcodeshare",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-24T14:00:46Z"
+  },
+  {
+   "id": "d9ff49dcffee",
+   "title": "DSV enters into long-term agreement with Cathay Cargo as their first partner in Asia to scale sustainable aviation fuel",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQekt1cFF3UmNxN0tiUHNkRUM1Q2E5c3RhUFREVi0tcjZJTDU2QUgzXzM4aGhZbVBrMjBOVUFWaFFqck1memxmQThvQWpUR2JZZTFySlUzVnZfMng3N0RZMWFtaEc0UWNPcTA0aEVzNnFxWmNNMFRIV3Z4ZlJZdy1TQmtmUXh1SFRwSTc2aEF6aWZmMEdJd25paUdaV0diVllrb1JUTXpFUWt5MEpPSEV6bGh0bHlsOEpTNE90T0ZhcUZ1V2lJQnNBUHlBU3BJRklid0VQNDdZVXc1R3I2T0wxWU51MDl4SW5ReWxsVlcwYlZsWWdlTWc?oc=5",
+   "source": "Great Travel Philippines",
+   "lang": "en",
+   "category": "Sustainability",
+   "published": "2026-11-24T13:53:52Z"
+  },
+  {
+   "id": "341b8d3f65a3",
+   "title": "Aviation security’s next blind spot: The threat from within",
+   "summary": "Amir Lezer is Chief Security Officer at Avia Solutions Group, with three decades of experience in aviation security,…",
+   "url": "https://www.aerotime.aero/articles/aviation-security-insider-threat",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-24T13:39:10Z"
+  },
+  {
+   "id": "d6fda38b26eb",
+   "title": "Xiamen Airlines Places $7.4 Billion Order For 50 Boeing 737 MAX 8s Ahead Of New Hub Move",
+   "summary": "Another big win for Boeing in China.",
+   "url": "https://simpleflying.com/xiamen-airlines-order-50-boeing-737-max-8-7-4-billion/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Airports",
+   "published": "2026-11-24T13:37:02Z"
+  },
+  {
+   "id": "748c0453bf58",
+   "title": "Boeing Weighs More Layoffs As 737 MAX Output Boost Slows",
+   "summary": "On November 19th, Boeing declined to tell one of its largest unions whether further layoffs will follow a round planned for next month, even as the company struggles to lift 737 MAX output from 42 jets a month to 47, a rate it had expected to reach this past summer. The company…",
+   "url": "https://simpleflying.com/video/boeing-weighs-more-layoffs-as-737-max-output-boost-slows/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-24T13:33:18Z"
+  },
+  {
+   "id": "c1091c721c28",
+   "title": "Xiamen Airlines signs deal for 50 Boeing 737 MAX 8 aircraft",
+   "summary": "Xiamen Airlines, a subsidiary of China Southern Airlines, signed an agreement with Boeing on November 24, 2026, to…",
+   "url": "https://www.aerotime.aero/articles/xiamen-airlines-signs-deal-for-50-boeing-737-max-8-aircraft",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-24T13:19:08Z"
+  },
+  {
+   "id": "9aad43503376",
+   "title": "Enaire convoca 159 plazas de controlador aéreo para atender el mayor tráfico en España",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbHlLX1ZRT0tHSDRmUjNwdTNsa1EzdDZ6RGp1eDZnaUg5QnhaXzhnUVlCUUtLc2lfc2ZhU3pLS1VmVm4wZ2pqR3RmTGZsekpwREdyLUtUN20zWDNWelNEOG9JOVNrQnRjZVRudGc1YkpnZ0JkMmhLWDVCZklKMjMzaXYyd0VsbW11MHF6OGhwRzFnV0J2dGZza1U3WmdwcjR1b3d1dDZBcjBySk1hWUhkaHpJUGJBYjFOZU8yNVRmUU5xb3U0TFZrcWdUUUVZY2xiTFlYMkRRVi3SAewBQVVfeXFMTmlEYXJWelJUSmNHcTJzX05LbWd5MWhLYXM0RTlZM2NBbjNnQ0lObVN5Y0ZkX3V1bFIzMDdaT0FDanF6MUpqRkF0ME9tSTEyTmFQeEM1M1BBYmpYSUROcmpyMlJiN0doRUxGbTNNTV92dlM1TmhTVEdmb01STEJ0THdoT24ybmg3aUNGUGJoMWFfQ2tRRnVmeTFnVTNWSUpwS0I5ZmhLX2ItYkdYN1JhaldtRVRMekhkaE5VTjE0X0pMQnpvcTN2TFNrRVlhT3EzdkdEaWdfNG5lcjhTQmRWREZyU1Q2bW1pWHJzQUg?oc=5",
+   "source": "Cinco Días",
+   "lang": "es",
+   "category": "ATM & Airspace",
+   "published": "2026-11-24T13:04:34Z"
+  },
+  {
+   "id": "0d7ad78568e6",
+   "title": "Ural Airlines Dec 2026 Ekaterinburg – Kazakhstan Network Additions",
+   "summary": "Published at 0600PCT / 1300GMT 24NOV26 Ural Airlines in December 2026 is adding service between Ekaterinburg and Kazakhstan, recently opened for reservation. Planned additions include the following. Ekaterinburg – Almaty eff 18DEC26 3 weekly A319/320 Ekaterinburg – Astana eff…",
+   "url": "https://www.aeroroutes.com/eng/261124-u6dec26kz",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-24T13:00:54Z"
+  },
+  {
+   "id": "4c652399f12b",
+   "title": "Ryanair Cancels All Flights To 5 Destinations: See Full List Now",
+   "summary": "The carrier has now entirely pulled out of two countries. Find out more here!",
+   "url": "https://simpleflying.com/ryanair-cancels-all-flights-to-5-destinations/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Airlines",
+   "published": "2026-11-24T13:00:18Z"
+  },
+  {
+   "id": "9c20a0b1deec",
+   "title": "Kazakhstan teams up with ICAO on 2050 airport and route expansion roadmap",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaGNBdXR3cUEtM2dueUEySUc5WUhEWGNXcnRWQS0xbFYxMUpYLXgyZEQ5bmNkaHNBZ19zVEN6cG5xbGJxMkVZTGRUc0Zzak9rN0dldzktU2NraUEzUk5ZMVdXOTNXUVNJSjlyUDZjUjBnbVRmMXJ5aE5UYjJFRlNMajJpbmNmRkxiRW0za0VrUDZaUE83N0g5eXoxMWppTElmMzNWM08yQnlhTFHSAasBQVVfeXFMUGhjQXV0d3FBLTNnbnlBMklHOVlIRFhjV3J0VkEtMWxWMTFKWC14MmREOW5jZGhzQWdfc1RDenBucWxicTJFWUxkVHNGc2pPazdHZXc5LVNja2lBM1JOWTFXVzkzV1FTSUo5clA2Y1IwZ21UZjFyeWhOVGIyRUZTTGoyaW5jZkZMYkVtM2tFa1A2WlBPNzdIOXl6MTFqaUxJZjMzVjNPMkJ5YUxR?oc=5",
+   "source": "Qazinform",
+   "lang": "en",
+   "category": "Regulation",
+   "published": "2026-11-24T12:27:25Z"
+  },
+  {
+   "id": "4ad658a35022",
+   "title": "Airbus needs 249 deliveries by year-end to reach 870 target",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEl2emdzOEcwQTY4NDRpeElmMXJ5M2pzUUNOUnM4MjZ6MV9QaEtjTWdXNnJfZFpzdDV0UUNXdFUxRFR3SUJmbnZKcnNDbFd4WktuVmRlalJXajk3RUpyRWpIUUVGTEF0ajJkVkRKSXQ4cVhLU2otTkZhRlJ4TkpqQ2htOWRTWHljemdTbzFuR0pvcTR6SHRhT0VQck5GaWx3UWZZd21XenVLQ2kxUGpTLW91aGVrUQ?oc=5",
+   "source": "Investing.com",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-24T12:18:35Z"
+  },
+  {
+   "id": "94e460b6d2b4",
+   "title": "Russian warplanes trigger unprecedented air raid alert in South Korea",
+   "summary": "South Korea issued an unprecedented air raid alert for Ulleung County on November 24, 2026, after several Russian…",
+   "url": "https://www.aerotime.aero/articles/russian-warplanes-south-korea-air-raid-alert",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-24T12:14:58Z"
+  },
+  {
+   "id": "235e13f42091",
+   "title": "Promote Sustainable Aviation Fuels (SAF) in Catalonia",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lamlKX0VOQjlOdXhjcEp1dUNIdm1BTlNIZUY3eXltX3pVNEcwZDIzSWRtd3pfdEhjdDVzWU1SM0lZQldWRTJ2aFRLYThzQXZxRjN2WlhOM2RJVkRrVmctenlDQQ?oc=5",
+   "source": "Universitat Oberta de Catalunya (UOC)",
+   "lang": "en",
+   "category": "Sustainability",
+   "published": "2026-11-24T12:13:13Z"
+  },
+  {
+   "id": "e7564737576b",
+   "title": "Ryanair promises major German expansion if Merz scraps ‘damaging’ taxes and fees",
+   "summary": "Ryanair has promised a major German expansion, including more aircraft and routes, if the government scraps ‘damaging’ taxes…",
+   "url": "https://www.aerotime.aero/articles/ryanair-promises-major-german-expansion-merz-scraps-taxes-fees",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Regulation",
+   "published": "2026-11-24T12:08:31Z"
+  },
+  {
+   "id": "00ae584ae1bd",
+   "title": "5 Air Force Bases Spending Hundreds Of Millions To Rebuild Cold War-Era Runways",
+   "summary": "A closer look at how these bases are preparing themselves for the future.",
+   "url": "https://simpleflying.com/air-force-base-cold-war-runway-rebuild/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Airports",
+   "published": "2026-11-24T12:01:20Z"
+  },
+  {
+   "id": "08ce9a8a008f",
+   "title": "Singapore Airlines Cancels 9 Airbus A350 Routes: See Full List Now",
+   "summary": "Popular tourist routes and long haul sectors see cabin mixes shifted with First class returns and narrowbody downgrades.",
+   "url": "https://simpleflying.com/singapore-airlines-cancels-9-a350-routes/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-24T12:01:20Z"
+  },
+  {
+   "id": "c1b87bea8037",
+   "title": "NTSB releases preliminary report on Graves County plane crash; Cadiz Restaurant rebuilds after devastating fire",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNWnFTVFgtVzBYZEhveHBXMFBnYTR4a2l2V25GWXhqc01hQXd1RTdkZHpHaUluekg0ajh2OTN1X3dhUDJtUnpCWGNXWkRuU2RGVTVjZWc0Q1RDdkxkYnBrWnl5Uk1lQ2t5OExheF84U3lhMXQ4dXhERHFPR2ZFRU1FUVBBaEJXSmhoR2JFdl9kSXlTVzZyVUR0dG9OSmNrYWQyV2VDa1hMcWs5ZlRWbFFSd203dFlxSWhXM2xXWV9tMzZkZElUYTRhNmc3c25HaWh3X2QyakQzMlNEMWx0eWpuVkNyYWhKdTYybngtX29DTEtOZWl0RDVHNkZFU2FGYnNERWhxWnNJNi1hZEc4blpPMWgtbWNUNVhqNWE4Nw?oc=5",
+   "source": "WPSD Local 6",
+   "lang": "en",
+   "category": "Safety",
+   "published": "2026-11-24T12:00:27Z"
+  },
+  {
+   "id": "3677066b627b",
+   "title": "Electrical failure forces emergency landing at airport",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTEMyLURqaWl6aTltM282ZGxBQXZtb0I4QzY0bzRkdVhic3JJTGtBb1dXbkkzdnc0LTlqZ19tYUZlRllwZE5qVkRwZnZySkVOR3ozbktZdC1QZTdZbWdQUlFSNUNaLUs2X1phVHlWNDFjbnY4ZkMzVEh0QUFCWG5qY3VNR1dmVGg3M2M3Nkd6dUp2aHctVDVxbnd1WU91eXBpX1FhZ3g5SkR5dUVzQmFVY2FIOUtYb3c?oc=5",
+   "source": "Royal Gazette | Bermuda",
+   "lang": "en",
+   "category": "Safety",
+   "published": "2026-11-24T12:00:14Z"
+  },
+  {
+   "id": "02eb8ae3b0e0",
+   "title": "Ural Airlines Adds Moscow Zhukovsky – Central Asia Routes From Dec 2026",
+   "summary": "Published at 0500PCT / 1200GMT 24NOV26 Ural Airlines in December 2026 is adding various route to Central Asia from Moscow Zhukovsky , on board Airbus A320/321 aircraft. Moscow Zhukovsky – Almaty eff 18DEC26 1 daily A320 Moscow Zhukovsky – Astana eff 18DEC26 1 daily A320 Moscow…",
+   "url": "https://www.aeroroutes.com/eng/261124-u6dec26zia",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-24T12:00:05Z"
+  },
+  {
+   "id": "9f1f296b0f4f",
+   "title": "AirAsia says worst is over as Q3 losses halve, months after bailout rumors",
+   "summary": "AirAsia Group says it has turned a corner after a turbulent year marked by soaring fuel prices, deep…",
+   "url": "https://www.aerotime.aero/articles/airasia-says-worst-is-over-as-q3-losses-halve-months-after-bailout-rumors",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-24T11:54:12Z"
+  },
+  {
+   "id": "0e92ff7ed562",
+   "title": "Saudi-led coalition says it intercepted and destroyed Houthi drone aimed at southern Saudi Arabia",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mc3kwUTdxMmt4YzFCRWJ1T2hzWTZUc0VBRnBvSEhxZW51dWpnaUZrWTZ1OVhhTVhLWWxrNW9rVVdoYUtOMERKaEpxSUt4MlZ1elNJV3JwM19hbHpvaXI3dE5DeGhfRDhmWE1iUWw3X2N4YkU?oc=5",
+   "source": "Avi-Go",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-24T11:48:15Z"
+  },
+  {
+   "id": "4015744f0aec",
+   "title": "Aena destina 2,2 millones a su Plan Invierno 2026-2027 en 21 aeropuertos",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY1NGV1BEajhadE5MU1FiRk8wV2tuTV93WC12LTV6c0NCQ3kxNWxwLXF5UzFIX0JKTXJNcFpPbWtneGp4U3R5RmxGR2V3c0s4d0M1SGY5NWZKdzEwYmF3SW5BRDMtMVJfMnF5QTJyYlhTOFZZUlVUNUJCMUp5aE4zbEJxb19QZjNhN19BcWVOOC1Lb25pUEJMRC15TUxCbkx3ZEFfZU1Ga2pzRjJmd1VucGJEbHNiRnhSRFVhNnpGM1l4aWFIWkpXOHpRRGLSAcwBQVVfeXFMT2NTRldQRGo4WnROTFNRYkZPMFdrbk1fd1gtdi01enNDQkN5MTVscC1xeVMxSF9CSk1yTXBaT21rZ3hqeFN0eUZsRkdld3NLOHdDNUhmOTVmSncxMGJhd0luQUQzLTFSXzJxeUEycmJYUzhWWVJVVDVCQjFKeWhOM2xCcW9fUGYzYTdfQXFlTjgtS29uaVBCTEQteU1MQm5Md2RBX2VNRmtqc0YyZndVbnBiRGxzYkZ4UkRVYTZ6RjNZeGlhSFpKVzh6UURi?oc=5",
+   "source": "The Objective",
+   "lang": "es",
+   "category": "Airports",
+   "published": "2026-11-24T11:47:39Z"
+  },
+  {
+   "id": "dfd07911eed2",
+   "title": "NTSB: Flight Design CTLS N792CT Ran Out of Fuel 20 Minutes Into Flight and Flipped in Forced Landing Near Yankton, South Dakota",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80amNydTZoQW1mdzVOUXpBMFZTQ1VHWlctaVNWQV8wbjZnbEtfTGtFcHZUY3JlYmpxdmlNRVc0ZUhINDJSV0Y4aWpHbnVoV0xMNHdGb2JXRGpJWHN6T0xFeWd6b3o3eUh5TlhKbE1GTEVRMWs?oc=5",
+   "source": "Avi-Go",
+   "lang": "en",
+   "category": "Safety",
+   "published": "2026-11-24T11:46:45Z"
+  },
+  {
+   "id": "976a738450a5",
+   "title": "China Southern Airlines unit to buy 50 Boeing 737-8 aircraft at $7.4 billion list price",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeko4UlRESEhUV2xFR2JHbnFic04yTlZiMkpaU2FVS2w0TzV3djlxNHVicmFNUXpDV2FfamtPWlh2NW5HOUdfOXpDWEpmWlY3dUlhSFVwb2FocWtVR1Rjd3Nramp0VVJhSTB1dzJBS0UzWmx5VVptamdRbkhtcDNfSVZwN3dFOENnOFRnUmJILTVvRXM5YlZyMzQ0ckNFQUczX1RRd0pNZXkxUUhCbklaeFRR?oc=5",
+   "source": "Reuters",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-24T11:42:58Z"
+  },
+  {
+   "id": "274009fa6cb8",
+   "title": "Chinese carrier Xiamen Airlines orders 50 Boeing 737 MAX 8s",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUppZTJhV1o1ZWxRYzBoMmFsemtfVVUwcjcxRk9OSENPTDA1OGpNeVhKamp0Zm5qTG5wcWM4NHFOMTN4Ym9RVExyRm5MQ0NwaUt6aUpUVzRfckRaUW45SlQ1ekxpMmxmU1FtRHJybVhORk1LNVRjcTRONWRUdDNlYW0wdzlKY1paRkZ5MlFLSVI4dw?oc=5",
+   "source": "Air Data News",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-24T11:41:17Z"
+  },
+  {
+   "id": "896087b4dde7",
+   "title": "Aena activa su Plan Invierno 2026-2027 con 2,2 millones en 21 aeropuertos",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT0daQWRGM29JZ0dtcmo3cGJYY0p6NEpsUmN4ajdxdDAwcE9xZC1xRUxMQ3JBYlFXYXpqVENpaWNaRi1lXzkyRi1oWGt2WUpvVUpIT0xLdnlNVGlJS2RDTE5wRk02bm0tY2Ffdkk0aVZIUUVzMnFTLVJyRGMtQ1l4VnBuX203ZVlKazBLZWMxTWlXUUJlRlVaY09BeUl1amtaR1FSckc2MktYaGhX0gGyAUFVX3lxTE54VVk0a1lsYnAydExKakszbkxNdTVoTmpoSE56SDNTUzc1UV93NTFJZjBCa3E3SEFENXlkTlBfVEcxclN2TFZwMUxtV3hSQ09oei1BUXpHV0RhWnZQcTNvSWVGUXBvWTNfeHFVNEt4Um5handyVXBYXzAyUlhOQXFsOENyWm9ldndaNW5zSEd5SndrRUZTWVpiOHRMS0lobDVwVXAxQlZQbnNJVUJMeU1NQXc?oc=5",
+   "source": "Demócrata",
+   "lang": "es",
+   "category": "Airports",
+   "published": "2026-11-24T11:39:25Z"
+  },
+  {
+   "id": "0b836ba12771",
+   "title": "flydubai working with authorities to resume Tel Aviv flights",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTDRmcDAxSHc2TWtiajJuVkVyQ1FEcnpFeGdnMkZ0YUZOejREdzJzcjNmbHoyUkhucmdQb2h3cmRZLTliYmxLTVhRTEhLS3l1SXhjRGdidUlIVjdWQ25iakxUOXpqbkhzV2RsSzVMUDNwblRvdUhHLUJsQnBOTF9JR1lqd2lvaTdibmVnMWpCQkhJdXBDNnc4MktTZW5SclpTMnNPLU15OXdIYlVRVVE?oc=5",
+   "source": "Gulf News",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-24T11:27:03Z"
+  },
+  {
+   "id": "e64c1f9157ac",
+   "title": "Flydubai given approval to resume flights to Tel Aviv by Israeli authorities",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU0paRGRuT242OVNfSFFFdHB6dkxURWlvQmtRN1pEX1FWZTZkb3RyelpOS1FSaUlaSHNEVWhFTG1ZeU8yT2RJdVFCazZxRGk4MjhVbGs3a0dNajNMRl9yME5PU1Q2NVY0UDRkcFpKd3BvT1llZ0dPWldYa0JBSUd1bU1LbGdfMWZBNGhDWUlyNXRpaURDRnhpc3ZoaVpMWDhXZV9adEhhSFNkT1YwVFRHVWlhRHRyZjBxWWVDSzJnRVFVZGs4eXc?oc=5",
+   "source": "The National",
+   "lang": "en",
+   "category": "Industry",
+   "published": "2026-11-24T11:25:45Z"
+  },
+  {
+   "id": "25dce0b5426d",
+   "title": "Incora’s Willis Lee on why going local is the key to APAC supply chain certainty",
+   "summary": "As airlines and maintenance providers across Asia Pacific contend with fleet growth, tight parts supply and long lead…",
+   "url": "https://www.aerotime.aero/articles/incoras-willis-lee-on-why-going-local-is-the-key-to-apac-supply-chain-certainty",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Airlines",
+   "published": "2026-11-24T11:13:32Z"
+  },
+  {
+   "id": "7ac6f3a92cd1",
+   "title": "Boeing moves closer to 737 MAX deliveries from new North Line at Everett",
+   "summary": "Boeing has moved a step closer to customer deliveries of 737 aircraft built at its new North Line…",
+   "url": "https://www.aerotime.aero/articles/boeing-737-max-north-line-production-everett",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-24T11:10:08Z"
+  },
+  {
+   "id": "71d481c9a38e",
+   "title": "S7 Airlines Adds Novosibirsk – Dalaman in NS27",
+   "summary": "Published at 0400PCT / 1100GMT 24NOV26 Russian carrier S7 Airlines during Northern summer 2027 season schedules new route to Türkiye, where the carrier adds seasonal Novosibirsk – Dalaman route. Boeing 737-800 aircraft to serve this route twice weekly from 26MAY27 to 03OCT27…",
+   "url": "https://www.aeroroutes.com/eng/261124-s7ns27ovbdlm",
+   "source": "AeroRoutes",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-24T11:00:08Z"
+  },
+  {
+   "id": "7efa652af863",
+   "title": "F-GXLH - Airbus A330-743L Beluga XL - Airbus Transport International",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rbGlTZ0tUVDFoVHFXUk5PYnRuLWNUU3ExYXRUeFJvZDdBVldESi1YM1JPWjlwNkdhZGR2SnZvYUlNd3JmLWE3RUlJUy0xcEFUaW9ndUhnNmNCaWU2QUxn?oc=5",
+   "source": "Flightradar24",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-24T10:41:25Z"
+  },
+  {
+   "id": "717fdeb36513",
+   "title": "NATO to deploy AWACS aircraft as Russian airspace violations in Poland continue",
+   "summary": "NATO will forward-deploy one of its Airborne Warning and Control System (AWACS) aircraft following the incursion of three…",
+   "url": "https://www.aerotime.aero/articles/nato-awacs-deployment-poland-russian-missile-incursion",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "ATM & Airspace",
+   "published": "2026-11-24T10:19:19Z"
+  },
+  {
+   "id": "87171186905b",
+   "title": "Los europeos retratan a Aena y sitúan a Palma e Ibiza entre los peores aeropuertos",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpNHdmRGtKMGhsZXlQZEc1ZkZrMVNCekN5ZzJiM3VPX1JxNEFXcXFrbjdNcURqYjFqNDFoRlVfb0ptbXA4WDU1Z1BHWmxDNEZrSTgzaHFjbHZVUndWcGd3RXJ3eWM5X3RISkpkZzdycUxRXzBjTmhxQTJaeVFHZ9IBgwFBVV95cUxPbHZEbXFTbDR6ejVCR1JwVWFaOXRpXzVNRkRyTjBfTjh4TVpia3BRZFNRN0VYS1Njc081VEVhdUh1VWtlYlR6ajBkNG42Qlk5OHVoS2NpSUpQd2dfWi1IeVNkVDlka214cHdiSGJiYmozWlRDaVlwbkRmSmx0cV8yUFhBNA?oc=5",
+   "source": "Mallorcadiario.com",
+   "lang": "es",
+   "category": "Airports",
+   "published": "2026-11-24T09:31:57Z"
+  },
+  {
+   "id": "e531eda7f556",
+   "title": "Alaska Airlines Boeing 737 Collides With Catering Truck At JFK, Wing Damage Halts Flight",
+   "summary": "Footage of the aftermath arose on social media on Monday night.",
+   "url": "https://simpleflying.com/alaska-airlines-boeing-737-catering-truck-collision-new-york-jfk-wing-damage/",
+   "source": "Simple Flying",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-24T09:31:42Z"
+  },
+  {
+   "id": "05cdd1be59d2",
+   "title": "GE Aerospace defense CEO to leave firm after four years",
+   "summary": "The President and CEO of GE Aerospace Defense and Systems is stepping down from her role in 2027…",
+   "url": "https://www.aerotime.aero/articles/ge-aerospace-defense-ceo-to-leave-firm-after-four-years",
+   "source": "AeroTime",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-24T09:25:07Z"
+  },
+  {
+   "id": "269c7f623791",
+   "title": "El aeropuerto Huesca-Pirineos llega al millar de pasajeros en 10 meses",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ1JMQTd3Vzc2TFRqLWNtZEE3YTVIT0QwamJuNlZDS2R4MlRaUWw2VmRQdjZQVjZTV3d1UXkwZUVOcUVZclRqRjdGWWNaSU1IODIzVmhhMlJxNVI4S0tNTlhBYW5ORDBmSm9vV1JuQm4tc19jTEZUUkdrdE5OYmJoMElkbzd1UzVYcEotMThUQ0hTUlNkLUY4V1hxMnBsYjJfcURxdnJCUC1OLXpSMnBabDZmZmVyZTJyZkMyMUFtUDdjVjdqSVBBUUNBTDRFRV9POTVLMllB0gHWAUFVX3lxTE9nUkxBN3dXNzZMVGotY21kQTdhNUhPRDBqYm42VkNLZHgyVFpRbDZWZFB2NlBWNlNXd3VReTBlRU5xRVlyVGpGN0ZZY1pJTUg4MjNWaGEyUnE1UjhLS01OWEFhbk5EMGZKb29XUm5Cbi1zX2NMRlRSR2t0Tk5iYmgwSWRvN3VTNVhwSi0xOFRDSFNSU2QtRjhXWHEycGxiMl9xRHF2ckJQLU4telIycFpsNmZmZXJlMnJmQzIxQW1QN2NWN2pJUEFRQ0FMNEVFX085NUsyWUE?oc=5",
+   "source": "Cadena SER",
+   "lang": "es",
+   "category": "Airports",
+   "published": "2026-11-24T08:57:04Z"
+  },
+  {
+   "id": "766f1fd60a99",
+   "title": "Governments seek greater economic growth through reforms to global air transport",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFRsemlxWS0tMEtZYjd3QjJUcFg0dzg5NVBuNHVxekJhdUpVb3lINzlQUnNWTWFEY0V6LU93NXF1RmVqaVVzbm4xaEhFTXlDV3psdFFpV0dJZWdINmt1UFcyQ1JPanE5UU02ZV9SODdOUm10MEYyemw3aGFJeFVoYTlnNnhYVUdwRDBPdnEzcEVFMTVsU25CTDVfdzdOaTJ6U0tKcmdn?oc=5",
+   "source": "International Civil Aviation Organization",
+   "lang": "en",
+   "category": "Regulation",
+   "published": "2026-11-24T07:45:49Z"
+  },
+  {
+   "id": "65e1daf5e754",
+   "title": "Ethiopia, Indonesia, Oman, and Türkiye elected to ICAO Council",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkU4MzUtbmw3d1JiM3Y4V3BITWU5R2VqOVVVM2ZnQ2FGbjI4RWlrQkhyS3cxSmJmZHh1eGlFRHo1S1BFS0dsVDRzY2g3QkpmZy0yRHNYLUdGWTVtQURJSnFsdm5uSjZIMmdmalRCN1FFVV9DRmhYVWdCODZ0UDkwS1Y1YzZkVHg1cnc?oc=5",
+   "source": "International Civil Aviation Organization",
+   "lang": "en",
+   "category": "Regulation",
+   "published": "2026-11-24T07:15:41Z"
+  },
+  {
+   "id": "de71945fa24f",
+   "title": "Airborne 11.13.26: JMB's Stunning Stampe, Boeing Looks Up, Midway Museum",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2V2UG8tcktnV2xadDhyaWdZVG9VWE5fdTFRVU83cS1DSnJtck5OQ2FzenZKQ0dZdHI2ajhybWIzdlBZLXNmb0s1b01wTGp2T2xlVV9ES01KYlgzYVRmcnVEQnJaeHQwQTJqYUpEdlJuZTZiVkRhRjR2cm5VTUdXR0lqMnpNdjAxX3g0OHVIZU5yYnpBeEhr?oc=5",
+   "source": "Aero-News Network",
+   "lang": "en",
+   "category": "Manufacturers",
+   "published": "2026-11-24T07:13:29Z"
+  },
+  {
+   "id": "f0e082542dae",
+   "title": "Grattan Institute launches fantasy plan to drive up airfares",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3VwT0dhcmpONzVId0FQbjlBQVZ6ZEsxLVhQR01mVERiNnUwcENrRllWNVdBQXU1Q3Q1U0ROYTdUMFpuWGFUVWFFQTVyYjhwUXhoT2hGWnJ1cW9iVlVodFYxZThPazRiUGNCUzNlcXJVZFA0aDZhc3VEaHd2NUdOMl9FbmtVLUV4OUhsUkFtcDVmS2JramdZeGRB?oc=5",
+   "source": "MacroBusiness",
+   "lang": "en",
+   "category": "Routes",
+   "published": "2026-11-24T07:02:26Z"
+  },
+  {
+   "id": "aa5bf6bfdb2e",
+   "title": "El aeropuerto de Asturias recuperará su ambulancia",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXQ2UzlBQ2NENDhwd3I0WnN0UXp0cWpLbVhxOVFnUTB2SmxtMWp5QnFfVlF1dkN0Z1ZHQ0JvcnhpYkRqY2d0TTNtenRMemtXRkN5bmdHTnV1cjdoNEhkRjFQNHd1aUpPWUJnR2prcTN1UFl2S2c4Umx2ZWU3Rmgxenhhb0g2dlFKVmQzcjh6dmlEb2lXVzdGUDduQ0tRRGZU0gGmAUFVX3lxTE9UVlZQYThnWm1GbFQxdUhLUFZYbWl3eXFJckxra2VHcEhscXZLdmxmZnhqeGN2NjN4REY5NFFkXzFMQXVzeEpacy16aFBUTGhjUmNmWnVyT0JveldQTjdSdEsweFhtQ0hNM2lxdW9sc0J4TGdEcXBYc2RvWWljLTRZVUMySmVEUEpaOWVWSDlWY0k3aXlXOUhkZDhMRFNVOUhnUmV5enc?oc=5",
+   "source": "El Comercio",
+   "lang": "es",
+   "category": "Airports",
+   "published": "2026-11-24T06:59:04Z"
+  },
+  {
+   "id": "ca3630f25d62",
+   "title": "Russian drone breaches Polish airspace during attack on Ukraine",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkk1akhrWGtLNkIwT05XbjI4YkZnVElfd1E3TkNhZE5VMGtRNm53NUc4SFZDT0dSZWU2Qkp5R3dLZ095WjQ0c3RIRk5QWFNlS3h3YWRxalRTREtPX0ctWEozOXBRTERnemdid3liZGFtUFBpdGZUdUM2LTY5a01vQVdEdTVOYWdDV0g0TExsRHd5MFZUMU05dHlERlY2d19EVUhmY3RPRlhONlktSHNrTE55NkrSAbQBQVVfeXFMUE5JNWpIa1hrSzZCME9OV24yOGJGZ1RJX3dRN05DYWROVTBrUTZudzVHOEhWQ09HUmVlNkJKeUd3S2dPeVo0NHN0SEZOUFhTZUt4d2FkcWpUU0RLT19HLVhKMzlwUUxEZ3pnYnd5YmRhbVBQaXRmVHVDNi02OWtNb0FXRHU1TmFnQ1dINExMbER3eTBWVDFNOXR5REZWNndfRFVIZmN0T0ZYTjZZLUhza0xOeTZK?oc=5",
+   "source": "The New Voice of Ukraine",
+   "lang": "en",
+   "category": "ATM & Airspace",
+   "published": "2026-11-24T06:42:00Z"
+  },
   {
    "id": "40cd9d7854ca",
    "title": "United Airlines’ Most Frequent Boeing 777-200 Flights In 2026",
@@ -211,16 +744,6 @@
    "published": "2026-11-24T04:01:30Z"
   },
   {
-   "id": "f0e082542dae",
-   "title": "Grattan Institute launches fantasy plan to drive up airfares",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3VwT0dhcmpONzVId0FQbjlBQVZ6ZEsxLVhQR01mVERiNnUwcENrRllWNVdBQXU1Q3Q1U0ROYTdUMFpuWGFUVWFFQTVyYjhwUXhoT2hGWnJ1cW9iVlVodFYxZThPazRiUGNCUzNlcXJVZFA0aDZhc3VEaHd2NUdOMl9FbmtVLUV4OUhsUkFtcDVmS2JramdZeGRB?oc=5",
-   "source": "MacroBusiness",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-24T03:18:19Z"
-  },
-  {
    "id": "c4df016edde0",
    "title": "9H-VCC - Bombardier Challenger 350 - VistaJet",
    "summary": "",
@@ -271,10 +794,10 @@
    "published": "2026-11-24T01:00:18Z"
   },
   {
-   "id": "f624a84ae3a5",
+   "id": "fca8450df02a",
    "title": "Air Europa lanza un pulso a Aena para competir en Barajas frente a Iberia",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNamF4WUdqZEhsQkJLTjJzT1ctTlFyenBuT29lLVc5R2JuZEU0dzhLWGR5c0RYcTFXZGl1X29DbUpyRzR1YnNqNnRZcmhoclZOR25YNjR2bGpLVEZaVkpUWFctcUxBSjJFUkVubnhYa19QOEIzdmhwN09MUzlrMWtsclhNVHBmMlVqNDI3UGNwelQtQ3RhSXJFRWdHWmRmNlVpbFd6d0c0VVRzQm9JQmR0aWszSHBaeGtWNkFJWtIBvAFBVV95cUxNamF4WUdqZEhsQkJLTjJzT1ctTlFyenBuT29lLVc5R2JuZEU0dzhLWGR5c0RYcTFXZGl1X29DbUpyRzR1YnNqNnRZcmhoclZOR25YNjR2bGpLVEZaVkpUWFctcUxBSjJFUkVubnhYa19QOEIzdmhwN09MUzlrMWtsclhNVHBmMlVqNDI3UGNwelQtQ3RhSXJFRWdHWmRmNlVpbFd6d0c0VVRzQm9JQmR0aWszSHBaeGtWNkFJWg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRHI3MGo1WkpkZTUzN2lZS1pyNjIwa2pqNUhxdGk3dmhzT21MdVA3R1FrNXZtWXZndkR2b01uanZhdHRmU2RzMnkyb3JxMjlNaVZ3cm80azh1dWRVTHFVZzZpM3JnWkVKQzBtbWN5NjZWUWtuaHBtU1pBV2xRRFZ0czhwMDFZdVFfWkRwMTlhMXNab1dNX2pkWUhVX3hGNi1uUEpRT2tvYUlvcmZMRloxaEJrcDlKVUNMOENBb9IBvAFBVV95cUxNamF4WUdqZEhsQkJLTjJzT1ctTlFyenBuT29lLVc5R2JuZEU0dzhLWGR5c0RYcTFXZGl1X29DbUpyRzR1YnNqNnRZcmhoclZOR25YNjR2bGpLVEZaVkpUWFctcUxBSjJFUkVubnhYa19QOEIzdmhwN09MUzlrMWtsclhNVHBmMlVqNDI3UGNwelQtQ3RhSXJFRWdHWmRmNlVpbFd6d0c0VVRzQm9JQmR0aWszSHBaeGtWNkFJWg?oc=5",
    "source": "Expansión",
    "lang": "es",
    "category": "Airports",
@@ -471,16 +994,6 @@
    "published": "2026-11-23T20:00:11Z"
   },
   {
-   "id": "65e1daf5e754",
-   "title": "Ethiopia, Indonesia, Oman, and Türkiye elected to ICAO Council",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkU4MzUtbmw3d1JiM3Y4V3BITWU5R2VqOVVVM2ZnQ2FGbjI4RWlrQkhyS3cxSmJmZHh1eGlFRHo1S1BFS0dsVDRzY2g3QkpmZy0yRHNYLUdGWTVtQURJSnFsdm5uSjZIMmdmalRCN1FFVV9DRmhYVWdCODZ0UDkwS1Y1YzZkVHg1cnc?oc=5",
-   "source": "International Civil Aviation Organization",
-   "lang": "en",
-   "category": "Regulation",
-   "published": "2026-11-23T19:14:22Z"
-  },
-  {
    "id": "78f5bf381e16",
    "title": "NATO to send early-warning system aircraft to Poland after missiles incident",
    "summary": "",
@@ -511,14 +1024,24 @@
    "published": "2026-11-23T18:42:52Z"
   },
   {
-   "id": "57dd1598c2a7",
+   "id": "d98cad7efb6d",
    "title": "Trump Says China May Buy 250 More Boeing Jets, But Firm Orders Remain Unclear",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSW51ME0wekcyUGU5cDFBMWd4aGFNNWtodmdoVGxJRU81QndibTB1YnBTYkJJMnNBblJPTWtWdUQxOThTUG5TWm5vY3o5anRvem5KcEVRQVFOcG5Wc2JTMVJGRk4wOS1HUDZxdTBERmVLY3BRZ29XcldLVk1yUW8tUFpWdEtBVTdOYjdvZFctZlRRVTlENVkxWFFMcDZSNGtydG1IdG90TVJja0QyUlJnX01Ddw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVEk2Q1ZmLW1rTHI2RXBsMFA2eWdTR0FyOG5ud2VfaElCLXFZSzBqZW1INHlsdWpKUzFoSTZRNVgybEhpWG9raXlYV3g5dmFZVG5UQjJHcEJJUFhRNnZ0RC1Ua0dic0ZVTEt1WVk5bGU3a1NJSWMxb2l1bXkyNVpLZk5ncU1BOFExeVROb3BYcjhrMjd4MjF6M3FjcHhxRzZzSE1vd1BoUFNPSFpjUFE?oc=5",
    "source": "AeroXplorer",
    "lang": "en",
    "category": "Manufacturers",
    "published": "2026-11-23T18:41:48Z"
+  },
+  {
+   "id": "96aa3365fddc",
+   "title": "NATO Parliamentary Assembly convenes amid Russian airspace violations",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmR4a2xSWVJlVXFfTy1vR2JoMTV4VWlLQTBFaktoT3p6S3hMWWdUamxtQWNoNmtZVG9sT1Y4MTlpUGtkQ1ByZnNXbFY1Y1pvaXJyUnNFWE4ycmx4ZEhqNG1QZEJCcy1hcVFQT0F4SDVuM0hMUVNTMmswT0hjQ29ES1pCdXlJQ1JyaXBhYVU1ZHNIRWJsUUVNQzFEeFBkQXhUOTZCZ3drX2Y?oc=5",
+   "source": "DW.com",
+   "lang": "en",
+   "category": "ATM & Airspace",
+   "published": "2026-11-23T18:34:04Z"
   },
   {
    "id": "de0b8e00a0b9",
@@ -921,16 +1444,6 @@
    "published": "2026-11-23T10:30:38Z"
   },
   {
-   "id": "de71945fa24f",
-   "title": "Airborne 11.13.26: JMB's Stunning Stampe, Boeing Looks Up, Midway Museum",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2V2UG8tcktnV2xadDhyaWdZVG9VWE5fdTFRVU83cS1DSnJtck5OQ2FzenZKQ0dZdHI2ajhybWIzdlBZLXNmb0s1b01wTGp2T2xlVV9ES01KYlgzYVRmcnVEQnJaeHQwQTJqYUpEdlJuZTZiVkRhRjR2cm5VTUdXR0lqMnpNdjAxX3g0OHVIZU5yYnpBeEhr?oc=5",
-   "source": "Aero-News Network",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-23T10:14:09Z"
-  },
-  {
    "id": "598a5c2ec570",
    "title": "Boeing news roundup: FAA 787 inspections, 737 MAX 10 certification and new orders",
    "summary": "",
@@ -979,16 +1492,6 @@
    "lang": "en",
    "category": "Manufacturers",
    "published": "2026-11-23T09:16:26Z"
-  },
-  {
-   "id": "96aa3365fddc",
-   "title": "NATO Parliamentary Assembly convenes amid Russian airspace violations",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmR4a2xSWVJlVXFfTy1vR2JoMTV4VWlLQTBFaktoT3p6S3hMWWdUamxtQWNoNmtZVG9sT1Y4MTlpUGtkQ1ByZnNXbFY1Y1pvaXJyUnNFWE4ycmx4ZEhqNG1QZEJCcy1hcVFQT0F4SDVuM0hMUVNTMmswT0hjQ29ES1pCdXlJQ1JyaXBhYVU1ZHNIRWJsUUVNQzFEeFBkQXhUOTZCZ3drX2Y?oc=5",
-   "source": "DW.com",
-   "lang": "en",
-   "category": "ATM & Airspace",
-   "published": "2026-11-23T09:14:17Z"
   },
   {
    "id": "2803e498b207",
@@ -1041,16 +1544,6 @@
    "published": "2026-11-23T08:04:36Z"
   },
   {
-   "id": "7efa652af863",
-   "title": "F-GXLH - Airbus A330-743L Beluga XL - Airbus Transport International",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rbGlTZ0tUVDFoVHFXUk5PYnRuLWNUU3ExYXRUeFJvZDdBVldESi1YM1JPWjlwNkdhZGR2SnZvYUlNd3JmLWE3RUlJUy0xcEFUaW9ndUhnNmNCaWU2QUxn?oc=5",
-   "source": "Flightradar24",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-23T07:41:28Z"
-  },
-  {
    "id": "1d17262d6ab7",
    "title": "All 146 passengers and crew safe after Air Niugini makes emergency landing in Philippines",
    "summary": "",
@@ -1081,10 +1574,10 @@
    "published": "2026-11-23T06:00:18Z"
   },
   {
-   "id": "c2881fb3957e",
+   "id": "d0b8cb26ec9e",
    "title": "India readies to take off on SAF, as CORSIA deadline approaches",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMzlWdUtyZXFHOEZrMXEyTTZPVlU1b1Q0UFh0Z0ZDV0NYeXZkQXZnNkdCNTVDVEhJa05NX0FxTzBGRG1qdi1XbXdkT2JDUXR1WTBpYmxKZXQzYXFvUi1XRUtMMHZsWWNhai1PLXFhSGRSTmhwYzZzX2R4UlpUbFk2NE9YUmRDN2lHZFlaYjFXUFdWb09lQnQtOWdMOEVzcmhSV0ZuZmc3VEdObDRpZExqbHhGTXlzWEhNeXBYZWVPclV3X3Ey0gHEAUFVX3lxTE8zOVZ1S3JlcUc4RmsxcTJNNk9WVTVvVDRQWHRnRkNXQ1h5dmRBdmc2R0I1NUNUSElrTk1fQXFPMEZEbWp2LVdtd2RPYkNRdHVZMGlibEpldDNhcW9SLVdFS0wwdmxZY2FqLU8tcWFIZFJOaHBjNnNfZHhSWlRsWTY0T1hSZEM3aUdkWVpiMVdQV1ZvT2VCdC05Z0w4RXNyaFJXRm5mZzdUR05sNGlkTGpseEZNeXNYSE15cFhlZU9yVXdfcTI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ09Dd3EyV294VldDLWNzRGlTdDZEY1Y4eVhXM1hPd3E4dmhvcUdoYUU0NkE2SERhZjJnd05lUTROaFFYWlBNcHZFd1llZzdrdnJpc1FwV2JDeE1mXzJ0Q2ZueEhjOGFTNnFpUnNrV3NZOTNKYVJTazhkbV9IWEpBSWVPa2Q3LXdnbk12Q1JYdDMyMzZBYWk0dEVOeUpmMzl5VVZjOHB6UUFTZ1o2Q1NCcDZDSENNX1dlUTJQZmt30gHEAUFVX3lxTE8zOVZ1S3JlcUc4RmsxcTJNNk9WVTVvVDRQWHRnRkNXQ1h5dmRBdmc2R0I1NUNUSElrTk1fQXFPMEZEbWp2LVdtd2RPYkNRdHVZMGlibEpldDNhcW9SLVdFS0wwdmxZY2FqLU8tcWFIZFJOaHBjNnNfZHhSWlRsWTY0T1hSZEM3aUdkWVpiMVdQV1ZvT2VCdC05Z0w4RXNyaFJXRm5mZzdUR05sNGlkTGpseEZNeXNYSE15cFhlZU9yVXdfcTI?oc=5",
    "source": "The Hindu",
    "lang": "en",
    "category": "Sustainability",
@@ -1811,16 +2304,6 @@
    "published": "2026-11-21T21:40:24Z"
   },
   {
-   "id": "88e4677eefca",
-   "title": "Boeing Weighs More Layoffs As 737 MAX Output Boost Slows",
-   "summary": "The company is struggling to lift output to its target monthly number.",
-   "url": "https://simpleflying.com/boeing-wieighs-more-layoffs-737-max-output-slows/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-21T21:14:01Z"
-  },
-  {
    "id": "6ef5c8312d9d",
    "title": "Why Airliners Cruise Around 35,000 Feet Instead Of Flying Lower Or Higher",
    "summary": "Why do commercial airplanes cruise at 35,000 feet? Several aerodynamic, economic and operational factors determine how high airliners can fly.",
@@ -2129,496 +2612,6 @@
    "lang": "en",
    "category": "Manufacturers",
    "published": "2026-11-21T10:09:49Z"
-  },
-  {
-   "id": "87c02253043a",
-   "title": "Boeing 787 could reshape Malaysia Airlines' future fleet",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX1ptZGpKWmNWY1A0M3lLLTJ0dHB4Z2tFY1gzZHJEdTVQY2R6NVNtZVU1M2h6MUhHa0JvRWloRjdWdk1tUEJFSjR0emNFQ1RENjBuVXN5U1RGbUdHUTJoUnU3Y2l3d1hmQzFDaDYxUUxVbnk0RXBwM2RnYlNOYkZuTGVaQy0zZWRZV0FGejJLVDBuOWl3N25VLTZ4aGxYZmE4cDFoNll5eTQtckRkVkJLdjE4S0lOZjR1?oc=5",
-   "source": "KarloBag.eu",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-21T10:08:57Z"
-  },
-  {
-   "id": "0e4b03c61ea4",
-   "title": "flydubai Adds Tyumen Service From Dec 2026",
-   "summary": "Published at 0300PCT / 1000GMT 21NOV26 flydubai from late-December 2026 schedules new service to Russia, where the airline launches Dubai – Tyumen route on 19DEC26. Boeing 737 MAX 8 aircraft to serve this route twice weekly. Schedule below focuses on the period of 23DEC26 –…",
-   "url": "https://www.aeroroutes.com/eng/261121-fzdec26tjm",
-   "source": "AeroRoutes",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-21T10:00:46Z"
-  },
-  {
-   "id": "f3ae8d3bba2b",
-   "title": "SIM OPS Delivers EASA Extended Evaluation Training to Quadrant Pilot in the UK",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS1N0YXl2cThxOVc5a0JMXzZwYklFcXZ6UktwY3NlTml0eXV0ZDN3TF9VejdqcDFvVHlzaXhUN0txNEhKVGUwZ080MllLdHBKRUpEZUExWmg3c3hXRFJOTVJVaWhpd0JtOV9iZHRuLVlQOUUyc2JXNDhOTmxfQ2VQTkdRYjctLUJxY3VnNUlXTnNJZC04eDBSbjkyVQ?oc=5",
-   "source": "afm.aero",
-   "lang": "en",
-   "category": "Regulation",
-   "published": "2026-11-21T09:49:30Z"
-  },
-  {
-   "id": "b47e5abf5d80",
-   "title": "Terrorists plan serious attacks on commercial airlines, freights and Airports in November and December",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZXhJRExNSDdYZG85MnZxSkxrT09xd3J6VnJibXlXSE9hb1JiSDdlRzNidTYyb2doZnROeURGRlZGdXJ0OXVSMWhKV0RmN2pKQkZtYUNRWTRWQXltV3BDdUZTNmN4aWpzS1pMcHY5bldYOHVERFlTWklIcDFlWlFlUEx6Yko4VXktYnZTSTFwWGdVWW1RSWhjakpWSE5TY0otOTV4aFFSRF9uUEY1bjRHNVhLT2pmMng1YndhU0E1VFR1Z0tBblZv?oc=5",
-   "source": "The Tanzania Times",
-   "lang": "en",
-   "category": "Airports",
-   "published": "2026-11-21T09:36:13Z"
-  },
-  {
-   "id": "81ca1fcc4a47",
-   "title": "Was Moscow testing Europe with airspace violations?",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUkFzYTlIX01JYXpWQjN6R0pZanVWakU1RXg3S2h2MU11ZHFORUJBU05QN1h4RGdpdG1SOFJfcjFJV0x1SUUxakJLN2ZDbTI4UGU3MktSLUNBMFNuVVpWUjdPVnMydHBGX0xZTzg4dE1ScUdTVkpGTlRBVGI5clZDOVJNQjNXOGdwUVZPSFJhT04?oc=5",
-   "source": "DW.com",
-   "lang": "en",
-   "category": "ATM & Airspace",
-   "published": "2026-11-21T09:24:33Z"
-  },
-  {
-   "id": "7617a20a613a",
-   "title": "Lufthansa Ordered The Airbus A350-1000 In 2023 & Got It Before The Boeing 777-9 It Ordered In 2013",
-   "summary": "The delays affecting the 777-9 program and how the aircraft stacks up against the A350-1000.",
-   "url": "https://simpleflying.com/lufthansa-ordered-airbus-a350-1000-2023-before-boeing-777-9-ordered-2013/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "ATM & Airspace",
-   "published": "2026-11-21T09:00:17Z"
-  },
-  {
-   "id": "872e9c92d21d",
-   "title": "Air Arabia NW26 Sharjah – Moscow Service Increases",
-   "summary": "Published at 0200PCT / 0900GMT 21NOV26 Air Arabia during Northern winter 2026/27 season schedules service increase on Sharjah – Moscow Domodedovo route. From 12DEC26, service increases from 7 to 12 weekly, with up to 19 weekly flights scheduled between 23DEC26 and 12JAN27, 14…",
-   "url": "https://www.aeroroutes.com/eng/261121-g9nw26dme",
-   "source": "AeroRoutes",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-21T09:00:14Z"
-  },
-  {
-   "id": "de521442965d",
-   "title": "Türkiye Returns to ICAO Council After Seven-Year Absence",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkRVT21xVkFKcUZPZmN2SkxmSXRDbHVQcHRyRHJ0S3pZdFpKX0I3OElnV09kVVIzLTg5S05QcTc2T3o2THE1M1dYaFN0MEM2dkV1ZFg4U215LWFKQ0l6VEc5UHB0OFpEQU91X0xuRTE5b3RDQ2FhUGo2M2FKYndqeEtCMVRFTi1LY0kzdmU1OElKdw?oc=5",
-   "source": "Caspian Post",
-   "lang": "en",
-   "category": "Regulation",
-   "published": "2026-11-21T08:01:00Z"
-  },
-  {
-   "id": "0c7a05841c73",
-   "title": "Saudia Dec 2026 Dammam – London Heathrow Service Reductions",
-   "summary": "Published at 0100PCT / 0800GMT 21NOV26 Saudia during the month of December 2026 schedules service changes on Dammam – London Heathrow route, where the airline schedules 2 weekly flights for the period of 12DEC26 – 31DEC26, instead of 3 weekly. Boeing 787-9 operates this route…",
-   "url": "https://www.aeroroutes.com/eng/261121-svdec26dmmlhr",
-   "source": "AeroRoutes",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-21T08:00:59Z"
-  },
-  {
-   "id": "491f3bf4ccc8",
-   "title": "When Aviogenex’s first Boeing 737 crossed the Atlantic",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkZVeUJpUERFYjJJaWw1YnR2bmJpWF83cE1BZ3oyRTBTeXlkeW9IYy1uNlJFekpDSVRkY0wwcDhFZkZhT1NPSzRuX2tLaEMxVEljWEZpdmg0TjVBSVFaaC1OQ3g5N1BUUzN1MUo0YklWb0NSTm90T1RvbFU3MUFHdDZqZnA?oc=5",
-   "source": "EX-YU Aviation News",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-21T07:59:00Z"
-  },
-  {
-   "id": "7e296cc0f0f3",
-   "title": "Air Europa lleva al Supremo el plan de Aena para Barajas",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDWmR5eTdFRlR3ZExrczNiU3ZlRFJ4eWNZY1RSWUI5VDQwRFU0VXQtR0lzQ2xVNHFsTElmOTF5bEVYSl84Nm1IcVpZTXByRXd6TVdfZ3NHUVlrUURDdkZqVUhrNFJEYW1LNEJadmtSenZrNXc?oc=5",
-   "source": "Aviación Digital",
-   "lang": "es",
-   "category": "Airports",
-   "published": "2026-11-21T07:57:41Z"
-  },
-  {
-   "id": "c956ffd240b3",
-   "title": "Is it safe to fly over Saudi Arabia? What the Houthi warning to airlines means for flights",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUxfTzJmaDQ2RmhyTEY5Q2kyc0RGSnlCSXlhNW9TMldaN2FBWlphcTJrR1hBXzY1c0hkb3dXcGdKSk5jT0ZfdjlwUmZzZHZmcUFDQkp2YnlHU2lLN1NYbWVkTHR5UEZhamVfcVRnY3ZveHlURWFJZGM0dDc4cDlwTllNX0VUTHFTM2VwcVpPc0FMNlFhU2NKemJIa2l1MThhYXNZczA0a1AxeXNiMzhNcmRybFY?oc=5",
-   "source": "Nacionale",
-   "lang": "en",
-   "category": "Airlines",
-   "published": "2026-11-21T07:28:49Z"
-  },
-  {
-   "id": "395ba85330a0",
-   "title": "EU, UK Leaders Condemn Russian Violation of Polish Airspace",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnR2dxblJNSlM3NnA4R1pCVkh0eXhuSXZldEtnWFcySHdMRkdkb2pWNVlmN21RdW1EbEZnUVdzNDR0Uk1pTjc3VHg3UQ?oc=5",
-   "source": "Kyiv Post",
-   "lang": "en",
-   "category": "ATM & Airspace",
-   "published": "2026-11-21T07:01:20Z"
-  },
-  {
-   "id": "7dad2a2d7f19",
-   "title": "Air Niugini Boeing 767 passengers, crew safe after emergency landing in Philippines",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZWZZcTJ5RUd4b09tbFdRaVc3Mi01MEhkQlNlRUVqSk0wcDhYZGxLZzNFRFlqS1U0M0tEeHRaZm1lSGhwYnp2bXl5blh5MTVnRmVaOTkxdV9kSW53MUk2X2J5SWVhNW5yckJsV0NuclVWS1JkNW9seEx2WVBiNzB5MlExZUdYM3NHQkFETV9WRGY5Zmo2dXRsNnBMVVRyZUhsV2ZnTGs5cnVVN1d5OXB2Ylc3NWVpNHFRckhjTFhPeEk0V05namx1Q294TVRLMDdHQmxxStIB1AFBVV95cUxOZWZZcTJ5RUd4b09tbFdRaVc3Mi01MEhkQlNlRUVqSk0wcDhYZGxLZzNFRFlqS1U0M0tEeHRaZm1lSGhwYnp2bXl5blh5MTVnRmVaOTkxdV9kSW53MUk2X2J5SWVhNW5yckJsV0NuclVWS1JkNW9seEx2WVBiNzB5MlExZUdYM3NHQkFETV9WRGY5Zmo2dXRsNnBMVVRyZUhsV2ZnTGs5cnVVN1d5OXB2Ylc3NWVpNHFRckhjTFhPeEk0V05namx1Q294TVRLMDdHQmxxSg?oc=5",
-   "source": "Al Arabiya English",
-   "lang": "en",
-   "category": "Safety",
-   "published": "2026-11-21T06:57:00Z"
-  },
-  {
-   "id": "c2ad8d86361f",
-   "title": "The Manufacturing Decision Boeing Was Forced To Make When It Developed The 737 MAX",
-   "summary": "The inevitable limitations of rebuilding Boeing's 1960s jetliner for the 21st century.",
-   "url": "https://simpleflying.com/themanufacturingdecisionboeingwasforcedtomakewhenitdevelopedthe737max/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-21T06:00:17Z"
-  },
-  {
-   "id": "23f2cd931ed7",
-   "title": "Russia did not nominate a candidate to the ICAO Council after pressure from Ukraine, the United States and partners",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyT1FmcFJFeDctbDRwV1g1amVDS05YR2NIMWJDSU9xYzJRNmVQakc0S19pUWJBbWdkckNSNlhPNUJHVzVjWlNZYUJfMHROVmwwM1JNLVF0WUdmWTh4eHR4d29BT3FOck8xNzBlb0ZzOUVMNEY1ZGtRWkNJYWRSUQ?oc=5",
-   "source": "Mezha.net",
-   "lang": "en",
-   "category": "Regulation",
-   "published": "2026-11-21T05:46:31Z"
-  },
-  {
-   "id": "697f58b33cbf",
-   "title": "Lebanon's Beirut FIR Stays High Risk as EASA, Several States Advise Against Entry Except Over-Sea Beirut Flights",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83Y005cmxxc0JDMVFMR1dKUWc1RmZ6UEJwbnBseGlraTNadU00ejlXdWY3QWxZc2RHX3Jid0Q4MFJEd1VIRm5WckI3UEFmczlweE50ZjhlMW1ZMVpXUUtsRWZ3S0x6MmZILUswcjNld1pSSmM?oc=5",
-   "source": "Avi-Go",
-   "lang": "en",
-   "category": "Regulation",
-   "published": "2026-11-21T04:55:36Z"
-  },
-  {
-   "id": "c560bcbb042c",
-   "title": "Air Niugini flight makes safe emergency landing in Davao",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTVhlMENELVZqU2hzSHBFYkFmVEllLURMbzR5bmdpeElLUG0zVXdRZjZMbzduU2NxWWhXemd4Z2lQWXhuOW1NMmo5bHRGTWhZVVpJN3k4SlMzalJfLWJLX3JpWm9zSDE2eG9uVkl6MmNyVUxlUHhmcWZfMDF2YWNGX3hLNFpIZw?oc=5",
-   "source": "Ticker News",
-   "lang": "en",
-   "category": "Safety",
-   "published": "2026-11-21T04:10:58Z"
-  },
-  {
-   "id": "443bf34c3d00",
-   "title": "Air Niugini plane makes emergency landing in Philippines, all 146 safe",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObWFWZ0hvSHQwa2hpUTE0b0w1bXB5WlhxVkNieDNtX19HcEdVMTYtcW5SZm9rMi1jMEZpU1pJS0tTTmFad0NoVEZsSFhHNVVmLWRHUV9HajgtenlJcjUwQm5sMlJTNVdxNUVYUVJYVTNfb0gtNk9zZXpHd082Mmh3UF9uNGVLd1lzTXNZZzBYYmlhSmc0TjBISlRuRTlMOXA2MlM2ZUwtS2JRQ0JKZmFqNGFqamFyUmJnNzBLMTFyTEJ3LUpzeHEzQVpJQ3BzQTk0b1psUlVJYTlOQ2Y1SUhvVlJ4MUtnUdIB6wFBVV95cUxNR2ZFV0JDMDNpLUdCRjBpSlNwbFctZkJvWm5qYko4VUZiVDlCOUhtWUhrNTgzY3RobGFGejZUb3ZvUGF2S18wQXlpMWtXU0RnaExycGFCaThuUDJQc1dVUXZUVGY4YWZtaENrX1haem9UdGVnYjdxODdOVDUzZTVmaWZBcjg3YTgyQjdPaHhZWmkxZnJqZHR2MXlsVWR3MzFKTEE0ckJmeWhWSTRudFhKbjZNUFZIeklwcGV0ODZsUktsckxtRTk5bl93YkNMTmNJN1ZaQjctaXlFSV81d293MTZmazdkUU9ibjVR?oc=5",
-   "source": "The Times of India",
-   "lang": "en",
-   "category": "Safety",
-   "published": "2026-11-21T04:06:00Z"
-  },
-  {
-   "id": "74864db6199e",
-   "title": "Aena licita la desratización del aeropuerto de Loiu para los próximos tres años",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMzcwWk9vc0ctdE45U25OMmliWVFnT3VEOGxfZndaVFZqS1VYYWVsRXQzdXk4YXNwNFhEeGVPSHpRRFJWeHNNRVBKSXFDS3NwUjMwVFcxOEVZYkxRWTU1LThmSWlrT0FjaGdaQXlHU3Fnam96S285Q2pWcVowZjNac1lRQkJvUTVhY2MzMHlBZWJSTDVjMnlQZGcxVE5DYUtNRDBVbzZaWGdKV185U2pyMDF5ZG1YZ3dXbkg2TEV4TzFBMG9RSWplUzQzX2xNeGgyUklhMG90d1VoY3d0QWxJcklGWDd2cU5vUmp5eGc1UFI?oc=5",
-   "source": "Crónica Vasca",
-   "lang": "es",
-   "category": "Airports",
-   "published": "2026-11-21T04:00:00Z"
-  },
-  {
-   "id": "333962b8faaf",
-   "title": "All 146 Air Niugini plane passengers and crew safe after an emergency landing in Philippines",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHM1dpaWw0dk9XMWg1WHNjQTExakt2dmZaa2l5RzZNbEUwQmxkdjdobjlqV1FEVmZGQnduR3NxaEp3cGQ1ZEpMVDF3OUlSNlR2dHZFSEtQd195SG15SWlyZ2wyQ2xHWmNCM3Nuc3lNeWNudjVNVURCUU1ORXUwUQ?oc=5",
-   "source": "Yahoo News Canada",
-   "lang": "en",
-   "category": "Safety",
-   "published": "2026-11-21T03:53:00Z"
-  },
-  {
-   "id": "29c765e99b4e",
-   "title": "NTSB: Improper maintenance led to deadly 2024 Kamaka Air crash",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0c5NF9DNUFnb3RJQjJKZVZDYkloeWlYNmdKaGdqMi1iY2gxNjJ1QXp5RTVuVGVjS2VhQVgzVjUyRFNwcnF4RWpMcll0S1FyVmxlUE9SMVZfdFlQYnI3eGRvUUl4elNsS3ZyNF9CZDdhV3E3Skg0eEFTNlJpN25MdjNmUXFxUTJxYnFrZ2s0ZkdYZDdQR1kzUUFZSnJzNnRpMmfSAbYBQVVfeXFMT1FyMWFzZDg2Yy1XcmVubzlSQ2RtODJ2Y2U4Q1RzZXVmVWtnZHVYUllyYWo4STJZSmhJZHRCX1dRc2VsbFktMnJwcEhlUGoyelAtdGt1VTBWQ2JvMEpkRnhRdW1pM0RLeHdoZ3BST2pBdm9YUUdISEtyUU1pSm5MU05LeEJZbGRmZUcxUXNqakdNMExWTjJlUzRJdG4xSFhyTkw2aVE5OTZkb3dleFJveExnU2JudUE?oc=5",
-   "source": "Hawaii News Now",
-   "lang": "en",
-   "category": "Safety",
-   "published": "2026-11-21T03:43:00Z"
-  },
-  {
-   "id": "e493ceb3efe6",
-   "title": "All 146 Air Niugini plane passengers, crew safe after an emergency landing in Philippines",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeFlYaEhmRzk5c2xld0hmY3B1QU9LM1RpTFdwNENGdnoybFJINzRlM01ScmlIYmZpTGpNdHYxNWhKbzJrbnB2SUxLbzlmY3Z2di12YldrOENmeDFRekoyQ0pZbVoxUFZvNmVNWjY3ay1UejQwWURnUHZKaWl4WFZobTBZaTJYaWJuOUtINGlveG1ncVdlQUwwUA?oc=5",
-   "source": "CNA",
-   "lang": "en",
-   "category": "Safety",
-   "published": "2026-11-21T03:10:00Z"
-  },
-  {
-   "id": "3ff6970a0552",
-   "title": "Why Virgin Atlantic Is Targeting The 40 RAF Pilots Keeping Britain's F-35 Fleet Flyable",
-   "summary": "Virgin Atlantic has campaigned to entice former RAF fast jet pilots to fly for them on long-haul transatlantic routes.",
-   "url": "https://simpleflying.com/why-virgin-atlantic-targeting-the-40-raf-pilots-britain-f-35-fleet-flyable/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-21T02:45:17Z"
-  },
-  {
-   "id": "40418602a343",
-   "title": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV3ZsTlVPVEN2STFrWVYtZFA1eWpCd3BxdHhwU1U5Zm5JeFdTVXJmUXYyamFEZklBdGZxVE1rN3VtSDZLWDhzNGVnT294RkxVbGEwc1lVc1ViZ3Q3QVJYMG53bVNaeVNSbEVscnh1di1vNDBDQ0h1TkpGek00Y1BjeUJ2YVktZkYxcDdyVGZyalhkUkNob0FOejNCM0laNy04Mm1BUmtjR2dZa1dkdnBjRVEyZXRmdWNYODU2bnNkUnZNNndCb3N1NGpSNTEwRHR1VmN4dWs0ZDRhTDZvM3Bwak85Zw?oc=5",
-   "source": "The Guardian",
-   "lang": "en",
-   "category": "Safety",
-   "published": "2026-11-21T02:41:00Z"
-  },
-  {
-   "id": "fec076b2eb6b",
-   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wTkZBWEhyWUxyWHJPbmJIZ1pVcFZwMTkwQXduY1F5bWN0c0FfZ3o4SXJyd0FtckdncnJIbFRWcHo2bjFncDYwOGhZNERnUWRlWXNaWkVsUXBpX1E?oc=5",
-   "source": "BBC",
-   "lang": "en",
-   "category": "Industry",
-   "published": "2026-11-21T02:09:46Z"
-  },
-  {
-   "id": "1f25ec547274",
-   "title": "Why Are All Pratt & Whitney's GTF Engines Green On The Inside?",
-   "summary": "Two engineered components and one practical inspection benefit explain the teal ring inside Pratt & Whitney’s Geared Turbofan.",
-   "url": "https://simpleflying.com/pratt-whitney-gtf-green-inside/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-21T01:00:17Z"
-  },
-  {
-   "id": "41a29ac9408c",
-   "title": "Is It True That The Boeing 747-8 & 787 Dreamliner Are Powered By The Same Engine?",
-   "summary": "Comparing and contrasting two leading American widebodies.",
-   "url": "https://simpleflying.com/true-boeing-747-8-787-dreamliner-powered-by-the-same-engine/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-21T00:20:26Z"
-  },
-  {
-   "id": "22eb319d00cf",
-   "title": "Ethiopia Elected to ICAO Council as Africa’s Sole Representative",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOamw2QUNCNkZDS0hSTVlJT0U2MTRoeTd3c2dRd2ZyYjVuRWpHX1ZnOTM1SXlpbTl4NUFCcWZuZ0ZaTEtxS2lWdzVFZ21LUnFRQTdlSHNSQUMxU1U5cnFRNjhSRkw0REFRVHFhTXBPSVZtZk9EdFhvYmRZMEJjZ2JIZ25KdjRhSWxsZHdQeTQ0b0RzOUotYkEyY2RDdw?oc=5",
-   "source": "Fana Media Corporation S.C",
-   "lang": "en",
-   "category": "Regulation",
-   "published": "2026-11-21T00:19:35Z"
-  },
-  {
-   "id": "8f215ffbb517",
-   "title": "Here's How Much The 787 Dreamliner Heavily Influenced Boeing's 747-8 Development",
-   "summary": "The 787 and 747-8 represent a distinct moment in Boeing manufacturing history.",
-   "url": "https://simpleflying.com/how-much-787-dreamliner-heavily-influenced-boeing-developent-747-8/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-21T00:00:18Z"
-  },
-  {
-   "id": "c703d1b7f23e",
-   "title": "Aviation Gems: The Airbus A380 Is The Largest, But The Boeing 747-8 Actually Holds 2 Worldwide Titles",
-   "summary": "A closer look at the edge that Boeing's iconic 747 still holds over the gargantuan Airbus A380 to this day.",
-   "url": "https://simpleflying.com/airbus-a380-largest-boeing-747-8-2-worldwide-titles/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-20T23:00:18Z"
-  },
-  {
-   "id": "3c0d87a74c9a",
-   "title": "NATO calls Russian missiles landing in Poland a 'grave violation' of airspace",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdEJMSXE4eGoxYm9Cb19yMF8wNDNKbndJcHl1dmVpM3BReXNfRVpLdEZuaXZWdVV6SHFTZ0l6OUNMRTgzMGFQRGtaQ2c1dWMwelltdGRYd0xqc1lBTkhqekUwc2dqWWdlUWhRbEpISXo1WUptYU9XRXIzWVRGYnlKLUN0ZjlZcWRIcU9mWmtYa1dPSk94dm93RGlDVWhHUHZwNHFJWF9XWUxvNFJMZlZn0gG0AUFVX3lxTE9LQzd0M2lzY1ZpX01XSlZZM2RJV05WTkZXTGkxOWQ2N1I1NVkySWJCYi1MT2RPR0hMQnRyNXFscndMNTFiT2YyLXdiYWZsRW9SMVBqbi1YRDc4WE1aMjNIaEVJOTl2dTFnSnpYUlBXemtiRzhVNVNlWmtxRmVzUWp4bTZfZVktOXJ2M01IcmJicEl4OHJNTl9jS2VJZUtubHNlanNBZTdqR1Fxa0E5eVVMOTV0Rw?oc=5",
-   "source": "PBS",
-   "lang": "en",
-   "category": "ATM & Airspace",
-   "published": "2026-11-20T22:42:43Z"
-  },
-  {
-   "id": "8ef45e8b7154",
-   "title": "Why The Flying Wing Never Became A Commercial Airliner",
-   "summary": "A 172-foot tailless prototype chased efficiency as early pilots wrestled with yaw instability and control limits.",
-   "url": "https://simpleflying.com/flying-wing-never-became-passenger-airliner/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Airlines",
-   "published": "2026-11-20T22:01:19Z"
-  },
-  {
-   "id": "1a67b7985483",
-   "title": "Private Pilot Disputes Trump’s Claim That He Used Non-US ATC To Fly In US Airspace Before Office",
-   "summary": "A private pilot challenges Trump's renewed claims about foreign air traffic control as the FAA faces renewed scrutiny.",
-   "url": "https://simpleflying.com/private-pilot-dispute-trump-claim-non-us-atc-fly-us-airspace/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "ATM & Airspace",
-   "published": "2026-11-20T21:54:56Z"
-  },
-  {
-   "id": "bef3f319939c",
-   "title": "Iraq selling two Boeing 747s stranded in Africa for 35 years for $1.8 million",
-   "summary": "Iraq is offering two Boeing 747s for sale for a combined $1.8 million after the aircraft spent 35…",
-   "url": "https://www.aerotime.aero/articles/iraq-boeing-747-sale-tunisia-35-years",
-   "source": "AeroTime",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-20T21:02:00Z"
-  },
-  {
-   "id": "48b37385fdb3",
-   "title": "Flexibility: How Flight Attendants Can Be Displaced From Their Schedule With Little Notice",
-   "summary": "Rarely does a schedule go to plan.",
-   "url": "https://simpleflying.com/flight-attendants-displaced-schedule-little-notice/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-20T21:00:18Z"
-  },
-  {
-   "id": "6f1445577fd2",
-   "title": "Russian missiles over Poland, European troops in the mud: Ukraine’s defence force is taking shape",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZTRwVTJRR0hzVFRIelJrVldUWU0xNzJ5dlVNcjdHYVZwTW16YnFrcGdFeDNQQXlySmxSeld1UlJpUHAzLUoyM0RfOUdBTU1SZUIxN2gxSW02YjFZR3lNMEVzM0I4c2N5ZHI1aHFQdWFVdFNLTXA3a0xKbzdCZXB3d1o2NG1aZ1pQZk05cHJpUnNKeU9pVHFpSXhEdFItbHFiY2pCQlJRRGZvV1JScnB5Z0stNm8yeTRLRFlUUHNsOTIyN0k?oc=5",
-   "source": "EUobserver",
-   "lang": "en",
-   "category": "Industry",
-   "published": "2026-11-20T20:33:20Z"
-  },
-  {
-   "id": "f1cbf7ce10ee",
-   "title": "Archer teams with Disney on aviation research, unveils Avengers-themed air taxi",
-   "summary": "Archer Aviation has teamed with Walt Disney Imagineering’s research and development arm to explore future transportation concepts, marking…",
-   "url": "https://www.aerotime.aero/articles/archer-disney-partnership-avengers-midnight-air-taxi",
-   "source": "AeroTime",
-   "lang": "en",
-   "category": "Industry",
-   "published": "2026-11-20T20:32:34Z"
-  },
-  {
-   "id": "265f3f029e64",
-   "title": "2 Virgin Australia Pilots Admit They’re Too Tired To Continue Flying, Immediately Offloaded",
-   "summary": "Two Australian pilots reported fatigue aboard a Boeing 737 flight to Adelaide and were immediately stood down, highlighting aviation safety protocols",
-   "url": "https://simpleflying.com/2-virgin-australia-pilots-admit-too-tired-continue-flying-immediately-offloaded/",
-   "source": "Simple Flying",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-20T20:05:38Z"
-  },
-  {
-   "id": "a84fb162dc15",
-   "title": "European troops rehearse postwar Ukraine mission in Poland amid Russian airspace breaches",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY2UteDJEcXZBSzRlRUZ3Y0ZqTFNrTTlqQ3VsM1RkQnNkeXBJd2JXdVNtQU9hSlplTnYyaW1zdVRLVGNYR2lVWXNnUDQ3RVJfTnIwTXdQcXhNMHpDeXpCZVJ0Mm41SDh4M0M1NTRSYTVDc0gzSHFjNDZtV0E4MFBwN0xMblZNY1JXSTFYaEV0UzB6WDA?oc=5",
-   "source": "TVP World",
-   "lang": "en",
-   "category": "ATM & Airspace",
-   "published": "2026-11-20T19:26:00Z"
-  },
-  {
-   "id": "c3ac9559548a",
-   "title": "Air Europa impugna el Dora III de Aena ante el Supremo por limitar su crecimiento en Barajas",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVDdveWUzSUVfd1o4WjZOeGpKX1YtSXVPYnFaVENudnU4eWVpUVNuT3Nidk4tQlhQeWhDUVJCdnkxRG1ERHlRSmZrSUFmVGFLRlZnbVJPMlV0MHlqaF93UDZldWFxTDA1djV4N1J2V1FWRmVrdl9JcE1STjBsV1dEbEZESmhYTXU4QlFWN1c4YVJMTHhJTUlQaHNUS2JPemtDYUVTVmtWTnRGQnNEYXRpbkRGVnlWSEkwRVUwd0MyS3FJMFl0N1RnNm5n?oc=5",
-   "source": "Expansión",
-   "lang": "es",
-   "category": "Airports",
-   "published": "2026-11-20T18:55:35Z"
-  },
-  {
-   "id": "b7c8aed55143",
-   "title": "Upcoming changes to ICAO 24-bit aircraft address allocation (ADDRp) for Electronic Conspicuity devices",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbmlldUhmSkVBYUlPLVNoSmdOMnBsZkZDdEExR2RPYTBPSGNZT1NwemVfaWlpY29oR28xYjRfTFZDd0M0eFJwWmN4RFRhMmszanc5UDNDVUtRMDFsSUdBZ0pHUU9saXBuNTRDQjlRLUhkNmFHVE8tdkNvT0tCNjdrc3JZNjFScWFqQ0NZdEw0QTBkd29FcjBoVjMzUkdObVEyN2hBRWpNczhkV18xVURCajkydjBTWFV6WFlDSVBMZm1jVDV6ZVIwaUNLVldyRVU?oc=5",
-   "source": "sUAS News",
-   "lang": "en",
-   "category": "Regulation",
-   "published": "2026-11-20T18:46:14Z"
-  },
-  {
-   "id": "ff83ba137b15",
-   "title": "Malaysia Airlines closes in on the Boeing 787-10 to renew its widebody fleet",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZERwZnFNOW5YQVpFMmpseVIyeG1ocWFad0ZpZ1ptOHg5S0plZDB5dEFvY0ZuNlNTZV9tN1ZOR3Z0aFEyWThYX2ZsNlN6QjgxaWlaMktzM1RISEp2THNvcTRMOUpqRmVWb09PTUxzRHBUUVJEX2l0em53VDhXRUVYMkh5ZV9YSTRfTHgwTnpiRXhlRzh4V3VHYThtWG4tbGJGOHlRekRDaHB1WXl4bG84NWNOUnhVdC1FajBjSVFtUWE5SGpHVGN5d291WEdhTFhqeEIwMkVTU3hJVzFjRjk4RWkwQm9pVHBDWTNORi14b1VFX0RNZmNUTG9QVkZOMHZlRUE?oc=5",
-   "source": "Aviacionline",
-   "lang": "en",
-   "category": "Manufacturers",
-   "published": "2026-11-20T18:16:53Z"
-  },
-  {
-   "id": "fc6fb15534c9",
-   "title": "Malaysia Airlines NS27 Busan Preliminary Frequency Changes",
-   "summary": "Published at 1100PCT / 1800GMT 20NOV26 Malaysia Airlines during Northern summer 2027 season tentatively files frequency changes on Kuala Lumpur – Busan route. From 31MAR27 to 30OCT27, the airline lists 3 weekly flights, instead of 4 weekly during winter season. Boeing 737 MAX 8…",
-   "url": "https://www.aeroroutes.com/eng/261120-mhns27pus",
-   "source": "AeroRoutes",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-20T18:00:58Z"
-  },
-  {
-   "id": "6548537a00b2",
-   "title": "Air Europa recurre ante el Supremo el DORA III de Aena por frenar su expansión en Barajas",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFdrY2p0ZXRtZXV5cUtTdE8yOVhXY1l4SHgzU1ljdnVqNmxxUVJqWEhGSHdVR2tFYzMzVUZMTG0zTE40ZHN2Wk1oTWMyV2lNREZVOVN1M3NHaC0tWjNMT3pLZ24tdkxtWTVqald3NlFMMnRsbGRDYkhsbU5MUnctNUJRU25SQmJLZ0Fub05LMnVuRXhVVDZHc2gtbEVoRkQ2dUxMbTBIVUJtX1o4RU5heHFGMEladkcxR2tKVHhQbE5ZUdIBxwFBVV95cUxPY19PWklObXd2NlNhWWV0dnNjSG1DcTZVWHJrZURpdUlVWVhCd2o4SHd0VzRESW1sYms1cUg2c0hCd3FTZl9rUVRqVkhUd3JuNV9JMXh0Q0RUaUZQVHQwcF9JZUlHM25vbFJtV3NqdW5KWi1VTlFNSDN1VEpOdlVvXzVvaTB3VkxFcktmcURFVzV1UEpDamFlR1d2TGFoNklzazBhME9yajRPZ3RueWhoNVZ4Sk4xLW1JVXVfZE5IVjY3aTdfNWFR?oc=5",
-   "source": "Demócrata",
-   "lang": "es",
-   "category": "Airports",
-   "published": "2026-11-20T17:52:36Z"
-  },
-  {
-   "id": "b6f654ab3fdf",
-   "title": "Private Jets Can Fly on Blended SAF, but Supply Is Thin and Costs Run Two to Five Times Conventional Fuel",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ial9OY2NBZHRMYkpkellYbUtPeDVFeVZQZjNzSzhVeUVxSF9ITDRxMkJmX2RRN2N6NFVxRjBjXzRla0FJRDRjZVFtQkhyc0tHaS1wX1VJZ1FWTzFDSmx0RTd3NE9ybm9iNDRPanlOUDl5NGs?oc=5",
-   "source": "Avi-Go",
-   "lang": "en",
-   "category": "Sustainability",
-   "published": "2026-11-20T17:08:14Z"
-  },
-  {
-   "id": "cb3fb90ae8e6",
-   "title": "European leaders rally behind Poland after Russian airspace violation",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkM0V0l3bWlKYV95b0JKcnZydHV3WFlHV1ZkREx2SmN4cVRIWkg3d2lYM1lYUTVnakFuRVRZaXpPc01Lamx1SnUwQm5xVjVrOEFrRHdxRmZ3SXBBM1FTU3JacDY2d2s1MjNfbGRWd3UyanBLNm1FaHcxY2dTemU1T25WcFpNejZWOHVjVnZwVGlaaDdIb283RnRCd2JPazdmQ252bWpfeVBDQ2tiSU4yY2dhMFVxcGM?oc=5",
-   "source": "TVP World",
-   "lang": "en",
-   "category": "ATM & Airspace",
-   "published": "2026-11-20T17:04:00Z"
-  },
-  {
-   "id": "82b71a326cd8",
-   "title": "Aero K Adds Cheongju – Matsuyama in 1Q27",
-   "summary": "Published at 1000PCT / 1700GMT 20NOV26 Korean carrier Aero K in the first quarter of 2027 plans to add Cheongju – Matsuyama route, with A320 aircraft operating 3 weekly flights. First flight is scheduled on 02JAN27. RF364 CJJ1450 – 1625MYJ 320 246 RF363 MYJ1725 – 1900CJJ 320 246",
-   "url": "https://www.aeroroutes.com/eng/2611120-rf1q27myj",
-   "source": "AeroRoutes",
-   "lang": "en",
-   "category": "Routes",
-   "published": "2026-11-20T17:00:59Z"
-  },
-  {
-   "id": "5b0f58cc3bc1",
-   "title": "Two men die after glider crashes into Loch Leven",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3aFBuS21IdHZURWVtSFVXUWtwUlo1MDJtSFhWTV9CT0R4eWRWS0s2WXVHREhaWFhpVFB6bVFUQUZLOGh6VVJkQWZJejRRUGtqbjFrLUhKdERQUlpIV0E?oc=5",
-   "source": "BBC",
-   "lang": "en",
-   "category": "Safety",
-   "published": "2026-11-20T16:41:21Z"
   }
  ]
 }
